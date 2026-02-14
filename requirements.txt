@@ -2,3 +2,4 @@ Sphinx
 sphinx_rtd_theme
 sphinx-lesson
 sphinx-rtd-theme-ext-color-contrast
+https://github.com/aaltoscicomp/sphinx-aaltoscicomp-branding/archive/master.zip
