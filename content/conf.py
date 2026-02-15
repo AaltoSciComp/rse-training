@@ -16,6 +16,7 @@ author = 'The contributors'
 extensions = ['sphinx_lesson',
               'sphinx_rtd_theme_ext_color_contrast',
               'sphinx_aaltoscicomp_branding',
+              'sphinx.ext.intersphinx',
               ]
 
 templates_path = ['_templates']
@@ -28,3 +29,10 @@ exclude_patterns = []
 
 html_theme = 'sphinx_rtd_theme'
 html_static_path = ['_static']
+
+
+intersphinx_mapping = {
+    'scicomp': ('https://scicomp.aalto.fi/', None),
+    'manuals': ('https://coderefinery.github.io/manuals/', None),
+    }
+intersphinx_disabled_reftypes = [ ]
