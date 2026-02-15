@@ -29,6 +29,18 @@ exclude_patterns = []
 
 html_theme = 'sphinx_rtd_theme'
 html_static_path = ['_static']
+html_theme_options = {
+    "prev_next_buttons_location": False,
+    "style_external_links": True,
+}
+html_context = {
+    #"github_url": "https://github.com/AaltoSciComp/rse-training/"
+    "display_github": True,
+    "github_user": "AaltoSciComp",
+    "github_repo": "rse-training",
+    "github_version": "main",
+    "conf_py_path": "/content/",
+}
 
 
 intersphinx_mapping = {
