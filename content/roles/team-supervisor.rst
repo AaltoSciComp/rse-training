@@ -20,6 +20,14 @@ Main challenges/pitfalls
 Expectations / checklists
 -------------------------
 
+* Ensure the team mentoring and onboarding system is working well, and
+  all team members are happy and have what they need.
+* Maintain contact with HR and Finance
+* Decide about matters for project funding.
+* Be aware of the team enough to know if there are problems, and
+  deal with them.
+* Intervene in projects for which the customer is not satisfied.
+* Coordinate hiring.
 
 
 External materials

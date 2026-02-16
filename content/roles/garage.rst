@@ -32,6 +32,23 @@ Main challenges/pitfalls
 Expectations / checklists
 -------------------------
 
+* Attend the garage whenever it's convenient (usually we have plenty
+  of people, so if something else comes up, do that instead).
+  However, attend often enough to stay connected to the team.
+* Treat all customers with the highest level of respect, regardless of
+  their background or current experience level.
+* Ensure that you understand the full scope of the customer's request
+  before diving in, especially the questions listed on
+  :doc:`help/index` (has it ever worked?  what are you trying to
+  accomplish?  what did you do?  what do you need?)
+* You may ask people to come back if you need more time to figure it
+  out, or you need a different person to be present.
+* Help as best you can and ask for help from others when needed.
+* Observe other answers so you can learn new things, and ask follow-up
+  questions once the customers leave.
+* Record visits in the garage diary, but don't make a big deal out of
+  gathering this information.
+
 
 External materials
 ------------------

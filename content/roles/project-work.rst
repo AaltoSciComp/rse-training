@@ -40,6 +40,25 @@ Main challenges/pitfalls
 Expectations / checklists
 -------------------------
 
+* When it's clear, negotiate and statr projects yourself
+* Use a researcher's mind and a developer's tools to solve
+* Maintain active communication with the customers, especially making
+  sure that we avoid common pitfalls:
+
+  * Appearing inactive when the customers appear inactive
+  * Doing the wrong thing unexpectedly
+  * Customers don't know what's going on
+
+* Discuss frequently with your mentors to ensure that you stay on
+  track and they have the info to jump in if needed.
+* Keep the customers up to date with what you are doing (for example
+  at least weekly but ideally more), in a language customers can
+  understand, in enough detail so that they can warn you if something
+  is going wrong.
+
+* Ask for help when you need it
+* Give a report in the RSE meeting once a project is done.
+
 
 External materials
 ------------------

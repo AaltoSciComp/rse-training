@@ -22,6 +22,25 @@ Main challenges/pitfalls
 Expectations / checklists
 -------------------------
 
+* Take part in the :doc:`instructor-kickstart`.
+* Optionally, take part in `CodeRefinery "train the trainer"
+  <https://coderefinery.github.io/train-the-trainer/>`__
+* Begin by co-teaching working lessons with experienced instructors.
+  Do this 1-2 times.
+* Prepare before teaching: :doc:`teaching-plan` and
+  :doc:`lesson-review`.
+* Set up you computer for teaching following all the best practices
+  (in addition to all the other things you learn during the instructor
+  kickstart).
+* Take on the role of primary instructor during workshops.
+* There are other things you can do as well:
+
+  * Broadcasting
+  * Video editing
+  * Course organizing
+  * Major lesson development
+  * etc.
+
 
 External materials
 ------------------

@@ -25,6 +25,17 @@ Main challenges/pitfalls
 Expectations / checklists
 -------------------------
 
+* Be a first line of contact to the unit (which doesn't necessarily
+  mean you should be getting all the personal email from them, but you
+  can grab their stuff from other issue trackers, etc).
+* Be aware of what is going on in your unit.
+* Be the voice of that unit to our team.
+* Stay in touch with the coordinators/leaders of the unit.
+* Where practical, go to the unit meetings and other events to
+  represent the team.
+* Run :doc:`/help/group-meetings` for groups within the unit, or at
+  least help arrange them and get others to come.
+
 
 External materials
 ------------------
