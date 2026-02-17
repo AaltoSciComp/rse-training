@@ -33,6 +33,13 @@ Expectations / checklists
 External materials
 ------------------
 
+* `The Manager's Path: A Guide for Tech Leaders Navigating Growth and
+  Change
+  <https://www.oreilly.com/library/view/the-managers-path/9781491973882/>`__
+  (book, available online from the Aalto library).
+
 
 Training program: materials and exercises
 -----------------------------------------
+
+Mostly mentored and learned on-the-job.

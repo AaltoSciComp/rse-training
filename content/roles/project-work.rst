@@ -70,8 +70,12 @@ External materials
 * :doc:`rse/procedures/project-administration`
 * :doc:`rse/procedures/prioritization`
 * Many other things on :doc:`rse/index`
+
+  * Checklists section
+
 * `Timetracking via Gitlab procedures
   <https://github.com/AaltoRSE/rse-timetracking/>`__
+
 
 Training program: materials and exercises
 -----------------------------------------

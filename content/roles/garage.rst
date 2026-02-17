@@ -51,7 +51,8 @@ Expectations / checklists
 * Ensure that you understand the full scope of the customer's request
   before diving in, especially the questions listed on
   :doc:`help/index` (has it ever worked?  what are you trying to
-  accomplish?  what did you do?  what do you need?)
+  accomplish?  what did you do?  what do you need?)  (Avoid the `XY
+  problem <https://en.wikipedia.org/wiki/XY_problem>`__.)
 * When someone departs garage, give them encouragement to keep trying
   themselves, that "yes this is hard, but you can do it".
 * You may ask people to come back another day (or schedule another
