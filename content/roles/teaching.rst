@@ -1,5 +1,5 @@
-Course instructor
-=================
+Teaching
+========
 
 Summary
 -------
@@ -10,6 +10,11 @@ bring projects into us.  When we see something that is taking up a lot
 of our support time, we can add it to our courses to save time
 long-term.
 
+Teaching isn't just being in front of people and talking, but there
+are very many parts to our collaborative teaching: co-teaching,
+collaborative notes, livestream broadcasting, lesson development,
+organizing courses, and more.
+
 
 Main challenges/pitfalls
 ------------------------
@@ -17,6 +22,8 @@ Main challenges/pitfalls
 * Getting use to the CodeRefinery teaching style (though once you are
   used to it, it's actually less work)
 * Managing time for lesson maintenance and development.
+* Teaching with the mindset of a learner (and what thy need to know),
+  not trying to teach them to be like you, an experienced RSE.
 
 
 Expectations / checklists
@@ -49,6 +56,8 @@ External materials
   (read the video description) by rkdarst
 * `Motivation to CodeRefinery instructor training
   <https://www.youtube.com/watch?v=61Cdi4Eje2Y>`__ by rkdarst
+  (includes ideas for teaching).
+* All :external+manuals:doc:`CodeRefinery manual pages <index>`
 
 
 Training program: materials and exercises
@@ -56,12 +65,11 @@ Training program: materials and exercises
 
 * :doc:`instructor-intro`
 * :doc:`instructor-kickstart`
+* `CodeRefinery Train the Trainer <https://coderefinery.github.io/train-the-trainer/>`__
 
 
 Other
 -----
 
 * Course arrangement
-* What courses to recommend
 * Teaching philosophy
-* Livestream teaching

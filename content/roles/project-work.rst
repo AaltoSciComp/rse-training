@@ -29,40 +29,51 @@ Main challenges/pitfalls
 ------------------------
 
 * Working within a research group, without actually being part of it.
-* Maintaining close enough communication so that expectaions are met.
+* Maintaining close enough communication so that expectations are met.
+* Fully understanding what's going on and the expectations.
 * Gracefully handle major changes to the plan, possibly throwing
   everything off track.
 * Gracefully handle customers who have something else come up and thus
-  stop being responsive to us at all.
-
+  stop being responsive to us at all.  Figuring out what you should do
+  then: how to avoid it looking like you were inactive when they come
+  back (unless that is what was desired).
+* Not recording or being clear when the project goals drift.  Then
+  ending up at a point where we and the customer have different
+  expectations and are unhappy.
+* Customers who don't know as much about the project as you do
+  (managing their expectations, keeping them in the loop, etc.).
 
 
 Expectations / checklists
 -------------------------
 
-* When it's clear, negotiate and statr projects yourself
-* Use a researcher's mind and a developer's tools to solve
+* When the request is clear and you can do things without help,
+  negotiate and start projects yourself.  When it's complex, use the
+  ideas from :doc:`planner`.
+* Use a researcher's mind and a developer's tools to solve the
+  customer's problems.
 * Maintain active communication with the customers, especially making
-  sure that we avoid common pitfalls:
-
-  * Appearing inactive when the customers appear inactive
-  * Doing the wrong thing unexpectedly
-  * Customers don't know what's going on
-
+  sure that we avoid common pitfalls (see above)
 * Discuss frequently with your mentors to ensure that you stay on
-  track and they have the info to jump in if needed.
+  track and they have the info to intervene if it ever became needed.
 * Keep the customers up to date with what you are doing (for example
   at least weekly but ideally more), in a language customers can
   understand, in enough detail so that they can warn you if something
   is going wrong.
-
-* Ask for help when you need it
+* Ask for help when you need it.
 * Give a report in the RSE meeting once a project is done.
 
 
 External materials
 ------------------
 
+* :doc:`rse/procedures/project-administration`
+* :doc:`rse/procedures/prioritization`
+* Many other things on :doc:`rse/index`
+* `Timetracking via Gitlab procedures
+  <https://github.com/AaltoRSE/rse-timetracking/>`__
 
 Training program: materials and exercises
 -----------------------------------------
+
+Demonstration: going through the rse-projects gitlab tracker

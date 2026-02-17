@@ -17,8 +17,20 @@ than typical research groups, and how we interact with research
 groups.  It's a much less individual role than an academic researcher,
 with different types of skills.
 
-What does "engineer" even mean?
+What does "engineer" even mean?  It's not just someone that knows some
+tools or practices.  It's someone who can balance the limits of
+technology, the needs of the customer, and broader costs (to the
+customer and society.  While a researcher can come up with ideas, and
+a developer can do the development they are asked to do, a RSE
+critically looks at the needs and comes up with the right solutions,
+taking into account the special needs and uncertainties of research.
 
+You should always keep in mind that we are here to help research and
+researchers, not technology.  This often means adapting the technology
+to what people actually need, not trying to force people to adapt to
+the technology.  We should give confidence to our customers to carry
+on by themselves after we are done.  We live and die by how our
+customers see us.
 
 What makes Aalto RSEs different from academic researches:
 
@@ -38,19 +50,17 @@ What makes Aalto RSE different from RSEs in other places:
   Our mission is much wider.
 
 
-* Help research and researchers
-  * We are also researchers
-  * Give confidence
-  *
-* Rescue from problems
-* Improve  scientific quality
-    * architect vs structural engineer
-* You don't have to know everything, just be good at explaining what you do know.
-
-
 
 Further reading
 ---------------
 
+* `Architects, engineers, and other infrastructure staff in
+  universities
+  <https://docs.google.com/presentation/d/1lF-2QtVa6obI_ceSYJ8wq0PhaiQVCf2Jmb_KUo6H-rQ>`__
+  by rkdarst.
+* `RSE lessons from Civil Engineering
+  <https://rkd.zgib.net/blog/rse-lessons-from-civil-engineering/>`__
+  by rkdarst
 * `A not-so-brief history of Research Software Engineers
   <https://www.software.ac.uk/blog/not-so-brief-history-research-software-engineers-0>`__
+* :doc:`rse/history`

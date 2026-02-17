@@ -2,10 +2,15 @@ Roles intro
 ===========
 
 This section lists various roles and the training for them.  The roles
-are not formal and in practice everything is merged together.
-However, for the purposes of getting started slowly and not having to
+are not very formal and in practice everything gets blended together
+However, for the purposes of new people getting started and not having to
 learn everything all at once, it makes sense to try to classify them
 somehow.
+
+Everyone will take their own path to get started.  Teaching these
+roles is mainly (in 2026) via mentoring.  Everyone make take their own
+path.  Also note this material is a work in progress and will be
+developed along with the mentoring.
 
 
 Role list
@@ -31,14 +36,14 @@ Role list
        they can be directed to other help (with advice).  Primary
        challenges include the huge variety of questions which may
        come, and the need to think on your feet.
-   * * Course instructor
-     * Teaches in courses, mainly using the CodeRefinery teaching
-       strategies of co-teaching, collaborative notes, and
-       livestreaming.  Teaches with compassion and always reminds
-       learners that stuff is actually difficult and people are not
-       alone.  Always maintains a critical mind about what should be
-       thought (as opposed to best practices that an instructor should
-       use).
+   * * Teaching
+     * Teaches (+other support) in courses, mainly using the
+       CodeRefinery teaching strategies of co-teaching, collaborative
+       notes, and livestreaming.  Teaches with compassion and always
+       reminds learners that stuff is actually difficult and people
+       are not alone.  Always maintains a critical mind about what
+       should be taught (as opposed to blindly recommending best
+       practices that aren't practical for the audienc).
    * * Project planner (architect?)
      * This person has enough broad experience to to untangle what the
        customer actually needs even when they may not know (or it may

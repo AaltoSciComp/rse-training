@@ -33,7 +33,7 @@ Expectations / checklists
 * Stay in touch with the coordinators/leaders of the unit.
 * Where practical, go to the unit meetings and other events to
   represent the team.
-* Run :doc:`/help/group-meetings` for groups within the unit, or at
+* Run :doc:`help/group-meetings` for groups within the unit, or at
   least help arrange them and get others to come.
 
 

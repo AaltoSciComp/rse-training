@@ -7,7 +7,7 @@ Summary
 The "SciComp garage" is our daily office hour, where people can come
 and ask us anything.  Answering these questions is a quite demanding
 responsibility, and you need to be able to think on your feet and not
-get stressed.
+get stressed when you don't know something.
 
 Garage is not just a time to help others, but the common time we can
 talk with each other, and most importantly learn from each others'
@@ -18,15 +18,22 @@ can learn more.
 
 Main challenges/pitfalls
 ------------------------
-* You will often be asked things you don't know right away.  (Broad
-  solution: ask for more info in the way you would debug.  For
+* You will often be asked things you don't know right away.  (A broad
+  solution is: ask for more info in the way you would debug.  For
   example, start by asking to share the screen and show the exact
   problem).
-* You need to be able to know who else to refer people to.
+* You need to be able to know other people (ASC/RSE/ITS/research
+  services/etc.), to be able to refer customers to them when appropriate.
 * A lot like the "planner" role, you need to be able to understand
   lots of different things and advise on the best solution trade-off
   for each customer individually, without the time to take a break to
   plan.
+* Helping people while still giving them confidence that they can and
+  should keep trying themselves (and not over-playing your
+  confidence).
+* "Too many cooks" problem when too many staff try to support the
+  same person, simultaneously asking questions and giving
+  instructions.
 
 
 Expectations / checklists
@@ -37,12 +44,19 @@ Expectations / checklists
   However, attend often enough to stay connected to the team.
 * Treat all customers with the highest level of respect, regardless of
   their background or current experience level.
+* Make sure someone greets all incoming customers.
+* For each support case, make sure that one person (and not more than
+  one) is the primary communicator, to prevent the customer from
+  getting overloaded.
 * Ensure that you understand the full scope of the customer's request
   before diving in, especially the questions listed on
   :doc:`help/index` (has it ever worked?  what are you trying to
   accomplish?  what did you do?  what do you need?)
-* You may ask people to come back if you need more time to figure it
-  out, or you need a different person to be present.
+* When someone departs garage, give them encouragement to keep trying
+  themselves, that "yes this is hard, but you can do it".
+* You may ask people to come back another day (or schedule another
+  meeting) if you need more time to figure it out, or you need a
+  different person to be present.
 * Help as best you can and ask for help from others when needed.
 * Observe other answers so you can learn new things, and ask follow-up
   questions once the customers leave.
