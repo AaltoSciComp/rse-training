@@ -2,12 +2,15 @@ Aalto RSE training
 ==================
 
 This site contains the Aalto RSE training program.  It's not a
-textbook, but a reference for use during mentoring and of what the
-expectations are.
+textbook or course, but a reference for use during mentoring and of
+what the expectations are - mainly of moving from an individual
+researcher to a consulting engineer in a team.
 
 This site is under construction and "wiki rules" are in effect: if you
 see something, just make the update.  Someone will come later and
-clean it up.  Current editor: rkdarst.
+clean it up.  I'm also happy if this is useful to others and there are
+suggestions to make it more useful outside Aalto.  Current editor:
+rkdarst.
 
 
 .. toctree::
