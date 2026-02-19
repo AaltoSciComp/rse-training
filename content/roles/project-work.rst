@@ -31,6 +31,9 @@ Main challenges/pitfalls
 * Working within a research group, without actually being part of it.
 * Maintaining close enough communication so that expectations are met.
 * Fully understanding what's going on and the expectations.
+* Realizing when the customer doesn't just need something done, but
+  needs help coming up with how to do it.  You are a researcher, not a
+  contracted developer.
 * Gracefully handle major changes to the plan, possibly throwing
   everything off track.
 * Gracefully handle customers who have something else come up and thus
@@ -48,8 +51,9 @@ Expectations / checklists
 -------------------------
 
 * When the request is clear and you can do things without help,
-  negotiate and start projects yourself.  When it's complex, use the
-  ideas from :doc:`planner`.
+  negotiate and start projects yourself.  When it's complex or there
+  is any chance that the customer needs you to help develop the idea,
+  use the ideas from :doc:`planner`.
 * Use a researcher's mind and a developer's tools to solve the
   customer's problems.
 * Maintain active communication with the customers, especially making

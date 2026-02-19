@@ -26,6 +26,8 @@ Main challenges/pitfalls
 * Customers may not know what they need (and maybe not even what to
   ask for).  If we do exactly what they ask, we may do the wrong
   thing.  We need to carefully work to find out what the goals are.
+  This is research, and you are a part of a research team, not a
+  contracted developer.
 * The job requires having a broad knowledge of what tools are
   available and even going and learning more to plan the project.
 * Defining what is our responsibility and what is the customer's
@@ -48,7 +50,8 @@ Expectations / checklists
   organize a planning meeting with the right people.
 * During the planning meeting, really figure out what the people need
   (which may require digging, and also helping to come up with what
-  the right solution is).
+  the right solution is).  Assume you are part of a research team, not
+  a contracted developer.
 * Use your experience and communication skills to develop a workable
   plan along with the customers.
 * Write down the plan so that everyone is on the same page and
