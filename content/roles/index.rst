@@ -54,10 +54,10 @@ Role list
        customer may not know what they need and conveying risks and
        limitations.
    * * Technical mentor
-     * Work with junior RSEs in the execution of projects, giving
-       pointers and co-working to teach the junior RSE new skills.
-       Mentors junior RSEs in our project process.  Primary challenges
-       include the hands-on teaching and knowing the tech.
+     * Work with junior RSEs (or researchers) in the execution of
+       projects, giving pointers and co-working to teach them new
+       skills.  Mentors junior RSEs in our project process.  Primary
+       challenges include the hands-on teaching and knowing the tech.
    * * Unit liaison
      * Keep active communication with the unit, including telling them
        about general RSE activities, attending unit meetings, and
@@ -67,3 +67,15 @@ Role list
      * Manage HR and financial practicalities, especially including
        ultimate responsibility for mentoring and productivity of all
        team members and the team itself.
+
+
+Someone somewhat humorously described these roles by what tools peolpe
+use:
+
+* Project work: code editor
+* Garage: zoom
+* Teaching: OBS and Twitch
+* Project planner: email & docs
+* Technical mentor: zoom or air (in-person sound transmission medium)
+* Unit liaison: coffee room
+* Team supervisor: spreadsheet

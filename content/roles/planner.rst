@@ -78,7 +78,7 @@ Expectations / checklists
 External materials
 ------------------
 
-* :doc:`Project starting template <https://docs.google.com/document/d/1XcxeNLRq0kOsFbDEmA7ArdbIrCVudMWHPFQsKRVcTIk>`__
+* `Project starting template <https://docs.google.com/document/d/1XcxeNLRq0kOsFbDEmA7ArdbIrCVudMWHPFQsKRVcTIk>`__
 * :doc:`rse/procedures/project-administration`
 * :doc:`rse/procedures/prioritization`
 * :doc:`rse/how-we-work`
