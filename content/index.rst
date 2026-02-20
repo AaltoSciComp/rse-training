@@ -41,28 +41,20 @@ person's onboarding plan.
 
 .. toctree::
    :maxdepth: 1
-   :caption: Tech stuff
+   :caption: Topical reference
 
-   tech
    it-in-aalto
-
-(section is not yet filled out.) This section is a collection of
-interesting reference links as RSEs are learning things, but also not
-intended to be followed one-for-one.
-
-
-.. toctree::
-   :maxdepth: 1
-   :caption: Data management and open science
-
    research-services-at-aalto
+   tech
    data-management
    ethics
    security
 
-(section is not yet filled out.)  This section also as a good
-reference for learning, but more about the broader picture than
-technology itself.  It's more worth everyone reading this.
+(section is not yet filled out.) This section is a collection of
+interesting links and things to learn as RSEs.  It's also not intended
+to be followed one-by-one but a general reference for what you may
+need to know, that is easy to be missed in academic training.  Your
+mentor will tell you what to focus on.
 
 
 .. toctree::
@@ -70,6 +62,6 @@ technology itself.  It's more worth everyone reading this.
    :caption: Other material
 
    12-session-plan
-   other-links
+   other-rse-training
 
 Other links and ideas not yet sorted to the above sections.
