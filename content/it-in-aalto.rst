@@ -5,13 +5,15 @@ IT in Aalto
 * Data storage
 * Compute services
 * Department IT
-    * Who is there
-    * Services
-    * CSIT
-    * PHYS IT
-    * 
+
+  * Who is there
+  * Services
+  * CSIT
+  * PHYS IT
+  * 
+
 * CSC
-    * HPC
-    * Data services
-    * Server computing services
-    * Teaching
+  * HPC
+  * Data services
+  * Server computing services
+  * Teaching

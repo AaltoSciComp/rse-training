@@ -68,7 +68,7 @@ Expectations / checklists
 External materials
 ------------------
 * `How to help someone use a computer
-  <https://www.librarian.net/stax/4965/how-to-help-someone-use-a-computer-by-phil-agre/>`
+  <https://www.librarian.net/stax/4965/how-to-help-someone-use-a-computer-by-phil-agre/>`__
   by Phil Agre
 * `How to ask for help with supercomputers
   <https://cicero.xyz/v3/remark/0.14.0/github.com/bast/help-with-supercomputers/main/talk.md/#1>`__

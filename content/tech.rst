@@ -63,8 +63,12 @@ There are a few other interesting CodeRefinery lessons: https://coderefinery.org
 HPC
 ---
 
-* Triton tutorials is what we expect our users to know, and reading through these is enough (it will be familiar): https://scicomp.aalto.fi/triton/#tutorials
-* And in general, browse (but not read in detail) the rest of the Triton  https://scicomp.aalto.fi/triton/
+
+* Triton tutorials is what we expect our users to know, and reading
+  through these is enough (it will be familiar):
+  https://scicomp.aalto.fi/triton/#tutorials
+* And in general, browse (but not read in detail) the rest of the
+  Triton https://scicomp.aalto.fi/triton/
 
 
 Programming
@@ -74,13 +78,19 @@ Python
 ~~~~~~
 
 * Python virtual environments and Conda environments: https://scicomp.aalto.fi/scicomp/python/ , https://scicomp.aalto.fi/triton/apps/python/
+
   * Be able to create a virtual environment
+
 * Python module/package structure
 * Python packaging
+
   * https://packaging.python.org/en/latest/tutorials/packaging-projects/
   * setup.py vs pyproject.toml (newer)
-* Python command line interfaces (argparse), installing interfaces via packages, ...
+
+* Python command line interfaces (argparse), installing interfaces via
+  packages, ...
 * Other steps for a good project
+
   * Good project structure (module-name/module_name/)
   * Command line interface
   * Modular and maintainable code

@@ -28,6 +28,9 @@ Expectations / checklists
 External materials
 ------------------
 
+* `How to help someone use a computer
+  <https://www.librarian.net/stax/4965/how-to-help-someone-use-a-computer-by-phil-agre/>`__
+  by Phil Agre
 * `Video: support services vs diversity <https://www.youtube.com/watch?v=z1VS1wleN-o>`__.
 
 
