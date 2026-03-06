@@ -61,6 +61,7 @@ Further reading
 * `RSE lessons from Civil Engineering
   <https://rkd.zgib.net/blog/rse-lessons-from-civil-engineering/>`__
   by rkdarst
+* :doc:`about/values-and-culture`
 * `A not-so-brief history of Research Software Engineers
   <https://www.software.ac.uk/blog/not-so-brief-history-research-software-engineers-0>`__
 * :doc:`rse/history`
