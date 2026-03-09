@@ -64,6 +64,10 @@ Expectations / checklists
   at least weekly but ideally more), in a language customers can
   understand, in enough detail so that they can warn you if something
   is going wrong.
+* Use the rse-projects repository issue tracker to keep track of what
+  is going on
+* Record worktimes via Halli {if,as} needed - and know if it should
+  be.
 * Ask for help when you need it.
 * Give a report in the RSE meeting once a project is done.
 
