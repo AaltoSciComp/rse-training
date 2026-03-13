@@ -1,0 +1,1093 @@
+
+
+<!DOCTYPE html>
+<html class="writer-html5" lang="en" data-content_root="./">
+<head>
+  <meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Aalto RSE training documentation</title>
+      <link rel="stylesheet" type="text/css" href="_static/pygments.css?v=b86133f3" />
+      <link rel="stylesheet" type="text/css" href="_static/css/theme.css?v=9edc463e" />
+      <link rel="stylesheet" type="text/css" href="_static/mystnb.11b39860a7a0cbfd473a3ad8a317855267ff0bd372690045ca344a6b62be495e.css" />
+      <link rel="stylesheet" type="text/css" href="_static/copybutton.css?v=76b2166b" />
+      <link rel="stylesheet" type="text/css" href="_static/togglebutton.css?v=9c3e77be" />
+      <link rel="stylesheet" type="text/css" href="_static/sphinx_lesson.css?v=e9df6548" />
+      <link rel="stylesheet" type="text/css" href="_static/term_role_formatting.css?v=4194e21c" />
+      <link rel="stylesheet" type="text/css" href="_static/sphinx_rtd_theme_ext_color_contrast.css?v=8e8ea19f" />
+
+  
+    <link rel="shortcut icon" href="_static/logo-hexagons-02-compact.svg.ico"/>
+      <script src="_static/jquery.js?v=5d32c60e"></script>
+      <script src="_static/_sphinx_javascript_frameworks_compat.js?v=2cd50e6c"></script>
+      <script src="_static/documentation_options.js?v=d6d90d09"></script>
+      <script src="_static/doctools.js?v=9bcbadda"></script>
+      <script src="_static/sphinx_highlight.js?v=dc90522c"></script>
+      <script src="_static/clipboard.min.js?v=a7894cd8"></script>
+      <script src="_static/copybutton.js?v=f281be69"></script>
+      <script src="_static/minipres.js?v=a0d29692"></script>
+      <script>let toggleHintShow = 'Click to show';</script>
+      <script>let toggleHintHide = 'Click to hide';</script>
+      <script>let toggleOpenOnPrint = 'true';</script>
+      <script src="_static/togglebutton.js?v=1ae7504c"></script>
+      <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
+    <script src="_static/js/theme.js"></script>
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" /> 
+</head>
+
+<body class="wy-body-for-nav"> 
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search" >
+
+          
+          
+          <a href="#" class="icon icon-home">
+            Aalto RSE training
+          </a>
+        </div><div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+              <ul>
+<li class="toctree-l1"><a class="reference internal" href="#document-what-is-a-rse">What is a RSE at ASC?</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">Roles</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="#document-roles/index">Roles intro</a></li>
+<li class="toctree-l1"><a class="reference internal" href="#document-roles/project-work">Project work</a></li>
+<li class="toctree-l1"><a class="reference internal" href="#document-roles/garage">Garage support</a></li>
+<li class="toctree-l1"><a class="reference internal" href="#document-roles/teaching">Teaching</a></li>
+<li class="toctree-l1"><a class="reference internal" href="#document-roles/planner">Project planner</a></li>
+<li class="toctree-l1"><a class="reference internal" href="#document-roles/technical-mentor">Technical mentor</a></li>
+<li class="toctree-l1"><a class="reference internal" href="#document-roles/unit-liaison">Unit liaison</a></li>
+<li class="toctree-l1"><a class="reference internal" href="#document-roles/team-supervisor">Team supervisor</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">Topical reference</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="#document-it-in-aalto">IT in Aalto</a></li>
+<li class="toctree-l1"><a class="reference internal" href="#document-research-services-at-aalto">Research services at Aalto</a></li>
+<li class="toctree-l1"><a class="reference internal" href="#document-tech">Tech stuff</a></li>
+<li class="toctree-l1"><a class="reference internal" href="#document-data-management">Data management</a></li>
+<li class="toctree-l1"><a class="reference internal" href="#document-ethics">Ethics</a></li>
+<li class="toctree-l1"><a class="reference internal" href="#document-security">Security</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">Other material</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="#document-12-session-plan">12 session training plan</a></li>
+<li class="toctree-l1"><a class="reference internal" href="#document-other-rse-training">Other RSE training</a></li>
+</ul>
+
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap"><nav class="wy-nav-top" aria-label="Mobile navigation menu" >
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="#">Aalto RSE training</a>
+      </nav>
+
+      <div class="wy-nav-content">
+        <div class="rst-content style-external-links">
+          <div role="navigation" aria-label="Page navigation">
+  <ul class="wy-breadcrumbs">
+      <li><a href="#" class="icon icon-home" aria-label="Home"></a></li>
+      <li class="breadcrumb-item active">Aalto RSE training  documentation</li>
+      <li class="wy-breadcrumbs-aside">
+              <a href="https://github.com/AaltoSciComp/rse-training/blob/main/content/index" class="fa fa-github"> Edit on GitHub</a>
+      </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+             
+  <section id="aalto-rse-training">
+<h1>Aalto RSE training<a class="headerlink" href="#aalto-rse-training" title="Link to this heading"></a></h1>
+<p>This site contains the Aalto RSE training program.  It’s not a
+textbook or course, but a reference for use during mentoring and of
+what the expectations are - mainly of moving from an individual
+researcher to a consulting engineer in a team.</p>
+<p>This site is under construction and “wiki rules” are in effect: if you
+see something, just make the update.  Someone will come later and
+clean it up.  I’m also happy if this is useful to others and there are
+suggestions to make it more useful outside Aalto.  Current editor:
+rkdarst.</p>
+<div class="toctree-wrapper compound">
+<span id="document-what-is-a-rse"></span><section id="what-is-a-rse-at-asc">
+<h2>What is a RSE at ASC?<a class="headerlink" href="#what-is-a-rse-at-asc" title="Link to this heading"></a></h2>
+<p>You can find plenty of definitions online: somewhere between
+researcher and software developer.  Researcher whose output is
+measured by software (or data), not journal publications.  And many
+more.</p>
+<p>These are all true, but not really relevant for our training in ASC.
+You know how to be a researcher (and can learn), and know how to use
+the tools of software, data, and computing (and can learn).  What we
+need to had is how to go from these to being a good collaborator
+between groups.  If you were just doing these things, a group would
+hire you themselves (possibly with our help).  What a new member needs
+to learn is how we operate as a team, how it’s similar and different
+than typical research groups, and how we interact with research
+groups.  It’s a much less individual role than an academic researcher,
+with different types of skills.</p>
+<p>What does “engineer” even mean?  It’s not just someone that knows some
+tools or practices.  It’s someone who can balance the limits of
+technology, the needs of the customer, and broader costs (to the
+customer and society.  While a researcher can come up with ideas, and
+a developer can do the development they are asked to do, a RSE
+critically looks at the needs and comes up with the right solutions,
+taking into account the special needs and uncertainties of research.</p>
+<p>You should always keep in mind that we are here to help research and
+researchers, not technology.  This often means adapting the technology
+to what people actually need, not trying to force people to adapt to
+the technology.  We should give confidence to our customers to carry
+on by themselves after we are done.  We live and die by how our
+customers see us.</p>
+<p>What makes Aalto RSEs different from academic researches:</p>
+<ul class="simple">
+<li><p>We focus on supporting other reserchears, instead of making our own
+research ideas.  (We do come up with plenty of new ideas, but it’s
+at the tool-layer, rather than the idea-to-publish layer).</p></li>
+<li><p>Our standards are higher.  We are expected to know our stuff, and
+not just be learning it while we are doing.  (this applies
+collectively, individually we are all learning new things)</p></li>
+</ul>
+<p>What makes Aalto RSE different from RSEs in other places:</p>
+<ul class="simple">
+<li><p>We tend to have a wider variety of small projects going on and we
+have more emphasis on teaching and general support.</p></li>
+<li><p>We are a research infrastructure organizationally located in an
+academic school.  We aren’t “IT people”, we are research support.
+Our mission is much wider.</p></li>
+</ul>
+<section id="further-reading">
+<h3>Further reading<a class="headerlink" href="#further-reading" title="Link to this heading"></a></h3>
+<ul class="simple">
+<li><p><a class="reference external" href="https://docs.google.com/presentation/d/1lF-2QtVa6obI_ceSYJ8wq0PhaiQVCf2Jmb_KUo6H-rQ">Architects, engineers, and other infrastructure staff in
+universities</a>
+by rkdarst.</p></li>
+<li><p><a class="reference external" href="https://rkd.zgib.net/blog/rse-lessons-from-civil-engineering/">RSE lessons from Civil Engineering</a>
+by rkdarst</p></li>
+<li><p><a class="reference external" href="https://scicomp.aalto.fi/about/values-and-culture/" title="(in Aalto Scientific Computing)"><span>Aalto SciComp values and culture</span></a></p></li>
+<li><p><a class="reference external" href="https://www.software.ac.uk/blog/not-so-brief-history-research-software-engineers-0">A not-so-brief history of Research Software Engineers</a></p></li>
+<li><p><a class="reference external" href="https://scicomp.aalto.fi/rse/history/" title="(in Aalto Scientific Computing)"><span>History of Aalto RSE</span></a></p></li>
+</ul>
+</section>
+</section>
+</div>
+<p>General background information.</p>
+<div class="toctree-wrapper compound">
+<span id="document-roles/index"></span><section id="roles-intro">
+<h2>Roles intro<a class="headerlink" href="#roles-intro" title="Link to this heading"></a></h2>
+<p>This section lists various roles and the training for them.  The roles
+are not very formal and in practice everything gets blended together
+However, for the purposes of new people getting started and not having to
+learn everything all at once, it makes sense to try to classify them
+somehow.</p>
+<p>Everyone will take their own path to get started.  Teaching these
+roles is mainly (in 2026) via mentoring.  Everyone make take their own
+path.  Also note this material is a work in progress and will be
+developed along with the mentoring.</p>
+<section id="role-list">
+<h3>Role list<a class="headerlink" href="#role-list" title="Link to this heading"></a></h3>
+<table class="docutils align-default">
+<thead>
+<tr class="row-odd"><th class="head stub"></th>
+<th class="head"><p>Responsibilities</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><th class="stub"><p>Project work</p></th>
+<td><p>The default RSE job: for a project, learn and/or apply the
+necessary scientific and technical background and work on it
+over time in close collaboration with the customers.  This
+includes project planning when projects are straightforward.
+Primary challenges include ongoing communication with the
+customers.</p></td>
+</tr>
+<tr class="row-odd"><th class="stub"><p>Garage support</p></th>
+<td><p>Help users with drop-in questions in garage and other
+short-term support.  Questions may be anything, and customers
+may be helped directly, you may call someone who can help, or
+they can be directed to other help (with advice).  Primary
+challenges include the huge variety of questions which may
+come, and the need to think on your feet.</p></td>
+</tr>
+<tr class="row-even"><th class="stub"><p>Teaching</p></th>
+<td><p>Teaches (+other support) in courses, mainly using the
+CodeRefinery teaching strategies of co-teaching, collaborative
+notes, and livestreaming.  Teaches with compassion and always
+reminds learners that stuff is actually difficult and people
+are not alone.  Always maintains a critical mind about what
+should be taught (as opposed to blindly recommending best
+practices that aren’t practical for the audienc).</p></td>
+</tr>
+<tr class="row-odd"><th class="stub"><p>Project planner (architect?)</p></th>
+<td><p>This person has enough broad experience to to untangle what the
+customer actually needs even when they may not know (or it may
+not be possible).  Meet with customers to create the initial
+project plan, critically ask questions, and guide the work.
+Mentors junior RSEs in the project process.  Primary challenges
+include understanding the optimal solution when even the
+customer may not know what they need and conveying risks and
+limitations.</p></td>
+</tr>
+<tr class="row-even"><th class="stub"><p>Technical mentor</p></th>
+<td><p>Work with junior RSEs (or researchers) in the execution of
+projects, giving pointers and co-working to teach them new
+skills.  Mentors junior RSEs in our project process.  Primary
+challenges include the hands-on teaching and knowing the tech.</p></td>
+</tr>
+<tr class="row-odd"><th class="stub"><p>Unit liaison</p></th>
+<td><p>Keep active communication with the unit, including telling them
+about general RSE activities, attending unit meetings, and
+keeping an active search for projects.  Primary challenges
+include networking with diverse busy people.</p></td>
+</tr>
+<tr class="row-even"><th class="stub"><p>Team Supervisor</p></th>
+<td><p>Manage HR and financial practicalities, especially including
+ultimate responsibility for mentoring and productivity of all
+team members and the team itself.</p></td>
+</tr>
+</tbody>
+</table>
+<p>Someone somewhat humorously described these roles by what tools peolpe
+use:</p>
+<ul class="simple">
+<li><p>Project work: code editor</p></li>
+<li><p>Garage: zoom</p></li>
+<li><p>Teaching: OBS and Twitch</p></li>
+<li><p>Project planner: email &amp; docs</p></li>
+<li><p>Technical mentor: zoom or air (in-person sound transmission medium)</p></li>
+<li><p>Unit liaison: coffee room</p></li>
+<li><p>Team supervisor: spreadsheet</p></li>
+</ul>
+</section>
+</section>
+<span id="document-roles/project-work"></span><section id="project-work">
+<h2>Project work<a class="headerlink" href="#project-work" title="Link to this heading"></a></h2>
+<section id="summary">
+<h3>Summary<a class="headerlink" href="#summary" title="Link to this heading"></a></h3>
+<p>“Project work” refers to any bigger projects done for customers.
+Typically, a customer will request something, it’s worked on over
+several weeks or months, and eventually it’s concluded.  There is
+often ongoing support and consultation afterwards.  Projects may take
+the form of long-term consulting or co-working, or a whole aspect of a
+project being independently delegated to the RSE.</p>
+<p>Initial planning is a major task, because far too often a project is
+started without a clear end goal.  This is normal for research, but
+when things are being given to an outsider to work on, the expectations
+are higher.  Often times, we have to help the customer figure out what
+they should want, but this starting planning is listed under
+<a class="reference internal" href="#document-roles/planner"><span class="doc">Project planner</span></a>.</p>
+<p>Since the starting process is described under <a class="reference internal" href="#document-roles/planner"><span class="doc">Project planner</span></a>, the
+major challenge of this section is communication and co-working
+practicalities.  How to record the time spent and effort?  How to keep
+an open communication with the customers, so that the project doesn’t
+go off the rails?  And so on.</p>
+</section>
+<section id="main-challenges-pitfalls">
+<h3>Main challenges/pitfalls<a class="headerlink" href="#main-challenges-pitfalls" title="Link to this heading"></a></h3>
+<ul class="simple">
+<li><p>Working within a research group, without actually being part of it.</p></li>
+<li><p>Maintaining close enough communication so that expectations are met.</p></li>
+<li><p>Fully understanding what’s going on and the expectations.</p></li>
+<li><p>Realizing when the customer doesn’t just need something done, but
+needs help coming up with how to do it.  You are a researcher, not a
+contracted developer.</p></li>
+<li><p>Gracefully handle major changes to the plan, possibly throwing
+everything off track.</p></li>
+<li><p>Gracefully handle customers who have something else come up and thus
+stop being responsive to us at all.  Figuring out what you should do
+then: how to avoid it looking like you were inactive when they come
+back (unless that is what was desired).</p></li>
+<li><p>Not recording or being clear when the project goals drift.  Then
+ending up at a point where we and the customer have different
+expectations and are unhappy.</p></li>
+<li><p>Customers who don’t know as much about the project as you do
+(managing their expectations, keeping them in the loop, etc.).</p></li>
+</ul>
+</section>
+<section id="expectations-checklists">
+<h3>Expectations / checklists<a class="headerlink" href="#expectations-checklists" title="Link to this heading"></a></h3>
+<ul class="simple">
+<li><p>When the request is clear and you can do things without help,
+negotiate and start projects yourself.  When it’s complex or there
+is any chance that the customer needs you to help develop the idea,
+use the ideas from <a class="reference internal" href="#document-roles/planner"><span class="doc">Project planner</span></a>.</p></li>
+<li><p>Use a researcher’s mind and a developer’s tools to solve the
+customer’s problems.</p></li>
+<li><p>Maintain active communication with the customers, especially making
+sure that we avoid common pitfalls (see above)</p></li>
+<li><p>Discuss frequently with your mentors to ensure that you stay on
+track and they have the info to intervene if it ever became needed.</p></li>
+<li><p>Keep the customers up to date with what you are doing (for example
+at least weekly but ideally more), in a language customers can
+understand, in enough detail so that they can warn you if something
+is going wrong.</p></li>
+<li><p>Use the rse-projects repository issue tracker to keep track of what
+is going on</p></li>
+<li><p>Record worktimes via Halli {if,as} needed - and know if it should
+be.</p></li>
+<li><p>Ask for help when you need it.</p></li>
+<li><p>Give a report in the RSE meeting once a project is done.</p></li>
+</ul>
+</section>
+<section id="external-materials">
+<h3>External materials<a class="headerlink" href="#external-materials" title="Link to this heading"></a></h3>
+<ul class="simple">
+<li><p><a class="reference external" href="https://scicomp.aalto.fi/rse/procedures/project-administration/" title="(in Aalto Scientific Computing)"><span>Project management: RSE perspective</span></a></p></li>
+<li><p><a class="reference external" href="https://scicomp.aalto.fi/rse/procedures/prioritization/" title="(in Aalto Scientific Computing)"><span>Prioritization and reporting</span></a></p></li>
+<li><p>Many other things on <a class="reference external" href="https://scicomp.aalto.fi/rse/" title="(in Aalto Scientific Computing)"><span>Research Software Engineers</span></a></p>
+<ul>
+<li><p>Checklists section</p></li>
+</ul>
+</li>
+<li><p><a class="reference external" href="https://github.com/AaltoRSE/rse-timetracking/">Timetracking via Gitlab procedures</a></p></li>
+</ul>
+</section>
+<section id="training-program-materials-and-exercises">
+<h3>Training program: materials and exercises<a class="headerlink" href="#training-program-materials-and-exercises" title="Link to this heading"></a></h3>
+<p>Demonstration: going through the rse-projects gitlab tracker</p>
+</section>
+</section>
+<span id="document-roles/garage"></span><section id="garage-support">
+<h2>Garage support<a class="headerlink" href="#garage-support" title="Link to this heading"></a></h2>
+<section id="summary">
+<h3>Summary<a class="headerlink" href="#summary" title="Link to this heading"></a></h3>
+<p>The “SciComp garage” is our daily office hour, where people can come
+and ask us anything.  Answering these questions is a quite demanding
+responsibility, and you need to be able to think on your feet and not
+get stressed when you don’t know something.</p>
+<p>Garage is not just a time to help others, but the common time we can
+talk with each other, and most importantly learn from each others’
+answers.  When you see someone give an answer you aren’t familiar
+with, always take the time to ask “what did you just do?” so that you
+can learn more.</p>
+</section>
+<section id="main-challenges-pitfalls">
+<h3>Main challenges/pitfalls<a class="headerlink" href="#main-challenges-pitfalls" title="Link to this heading"></a></h3>
+<ul class="simple">
+<li><p>You will often be asked things you don’t know right away.  (A broad
+solution is: ask for more info in the way you would debug.  For
+example, start by asking to share the screen and show the exact
+problem).</p></li>
+<li><p>You need to be able to know other people (ASC/RSE/ITS/research
+services/etc.), to be able to refer customers to them when appropriate.</p></li>
+<li><p>A lot like the “planner” role, you need to be able to understand
+lots of different things and advise on the best solution trade-off
+for each customer individually, without the time to take a break to
+plan.</p></li>
+<li><p>Helping people while still giving them confidence that they can and
+should keep trying themselves (and not over-playing your
+confidence).</p></li>
+<li><p>“Too many cooks” problem when too many staff try to support the
+same person, simultaneously asking questions and giving
+instructions.</p></li>
+</ul>
+</section>
+<section id="expectations-checklists">
+<h3>Expectations / checklists<a class="headerlink" href="#expectations-checklists" title="Link to this heading"></a></h3>
+<ul class="simple">
+<li><p>Attend the garage whenever it’s convenient (usually we have plenty
+of people, so if something else comes up, do that instead).
+However, attend often enough to stay connected to the team.</p></li>
+<li><p>Treat all customers with the highest level of respect, regardless of
+their background or current experience level.</p></li>
+<li><p>Make sure someone greets all incoming customers.</p></li>
+<li><p>For each support case, make sure that one person (and not more than
+one) is the primary communicator, to prevent the customer from
+getting overloaded.</p></li>
+<li><p>Ensure that you understand the full scope of the customer’s request
+before diving in, especially the questions listed on
+<a class="reference external" href="https://scicomp.aalto.fi/help/" title="(in Aalto Scientific Computing)"><span>Help</span></a> (has it ever worked?  what are you trying to
+accomplish?  what did you do?  what do you need?)  (Avoid the <a class="reference external" href="https://en.wikipedia.org/wiki/XY_problem">XY
+problem</a>.)</p></li>
+<li><p>When someone departs garage, give them encouragement to keep trying
+themselves, that “yes this is hard, but you can do it”.</p></li>
+<li><p>You may ask people to come back another day (or schedule another
+meeting) if you need more time to figure it out, or you need a
+different person to be present.</p></li>
+<li><p>Help as best you can and ask for help from others when needed.</p></li>
+<li><p>Observe other answers so you can learn new things, and ask follow-up
+questions once the customers leave.</p></li>
+<li><p>Record visits in the garage diary, but don’t make a big deal out of
+gathering this information.</p></li>
+</ul>
+</section>
+<section id="external-materials">
+<h3>External materials<a class="headerlink" href="#external-materials" title="Link to this heading"></a></h3>
+<ul class="simple">
+<li><p><a class="reference external" href="https://www.librarian.net/stax/4965/how-to-help-someone-use-a-computer-by-phil-agre/">How to help someone use a computer</a>
+by Phil Agre</p></li>
+<li><p><a class="reference external" href="https://cicero.xyz/v3/remark/0.14.0/github.com/bast/help-with-supercomputers/main/talk.md/#1">How to ask for help with supercomputers</a>
+by Radovan Bast</p></li>
+<li><p><a class="reference external" href="https://scicomp.aalto.fi/tech/online-work-and-support/" title="(in Aalto Scientific Computing)"><span>Online work and support</span></a></p></li>
+</ul>
+</section>
+<section id="training-program-materials-and-exercises">
+<h3>Training program: materials and exercises<a class="headerlink" href="#training-program-materials-and-exercises" title="Link to this heading"></a></h3>
+<ul class="simple">
+<li><p><a class="reference external" href="https://scicomp.aalto.fi/tech/user-support-responses/" title="(in Aalto Scientific Computing)"><span>How to actually respond to user support requests?</span></a></p></li>
+</ul>
+<p>Roleplay: run through a support request.</p>
+<p>Roleplay: Run though a support request where you don’t know the answer</p>
+<p>Roleplay: Run through a support request where you need to tell them
+you can’t help them.</p>
+<p>Roleplay: Garage, someone has only used AI and doesn’t know what their code does</p>
+<p>Roleplay: Discussing with another staff member about a sub-standard support session</p>
+</section>
+<section id="other">
+<h3>Other<a class="headerlink" href="#other" title="Link to this heading"></a></h3>
+<ul class="simple">
+<li><p>Psychology of support
+* How to help someone use a computer
+* Roleplay: garage help
+* Exercise: comment on a simulated bad support session
+* Roleplay: suggest to a colleague that their support could have been improved
+* Finding the real problem within the question</p></li>
+<li><p>Usability</p></li>
+<li><dl class="simple">
+<dt>Teamwork</dt><dd><ul>
+<li><p>Work together but one person in charge of each support session</p></li>
+</ul>
+</dd>
+</dl>
+</li>
+</ul>
+</section>
+</section>
+<span id="document-roles/teaching"></span><section id="teaching">
+<h2>Teaching<a class="headerlink" href="#teaching" title="Link to this heading"></a></h2>
+<section id="summary">
+<h3>Summary<a class="headerlink" href="#summary" title="Link to this heading"></a></h3>
+<p>Aalto RSE spends a significant amount of time teaching, because that’s
+a good way to help the widest number of people.  It also helps to
+bring projects into us.  When we see something that is taking up a lot
+of our support time, we can add it to our courses to save time
+long-term.</p>
+<p>Teaching isn’t just being in front of people and talking, but there
+are very many parts to our collaborative teaching: co-teaching,
+collaborative notes, livestream broadcasting, lesson development,
+organizing courses, and more.</p>
+</section>
+<section id="main-challenges-pitfalls">
+<h3>Main challenges/pitfalls<a class="headerlink" href="#main-challenges-pitfalls" title="Link to this heading"></a></h3>
+<ul class="simple">
+<li><p>Getting use to the CodeRefinery teaching style (though once you are
+used to it, it’s actually less work)</p></li>
+<li><p>Managing time for lesson maintenance and development.</p></li>
+<li><p>Teaching with the mindset of a learner (and what thy need to know),
+not trying to teach them to be like you, an experienced RSE.</p></li>
+</ul>
+</section>
+<section id="expectations-checklists">
+<h3>Expectations / checklists<a class="headerlink" href="#expectations-checklists" title="Link to this heading"></a></h3>
+<ul class="simple">
+<li><p>Take part in the <a class="reference external" href="https://coderefinery.github.io/manuals/instructor-kickstart/" title="(in CodeRefinery manuals)"><span>Instructor kickstart program</span></a>.</p></li>
+<li><p>Optionally, take part in <a class="reference external" href="https://coderefinery.github.io/train-the-trainer/">CodeRefinery “train the trainer”</a></p></li>
+<li><p>Begin by co-teaching working lessons with experienced instructors.
+Do this 1-2 times.</p></li>
+<li><p>Prepare before teaching: <a class="reference external" href="https://coderefinery.github.io/manuals/teaching-plan/" title="(in CodeRefinery manuals)"><span>Teaching plan</span></a> and
+<a class="reference external" href="https://coderefinery.github.io/manuals/lesson-review/" title="(in CodeRefinery manuals)"><span>Lesson review checklist</span></a>.</p></li>
+<li><p>Set up you computer for teaching following all the best practices
+(in addition to all the other things you learn during the instructor
+kickstart).</p></li>
+<li><p>Take on the role of primary instructor during workshops.</p></li>
+<li><p>There are other things you can do as well:</p>
+<ul>
+<li><p>Broadcasting</p></li>
+<li><p>Video editing</p></li>
+<li><p>Course organizing</p></li>
+<li><p>Major lesson development</p></li>
+<li><p>etc.</p></li>
+</ul>
+</li>
+</ul>
+</section>
+<section id="external-materials">
+<h3>External materials<a class="headerlink" href="#external-materials" title="Link to this heading"></a></h3>
+<ul class="simple">
+<li><p><a class="reference external" href="https://youtu.be/WjmttAniZX8?t=3">Demo of livestream teaching</a>
+(read the video description) by rkdarst</p></li>
+<li><p><a class="reference external" href="https://www.youtube.com/watch?v=61Cdi4Eje2Y">Motivation to CodeRefinery instructor training</a> by rkdarst
+(includes ideas for teaching).</p></li>
+<li><p>All <a class="reference external" href="https://coderefinery.github.io/manuals/" title="(in CodeRefinery manuals)"><span class="xref std std-doc">CodeRefinery manual pages</span></a></p></li>
+</ul>
+</section>
+<section id="training-program-materials-and-exercises">
+<h3>Training program: materials and exercises<a class="headerlink" href="#training-program-materials-and-exercises" title="Link to this heading"></a></h3>
+<ul class="simple">
+<li><p><a class="reference external" href="https://coderefinery.github.io/manuals/instructor-intro/" title="(in CodeRefinery manuals)"><span>Instructor introduction</span></a></p></li>
+<li><p><a class="reference external" href="https://coderefinery.github.io/manuals/instructor-kickstart/" title="(in CodeRefinery manuals)"><span>Instructor kickstart program</span></a></p></li>
+<li><p><a class="reference external" href="https://coderefinery.github.io/train-the-trainer/">CodeRefinery Train the Trainer</a></p></li>
+</ul>
+</section>
+<section id="other">
+<h3>Other<a class="headerlink" href="#other" title="Link to this heading"></a></h3>
+<ul class="simple">
+<li><p>Course arrangement</p></li>
+<li><p>Teaching philosophy</p></li>
+</ul>
+</section>
+</section>
+<span id="document-roles/planner"></span><section id="project-planner">
+<h2>Project planner<a class="headerlink" href="#project-planner" title="Link to this heading"></a></h2>
+<section id="summary">
+<h3>Summary<a class="headerlink" href="#summary" title="Link to this heading"></a></h3>
+<p>The “project planner” may be better called a project mentor, or
+architect, or something like that.  (If you have a better name, let me
+know).  This role takes a new project request from a customer,
+figures out what they actually need, and makes the plan for how to do
+it.  If the task is very clear, one could go straight to doing it
+(<a class="reference internal" href="#document-roles/project-work"><span class="doc">Project work</span></a>), but many times we are the computing expert,
+not the customers.  In these cases, we need to work with the customer
+(domain expert) to figure out what is needed.</p>
+<p>The “project planner” is distinct from <a class="reference internal" href="#document-roles/project-work"><span class="doc">Project work</span></a> since you
+may hand off the main work to someone else to actually do, possibly
+serving as their <a class="reference internal" href="#document-roles/technical-mentor"><span class="doc">Technical mentor</span></a> during the project.  In
+short, figuring out what to do is usually harder than doing it (at
+least it’s a different skill).  That’s why we have multiple people
+involved.</p>
+</section>
+<section id="main-challenges-pitfalls">
+<h3>Main challenges/pitfalls<a class="headerlink" href="#main-challenges-pitfalls" title="Link to this heading"></a></h3>
+<ul class="simple">
+<li><p>Customers may not know what they need (and maybe not even what to
+ask for).  If we do exactly what they ask, we may do the wrong
+thing.  We need to carefully work to find out what the goals are.
+This is research, and you are a part of a research team, not a
+contracted developer.</p></li>
+<li><p>The job requires having a broad knowledge of what tools are
+available and even going and learning more to plan the project.</p></li>
+<li><p>Defining what is our responsibility and what is the customer’s
+responsibility.</p></li>
+<li><p>Planning enough to know what to do, while taking into account that
+in research the long-term plan may not be known.</p></li>
+<li><p>Even after you do know what to do, explaining it clearly and
+concisely enough that the customers and others can understand what
+is happening. (This often happens when needing to present the
+project to more customers than the original ones.)</p></li>
+<li><p>All the risks that come with research and software development,
+combined.</p></li>
+</ul>
+</section>
+<section id="expectations-checklists">
+<h3>Expectations / checklists<a class="headerlink" href="#expectations-checklists" title="Link to this heading"></a></h3>
+<ul class="simple">
+<li><p>Serve as the second contact to projects (first contact may be
+someone hearing the broad idea and suggesting a meeting) and
+organize a planning meeting with the right people.</p></li>
+<li><p>During the planning meeting, really figure out what the people need
+(which may require digging, and also helping to come up with what
+the right solution is).  Assume you are part of a research team, not
+a contracted developer.</p></li>
+<li><p>Use your experience and communication skills to develop a workable
+plan along with the customers.</p></li>
+<li><p>Write down the plan so that everyone is on the same page and
+expectations are known across all sides.  Clearly allocate the
+different types of work to RSEs or academics.</p></li>
+<li><p>Avoid the <a class="reference external" href="https://en.wikipedia.org/wiki/XY_problem">XY problem</a>.</p></li>
+<li><p>Ensure that customers are aware of any risks and you have a plan if
+the risks come.</p></li>
+<li><p>Have initial finance discussions (team supervisor needs to finalize
+it).</p></li>
+<li><p>Present the project in the weekly RSE meeting and your evaluation if
+we should take it or not.  During this meeting, also help the team
+come up with the right people to do the project.  You don’t
+necessarily have to do every project yourself, even if you are
+involved in planning them.</p></li>
+<li><p>Have the courage to say “no” when that is the best answer.</p></li>
+<li><p>If someone else new is working on the projects, mentor them with the
+material from <a class="reference internal" href="#document-roles/project-work"><span class="doc">Project work</span></a>.</p></li>
+<li><p>If you aren’t working directly with the project, stay engaged enough
+to keep the project on-track, either as a <a class="reference internal" href="#document-roles/technical-mentor"><span class="doc">Technical mentor</span></a>,
+domain mentor, or general mentor role.</p></li>
+</ul>
+</section>
+<section id="external-materials">
+<h3>External materials<a class="headerlink" href="#external-materials" title="Link to this heading"></a></h3>
+<ul class="simple">
+<li><p><a class="reference external" href="https://docs.google.com/document/d/1XcxeNLRq0kOsFbDEmA7ArdbIrCVudMWHPFQsKRVcTIk">Project starting template</a></p></li>
+<li><p><a class="reference external" href="https://scicomp.aalto.fi/rse/procedures/project-administration/" title="(in Aalto Scientific Computing)"><span>Project management: RSE perspective</span></a></p></li>
+<li><p><a class="reference external" href="https://scicomp.aalto.fi/rse/procedures/prioritization/" title="(in Aalto Scientific Computing)"><span>Prioritization and reporting</span></a></p></li>
+<li><p><a class="reference external" href="https://scicomp.aalto.fi/rse/how-we-work/" title="(in Aalto Scientific Computing)"><span>Project management: researcher perspective</span></a></p></li>
+<li><p><a class="reference external" href="https://scicomp.aalto.fi/rse/group-leaders/" title="(in Aalto Scientific Computing)"><span>Project management: PI perspective</span></a></p></li>
+<li><p><a class="reference external" href="https://scicomp.aalto.fi/scicomp/zen-of-scicomp/" title="(in Aalto Scientific Computing)"><span>The Zen of Scientific computing</span></a></p></li>
+<li><p>… and almost everything else on <a class="reference external" href="https://scicomp.aalto.fi/rse/" title="(in Aalto Scientific Computing)"><span>Research Software Engineers</span></a></p></li>
+</ul>
+</section>
+<section id="training-program-materials-and-exercises">
+<h3>Training program: materials and exercises<a class="headerlink" href="#training-program-materials-and-exercises" title="Link to this heading"></a></h3>
+<p>Roleplay: Planning meeting of a new RSE project, including filling the
+template, making a Gitlab issue, etc.</p>
+</section>
+</section>
+<span id="document-roles/technical-mentor"></span><section id="technical-mentor">
+<h2>Technical mentor<a class="headerlink" href="#technical-mentor" title="Link to this heading"></a></h2>
+<section id="summary">
+<h3>Summary<a class="headerlink" href="#summary" title="Link to this heading"></a></h3>
+<p>The technical mentor isn’t so much a role, but skills that are used in
+all the other roles.  Mentoring is just so important that we give it a
+top-level entry.  A top-level entry also ensures that people can get
+credit for mentoring and reserve time for it.</p>
+<p>As of 2026, we think we do this fairly well.  Garage provides informal
+time for internal mentoring, and external mentoring.  We expect to
+hire people who are willing to speak up and ask for help (to pull in
+internal mentoring when they need it), but we need to be aware if this assumption
+ever breaks.</p>
+</section>
+<section id="main-challenges-pitfalls">
+<h3>Main challenges/pitfalls<a class="headerlink" href="#main-challenges-pitfalls" title="Link to this heading"></a></h3>
+<ul class="simple">
+<li><p>Mentoring is hard and a different job from doing things yourself.</p></li>
+<li><p>Computing is our life, but only a side-project for many of our
+customers.  We are happy to spend time experimenting and learning by
+doing, other customers may want a more direct solution.  Customers
+are very good at other things.</p></li>
+</ul>
+</section>
+<section id="expectations-checklists">
+<h3>Expectations / checklists<a class="headerlink" href="#expectations-checklists" title="Link to this heading"></a></h3>
+<ul class="simple">
+<li><p>Check <a class="reference internal" href="#document-roles/garage"><span class="doc">Garage support</span></a> for some relevant things.</p></li>
+<li><p>Treat all customers with the highest level of respect, regardless of
+their background or current experience level.</p></li>
+<li><p>Before diving into a session, make sure you explicitly discuss what
+the mentee wants and how they expect to get there.</p></li>
+<li><p>When done, ask if you have been helpful and have done what they
+needed.</p></li>
+<li><p>As a doctor, you learn to never ask patients ‘did you understand
+me?’  Instead, you always ask ‘did I explain it clearly enough?’”
+That way, the burden of understanding is on you, not the patient.
+The same philosophy is useful for technical mentoring.</p></li>
+<li><p>If users apologize for not knowing things, reject it - say “it’s OK,
+no one is born knowing this, everyone asks similar questions, etc.
+Learning is a long process, you’ve focused on other things.  We are
+here to help.”</p></li>
+<li><p>Plenty has been written about mentoring… I’m not going to write
+much more here right now.</p></li>
+<li><p>If a customer or mentee is ever frustrating you and you realize you
+are reaching your limits, recognize this.  Ask for help or even hand
+it off.</p></li>
+<li><p>If you realize that someone is completely in over their head and
+needs more fundamental help, also realize this and let your team
+leader know.</p></li>
+</ul>
+<p>Internal mentoring:</p>
+<ul class="simple">
+<li><p>Be aware of who is new on the team.  Talk to them.  Invite them to
+see what you do, when you do new things.  Tell them enough so that
+they’ll keep talking to you later.</p></li>
+<li><p>Give extra time to answer new people’s questions, go and screenshare
+and so on.</p></li>
+<li><p>As the team gets larger, don’t assume people will speak up as often
+as you did when the team was smaller.</p></li>
+</ul>
+</section>
+<section id="external-materials">
+<h3>External materials<a class="headerlink" href="#external-materials" title="Link to this heading"></a></h3>
+<ul class="simple">
+<li><p><a class="reference external" href="https://www.librarian.net/stax/4965/how-to-help-someone-use-a-computer-by-phil-agre/">How to help someone use a computer</a>
+by Phil Agre</p></li>
+<li><p><a class="reference external" href="https://www.youtube.com/watch?v=z1VS1wleN-o">Video: support services vs diversity</a>.</p></li>
+<li><p><a class="reference external" href="https://xkcd.com/2501/">XKCD #2501</a> (average familiarity)</p></li>
+<li><p>Carpenteries instructor training, <a class="reference external" href="https://carpentries.github.io/instructor-training/04-expertise.html">Expertise and instruction</a></p></li>
+</ul>
+</section>
+<section id="training-program-materials-and-exercises">
+<h3>Training program: materials and exercises<a class="headerlink" href="#training-program-materials-and-exercises" title="Link to this heading"></a></h3>
+<ul class="simple">
+<li><p>See <a class="reference internal" href="#document-roles/garage"><span class="doc">Garage support</span></a> - some of the materials and exercises there are
+relevant here and can sometime be split up.</p></li>
+</ul>
+</section>
+</section>
+<span id="document-roles/unit-liaison"></span><section id="unit-liaison">
+<h2>Unit liaison<a class="headerlink" href="#unit-liaison" title="Link to this heading"></a></h2>
+<section id="summary">
+<h3>Summary<a class="headerlink" href="#summary" title="Link to this heading"></a></h3>
+<p>A unit liaison mains close connection with the various other units,
+presenting the work of ASC to them and often being the first line of
+starting a new project.  They may be the <a class="reference internal" href="#document-roles/planner"><span class="doc">Project planner</span></a> of some of
+that unit’s projects, but they probably aren’t the only one doing
+that (and it isn’t necessarily the expectation).</p>
+<p>For example, we may have unit liaisons to CS, NBE, PHYS, FCAI, ELLIS,
+IT Services, etc.</p>
+</section>
+<section id="main-challenges-pitfalls">
+<h3>Main challenges/pitfalls<a class="headerlink" href="#main-challenges-pitfalls" title="Link to this heading"></a></h3>
+<ul class="simple">
+<li><p>It helps to have a pre-existing connection to the unit.</p></li>
+<li><p>It can be difficult to remember take the time to reach out when you
+have so many other things going on - it’s always a low priority,
+when you are already too busy with existing projects.</p></li>
+<li><p>It can be difficult to explain why we exist and why people should
+use our services (academics want to do things themselves).</p></li>
+<li><p>Customers expect you to have a broad knowledge of everything ASC
+does.</p></li>
+<li><p>All the typical things that are involved in being a customer
+relations person.</p></li>
+</ul>
+</section>
+<section id="expectations-checklists">
+<h3>Expectations / checklists<a class="headerlink" href="#expectations-checklists" title="Link to this heading"></a></h3>
+<ul class="simple">
+<li><p>Be a first line of contact to the unit (which doesn’t necessarily
+mean you should be getting all the personal email from them, but you
+can grab their stuff from other issue trackers, advise others when
+you see their issues, etc.).</p></li>
+<li><p>Be broadly aware of what is going on in your unit.</p></li>
+<li><p>Be the voice of that unit to our team.</p></li>
+<li><p>Stay in touch with the coordinators/leaders of the unit and get
+invitations to important events.</p></li>
+<li><p>Where practical, go to the unit meetings and other events to
+represent the team.</p></li>
+<li><p>Run <a class="reference external" href="https://scicomp.aalto.fi/help/group-meetings/" title="(in Aalto Scientific Computing)"><span>Group meetings</span></a> for groups within the unit, or at
+least help arrange them and get others to come.</p></li>
+</ul>
+</section>
+<section id="external-materials">
+<h3>External materials<a class="headerlink" href="#external-materials" title="Link to this heading"></a></h3>
+<ul class="simple">
+<li><p><a class="reference external" href="https://scicomp.aalto.fi/help/group-meetings/" title="(in Aalto Scientific Computing)"><span>Group meetings</span></a></p></li>
+<li><p><a class="reference external" href="https://docs.google.com/presentation/d/1t33sNafYre1RVplc2mGnGPCuHcuV-cZmHuCDImHRn3g">Aalto RSE for researchers 2025</a></p></li>
+</ul>
+</section>
+<section id="training-program-materials-and-exercises">
+<h3>Training program: materials and exercises<a class="headerlink" href="#training-program-materials-and-exercises" title="Link to this heading"></a></h3>
+<p>This is probably mentored and learned on-the-job.</p>
+</section>
+</section>
+<span id="document-roles/team-supervisor"></span><section id="team-supervisor">
+<h2>Team supervisor<a class="headerlink" href="#team-supervisor" title="Link to this heading"></a></h2>
+<section id="summary">
+<h3>Summary<a class="headerlink" href="#summary" title="Link to this heading"></a></h3>
+<p>The team supervisor is the one official responsible for the team.
+They manage the HR, finance, and organizational aspects.  They are
+ultimately responsible for making sure that every other part of the
+team works well.</p>
+</section>
+<section id="main-challenges-pitfalls">
+<h3>Main challenges/pitfalls<a class="headerlink" href="#main-challenges-pitfalls" title="Link to this heading"></a></h3>
+<ul class="simple">
+<li><p>It’s a different job that any of the other jobs.</p></li>
+<li><p>Aalto provides some training, but you still need to learn most
+things as you go.</p></li>
+</ul>
+</section>
+<section id="expectations-checklists">
+<h3>Expectations / checklists<a class="headerlink" href="#expectations-checklists" title="Link to this heading"></a></h3>
+<ul class="simple">
+<li><p>Ensure the team mentoring and onboarding system is working well, and
+all team members are happy and have what they need.</p></li>
+<li><p>Maintain contact with HR and Finance</p></li>
+<li><p>Decide about matters for project funding.</p></li>
+<li><p>Be aware of the team enough to know if there are problems, and
+deal with them.</p></li>
+<li><p>Intervene in projects for which the customer is not satisfied.</p></li>
+<li><p>Coordinate hiring.</p></li>
+</ul>
+</section>
+<section id="external-materials">
+<h3>External materials<a class="headerlink" href="#external-materials" title="Link to this heading"></a></h3>
+<ul class="simple">
+<li><p><a class="reference external" href="https://www.oreilly.com/library/view/the-managers-path/9781491973882/">The Manager’s Path: A Guide for Tech Leaders Navigating Growth and
+Change</a>
+(book, available online from the Aalto library).</p></li>
+</ul>
+</section>
+<section id="training-program-materials-and-exercises">
+<h3>Training program: materials and exercises<a class="headerlink" href="#training-program-materials-and-exercises" title="Link to this heading"></a></h3>
+<p>Mostly mentored and learned on-the-job.</p>
+</section>
+</section>
+</div>
+<p>This section tells what to expect at Aalto.  It’s not expected to be
+read all at once when starting, but slowly mentored according to each
+person’s onboarding plan.</p>
+<div class="toctree-wrapper compound">
+<span id="document-it-in-aalto"></span><section id="it-in-aalto">
+<h2>IT in Aalto<a class="headerlink" href="#it-in-aalto" title="Link to this heading"></a></h2>
+<ul class="simple">
+<li><p>Arrangement of ITS</p></li>
+<li><p>Data storage</p></li>
+<li><p>Compute services</p></li>
+<li><p>Department IT</p>
+<ul>
+<li><p>Who is there</p></li>
+<li><p>Services</p></li>
+<li><p>CSIT</p></li>
+<li><p>PHYS IT</p></li>
+<li></li>
+</ul>
+</li>
+<li><p>CSC
+* HPC
+* Data services
+* Server computing services
+* Teaching</p></li>
+</ul>
+</section>
+<span id="document-research-services-at-aalto"></span><section id="research-services-at-aalto">
+<h2>Research services at Aalto<a class="headerlink" href="#research-services-at-aalto" title="Link to this heading"></a></h2>
+</section>
+<span id="document-tech"></span><section id="tech-stuff">
+<h2>Tech stuff<a class="headerlink" href="#tech-stuff" title="Link to this heading"></a></h2>
+<p>This list is made for new people, who have been hired as RSEs at
+Aalto.  This isn’t a list of what someone has to know to apply, <strong>and
+not what people should know before starting</strong>.  It only provides a
+map, a RSE will incrementally learn things here (and probably things
+not on the list - this list is what we already know).  In the future,
+we expect this list to be copied and reused in other contexts.</p>
+<p>Someone might take ~6 months to slowly learn things on this list as
+they need them.  Not everything will be needed.</p>
+<section id="linux-and-shell">
+<h3>Linux and shell<a class="headerlink" href="#linux-and-shell" title="Link to this heading"></a></h3>
+<ul class="simple">
+<li><p>Shell scripting and the OS interface</p>
+<ul>
+<li><p>Advanced Bash SCripting guide: <a class="reference external" href="https://tldp.org/LDP/abs/html/">https://tldp.org/LDP/abs/html/</a></p></li>
+</ul>
+</li>
+<li><p>Containers</p>
+<ul>
+<li><p>Docker: <a class="reference external" href="https://docs.docker.com/get-started/overview/">https://docs.docker.com/get-started/overview/</a> (though we don’t Docker on the cluster, it’s good to know anyway)</p></li>
+<li><p>Dockerfile reference: <a class="reference external" href="https://docs.docker.com/engine/reference/builder/">https://docs.docker.com/engine/reference/builder/</a></p></li>
+<li><p>Apptainer (formerly called “singularity”):</p>
+<ul>
+<li><p>This is what is actually used on the cluster</p></li>
+<li><p><a class="reference external" href="https://apptainer.org/docs/user/latest/">https://apptainer.org/docs/user/latest/</a></p></li>
+<li><p>Key things: make own container, convert docker to apptainer, how to run on cluster</p></li>
+<li><p>singularity_wrapper and how it works with Lmod: <a class="reference external" href="https://scicomp.aalto.fi/triton/usage/singularity/">https://scicomp.aalto.fi/triton/usage/singularity/</a> (load a singularity module and you can see where the script is)</p></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><p>Lmod:</p>
+<ul>
+<li><p><a class="reference external" href="https://lmod.readthedocs.io/en/latest/">https://lmod.readthedocs.io/en/latest/</a></p></li>
+<li><p>(hint: personal modulefiles: mkdir ~/modulefiles ; module use ~/modulefiles)</p></li>
+<li><p>Mainly basic use + writing modulefiles</p></li>
+</ul>
+</li>
+<li><p>Conda</p>
+<ul>
+<li><p>especially resolving GPU code related issues</p></li>
+</ul>
+</li>
+<li></li>
+</ul>
+</section>
+<section id="software-development-tools">
+<h3>Software development tools<a class="headerlink" href="#software-development-tools" title="Link to this heading"></a></h3>
+<ul class="simple">
+<li><p>CodeRefinery lessons (<a class="reference external" href="https://coderefinery.org">https://coderefinery.org</a>)</p></li>
+<li><p>git-intro: <a class="reference external" href="https://coderefinery.github.io/git-intro/">https://coderefinery.github.io/git-intro/</a></p></li>
+<li><p>and git-collaborative: <a class="reference external" href="https://coderefinery.github.io/git-collaborative/">https://coderefinery.github.io/git-collaborative/</a></p></li>
+<li><p>Reproducible Research: <a class="reference external" href="https://coderefinery.github.io/reproducible-research/">https://coderefinery.github.io/reproducible-research/</a></p></li>
+<li><p>Documentation: <a class="reference external" href="https://coderefinery.github.io/documentation/">https://coderefinery.github.io/documentation/</a></p></li>
+<li><p>(Jupyter: <a class="reference external" href="https://coderefinery.github.io/jupyter/">https://coderefinery.github.io/jupyter/</a>)</p></li>
+<li><p>Automated Testing <a class="reference external" href="https://coderefinery.github.io/testing/">https://coderefinery.github.io/testing/</a></p></li>
+<li><p><a class="reference external" href="https://coderefinery.github.io/modular-type-along/">Modular type-along</a> or <a class="reference external" href="http://cicero.xyz/v3/remark/0.14.0/github.com/coderefinery/modular-code-development/master/talk.md">Modular
+code developmenent presentation</a></p></li>
+<li><p>Social coding: <a class="reference external" href="https://coderefinery.github.io/social-coding/">https://coderefinery.github.io/social-coding/</a></p></li>
+</ul>
+<p>There are a few other interesting CodeRefinery lessons: <a class="reference external" href="https://coderefinery.org/lessons/">https://coderefinery.org/lessons/</a></p>
+</section>
+<section id="hpc">
+<h3>HPC<a class="headerlink" href="#hpc" title="Link to this heading"></a></h3>
+<ul class="simple">
+<li><p>Triton tutorials is what we expect our users to know, and reading
+through these is enough (it will be familiar):
+<a class="reference external" href="https://scicomp.aalto.fi/triton/#tutorials">https://scicomp.aalto.fi/triton/#tutorials</a></p></li>
+<li><p>And in general, browse (but not read in detail) the rest of the
+Triton <a class="reference external" href="https://scicomp.aalto.fi/triton/">https://scicomp.aalto.fi/triton/</a></p></li>
+</ul>
+</section>
+<section id="programming">
+<h3>Programming<a class="headerlink" href="#programming" title="Link to this heading"></a></h3>
+<section id="python">
+<h4>Python<a class="headerlink" href="#python" title="Link to this heading"></a></h4>
+<ul class="simple">
+<li><p>Python virtual environments and Conda environments: <a class="reference external" href="https://scicomp.aalto.fi/scicomp/python/">https://scicomp.aalto.fi/scicomp/python/</a> , <a class="reference external" href="https://scicomp.aalto.fi/triton/apps/python/">https://scicomp.aalto.fi/triton/apps/python/</a></p>
+<ul>
+<li><p>Be able to create a virtual environment</p></li>
+</ul>
+</li>
+<li><p>Python module/package structure</p></li>
+<li><p>Python packaging</p>
+<ul>
+<li><p><a class="reference external" href="https://packaging.python.org/en/latest/tutorials/packaging-projects/">https://packaging.python.org/en/latest/tutorials/packaging-projects/</a></p></li>
+<li><p>setup.py vs pyproject.toml (newer)</p></li>
+</ul>
+</li>
+<li><p>Python command line interfaces (argparse), installing interfaces via
+packages, …</p></li>
+<li><p>Other steps for a good project</p>
+<ul>
+<li><p>Good project structure (module-name/module_name/)</p></li>
+<li><p>Command line interface</p></li>
+<li><p>Modular and maintainable code</p></li>
+<li><p>Installable: setup.py vs pyproject.toml</p></li>
+<li><p>Linter (if worth it)</p></li>
+<li><p>Test coverage (if worth it)</p></li>
+<li><p>Good documentation (README, code-level docs, sphinx + RTD/gh-pages)</p></li>
+<li><p>Automated tests to the degree useful for the project.  At least minimal.</p></li>
+<li><p>Github Actions</p></li>
+<li><p>PyPI release</p></li>
+<li><p>conda-forge release</p></li>
+<li><p>GH-action for releasing to PyPI/conda-forge</p></li>
+</ul>
+</li>
+</ul>
+<p>Examples:
+*</p>
+</section>
+</section>
+<section id="data-processing">
+<h3>Data processing<a class="headerlink" href="#data-processing" title="Link to this heading"></a></h3>
+<ul class="simple">
+<li><p>webdataset</p></li>
+<li><p>Small file management in various ways</p></li>
+<li><p>Exercise: i/o benchmarking</p></li>
+</ul>
+</section>
+<section id="data-management">
+<h3>Data management<a class="headerlink" href="#data-management" title="Link to this heading"></a></h3>
+<ul class="simple">
+<li><p>FAIR data</p></li>
+<li><p>Open Science</p></li>
+<li><p>Aalto Data Agents webinars</p></li>
+</ul>
+</section>
+<section id="web-stuff">
+<h3>Web stuff<a class="headerlink" href="#web-stuff" title="Link to this heading"></a></h3>
+<ul class="simple">
+<li><p>intro, debugging</p></li>
+<li><p>django?</p></li>
+</ul>
+</section>
+</section>
+<span id="document-data-management"></span><section id="data-management">
+<h2>Data management<a class="headerlink" href="#data-management" title="Link to this heading"></a></h2>
+<ul class="simple">
+<li><p>Lists key open science events: <a class="reference external" href="https://openresearchcalendar.org/calendar/">https://openresearchcalendar.org/calendar/</a></p></li>
+<li><p><a class="reference external" href="https://avointiede.fi/en">https://avointiede.fi/en</a></p>
+<ul>
+<li><p>The Finnish Open Science Days are good, too, but most content is
+in Finnish.</p></li>
+</ul>
+</li>
+</ul>
+</section>
+<span id="document-ethics"></span><section id="ethics">
+<h2>Ethics<a class="headerlink" href="#ethics" title="Link to this heading"></a></h2>
+<ul class="simple">
+<li><p>Ethics of science</p>
+<ul>
+<li><p>Reproducibility</p></li>
+<li><p>Academic credit</p></li>
+</ul>
+</li>
+<li><p>Personal data</p>
+<ul>
+<li><p>Definitions</p></li>
+<li><p>Legal bases of handling</p></li>
+<li><p>Required steps</p></li>
+<li><p>How Aalto process works</p></li>
+</ul>
+</li>
+<li><p>AI ethics</p></li>
+</ul>
+</section>
+<span id="document-security"></span><section id="security">
+<h2>Security<a class="headerlink" href="#security" title="Link to this heading"></a></h2>
+<ul class="simple">
+<li><p>Basics</p>
+<ul>
+<li><p>Don’t share accounts, know your data rating, handle it correctly</p></li>
+</ul>
+</li>
+<li><p>Know basics</p>
+<ul>
+<li><p>Decide security level needed for data.  Don’t over classify</p></li>
+<li><p>Select right systems for this</p></li>
+<li></li>
+</ul>
+</li>
+<li><p>Common working practices</p></li>
+</ul>
+</section>
+</div>
+<p>(section is not yet filled out.) This section is a collection of
+interesting links and things to learn as RSEs.  It’s also not intended
+to be followed one-by-one but a general reference for what you may
+need to know, that is easy to be missed in academic training.  Your
+mentor will tell you what to focus on.</p>
+<div class="toctree-wrapper compound">
+<span id="document-12-session-plan"></span><section id="session-training-plan">
+<h2>12 session training plan<a class="headerlink" href="#session-training-plan" title="Link to this heading"></a></h2>
+<p>This is a draft if we wanted to make an actual course out of becoming
+a new RSE with ASC.  This will likely never happen, since we are all
+starting at different times and so far it’s been better to mentor
+people as they come in.  Still, it’s a possibility.</p>
+<ul class="simple">
+<li><p>user support (garage, issue tracker, esupport, ASC standards for support)</p></li>
+<li><p>Storage systems (tiriton scratch, netapp, )</p></li>
+<li><p>project data arrangement (arranging files in an individual project.  arranging group project dirs.)</p></li>
+<li><p>Ethics (personal data, sanctions etc., need for reproducibility)</p></li>
+<li><p>Security (data classification, storage&amp;processing systems, common procedures.)</p></li>
+<li><p>Triton advanced (slurm internals, architecture, parallelism)</p></li>
+<li><p>Conda (basic use, common problems)</p></li>
+<li><p>Software installation (self via pip&amp;conda&amp;R, scibuilder-conda, scibuilder-spack)</p></li>
+<li><p>Python software (environments, packaging, command lines.  Exercise: make a simple package, install from Github., install from github)</p></li>
+<li><p>R software (see above for Python)</p></li>
+<li><p>Git and Github (basics should be known.  multi-person projects, issues, PRs, organizations, advanced features.)</p></li>
+<li><p>Data storage performance (small file optimization, local disks.  Exercise: benchmark different filesystems)</p></li>
+</ul>
+</section>
+<span id="document-other-rse-training"></span><section id="other-rse-training">
+<h2>Other RSE training<a class="headerlink" href="#other-rse-training" title="Link to this heading"></a></h2>
+<p>Other links to things that look like RSE-type training, or could be
+used as RSE training programs.</p>
+<ul class="simple">
+<li><p><a class="reference external" href="https://scicomp.aalto.fi/rse/become-a-rse/" title="(in Aalto Scientific Computing)"><span>For RSE candidates and community</span></a></p></li>
+<li><p><a class="reference external" href="https://rsetoolkit.github.io/">https://rsetoolkit.github.io/</a></p></li>
+<li><p><a class="reference external" href="https://society-rse.org/resources/">https://society-rse.org/resources/</a></p></li>
+<li><p><a class="reference external" href="https://www.hpc-certification.org/">https://www.hpc-certification.org/</a></p></li>
+<li><p><a class="reference external" href="https://eumaster4hpc.eu/">https://eumaster4hpc.eu/</a></p></li>
+</ul>
+</section>
+</div>
+<p>Other links and ideas not yet sorted to the above sections.</p>
+</section>
+
+
+           </div>
+          </div>
+          <footer>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>&#169; Copyright 2026, The contributors.</p>
+  </div>
+
+  Built with <a href="https://www.sphinx-doc.org/">Sphinx</a> using a
+    <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a>
+    provided by <a href="https://readthedocs.org">Read the Docs</a>.
+   
+
+</footer>
+        </div>
+      </div>
+    </section>
+  </div>
+  <script>
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script> 
+
+</body>
+</html>
