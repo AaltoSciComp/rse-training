@@ -53,6 +53,8 @@ Expectations / checklists
   :doc:`help/index` (has it ever worked?  what are you trying to
   accomplish?  what did you do?  what do you need?)  (Avoid the `XY
   problem <https://en.wikipedia.org/wiki/XY_problem>`__.)
+* Recognize difficult communication situations and act to make it
+  better.
 * When someone departs garage, give them encouragement to keep trying
   themselves, that "yes this is hard, but you can do it".
 * You may ask people to come back another day (or schedule another
