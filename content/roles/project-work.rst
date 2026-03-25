@@ -89,3 +89,7 @@ Training program: materials and exercises
 -----------------------------------------
 
 Demonstration: going through the rse-projects gitlab tracker
+
+It can be useful to set a calendar time each week to send a status
+report to each major project you have.  This reminds you to do it and
+reserves the time.
