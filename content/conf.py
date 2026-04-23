@@ -33,6 +33,9 @@ html_theme_options = {
     "prev_next_buttons_location": False,
     "style_external_links": True,
 }
+html_css_files = [
+    "theme_overrides.css",
+]
 html_context = {
     #"github_url": "https://github.com/AaltoSciComp/rse-training/"
     "display_github": True,
