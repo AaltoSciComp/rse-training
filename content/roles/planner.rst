@@ -79,10 +79,10 @@ External materials
 ------------------
 
 * `Project starting template <https://docs.google.com/document/d/1XcxeNLRq0kOsFbDEmA7ArdbIrCVudMWHPFQsKRVcTIk>`__
-* :doc:`rse/procedures/project-administration`
+* :doc:`rse/procedures/project-tracking`
 * :doc:`rse/procedures/prioritization`
-* :doc:`rse/how-we-work`
-* :doc:`rse/group-leaders`
+* :doc:`rse/project-lifecycle`
+* :doc:`rse/for-group-leaders`
 * :doc:`scicomp/zen-of-scicomp`
 * ... and almost everything else on :doc:`rse/index`
 

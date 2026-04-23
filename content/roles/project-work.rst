@@ -75,7 +75,7 @@ Expectations / checklists
 External materials
 ------------------
 
-* :doc:`rse/procedures/project-administration`
+* :doc:`rse/procedures/project-tracking`
 * :doc:`rse/procedures/prioritization`
 * Many other things on :doc:`rse/index`
 
