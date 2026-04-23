@@ -1,0 +1,292 @@
+
+
+<!DOCTYPE html>
+<html class="writer-html5" lang="en" data-content_root="../">
+<head>
+  <meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Tech stuff &mdash; Aalto RSE training  documentation</title>
+      <link rel="stylesheet" type="text/css" href="../_static/pygments.css?v=b86133f3" />
+      <link rel="stylesheet" type="text/css" href="../_static/css/theme.css?v=9edc463e" />
+      <link rel="stylesheet" type="text/css" href="../_static/mystnb.11b39860a7a0cbfd473a3ad8a317855267ff0bd372690045ca344a6b62be495e.css" />
+      <link rel="stylesheet" type="text/css" href="../_static/copybutton.css?v=76b2166b" />
+      <link rel="stylesheet" type="text/css" href="../_static/togglebutton.css?v=9c3e77be" />
+      <link rel="stylesheet" type="text/css" href="../_static/sphinx_lesson.css?v=e9df6548" />
+      <link rel="stylesheet" type="text/css" href="../_static/term_role_formatting.css?v=4194e21c" />
+      <link rel="stylesheet" type="text/css" href="../_static/sphinx_rtd_theme_ext_color_contrast.css?v=8e8ea19f" />
+      <link rel="stylesheet" type="text/css" href="../_static/theme_overrides.css?v=5154db2b" />
+
+  
+    <link rel="shortcut icon" href="../_static/logo-hexagons-02-compact.svg.ico"/>
+      <script src="../_static/jquery.js?v=5d32c60e"></script>
+      <script src="../_static/_sphinx_javascript_frameworks_compat.js?v=2cd50e6c"></script>
+      <script src="../_static/documentation_options.js?v=187304be"></script>
+      <script src="../_static/doctools.js?v=9bcbadda"></script>
+      <script src="../_static/sphinx_highlight.js?v=dc90522c"></script>
+      <script src="../_static/clipboard.min.js?v=a7894cd8"></script>
+      <script src="../_static/copybutton.js?v=f281be69"></script>
+      <script src="../_static/minipres.js?v=a0d29692"></script>
+      <script>let toggleHintShow = 'Click to show';</script>
+      <script>let toggleHintHide = 'Click to hide';</script>
+      <script>let toggleOpenOnPrint = 'true';</script>
+      <script src="../_static/togglebutton.js?v=b8b12719"></script>
+      <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
+    <script src="../_static/js/theme.js"></script>
+    <link rel="index" title="Index" href="../genindex/" />
+    <link rel="search" title="Search" href="../search/" />
+    <link rel="next" title="Data management" href="../data-management/" />
+    <link rel="prev" title="Research services at Aalto" href="../research-services-at-aalto/" /> 
+</head>
+
+<body class="wy-body-for-nav"> 
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search" >
+
+          
+          
+          <a href="../" class="icon icon-home">
+            Aalto RSE training
+          </a>
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="../search/" method="get">
+    <input type="text" name="q" placeholder="Search docs" aria-label="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+        </div><div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+              <ul>
+<li class="toctree-l1"><a class="reference internal" href="../what-is-a-rse/">What is a RSE at ASC?</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">Roles</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../roles/">Roles intro</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../roles/project-work/">Project work</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../roles/garage/">Garage support</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../roles/teaching/">Teaching</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../roles/planner/">Project planner</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../roles/technical-mentor/">Technical mentor</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../roles/unit-liaison/">Unit liaison</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../roles/team-supervisor/">Team supervisor</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">Topical reference</span></p>
+<ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="../it-in-aalto/">IT in Aalto</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../research-services-at-aalto/">Research services at Aalto</a></li>
+<li class="toctree-l1 current"><a class="current reference internal" href="#">Tech stuff</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="#linux-and-shell">Linux and shell</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#software-development-tools">Software development tools</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#hpc">HPC</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#programming">Programming</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#python">Python</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="#data-processing">Data processing</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#data-management">Data management</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#web-stuff">Web stuff</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="../data-management/">Data management</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../ethics/">Ethics</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../security/">Security</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">Other material</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../12-session-plan/">12 session training plan</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../other-rse-training/">Other RSE training</a></li>
+</ul>
+
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap"><nav class="wy-nav-top" aria-label="Mobile navigation menu" >
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="../">Aalto RSE training</a>
+      </nav>
+
+      <div class="wy-nav-content">
+        <div class="rst-content style-external-links">
+          <div role="navigation" aria-label="Page navigation">
+  <ul class="wy-breadcrumbs">
+      <li><a href="../" class="icon icon-home" aria-label="Home"></a></li>
+      <li class="breadcrumb-item active">Tech stuff</li>
+      <li class="wy-breadcrumbs-aside">
+              <a href="https://github.com/AaltoSciComp/rse-training/blob/main/content/tech.rst" class="fa fa-github"> Edit on GitHub</a>
+      </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+             
+  <section id="tech-stuff">
+<h1>Tech stuff<a class="headerlink" href="#tech-stuff" title="Link to this heading"></a></h1>
+<p>This list is made for new people, who have been hired as RSEs at
+Aalto.  This isn’t a list of what someone has to know to apply, <strong>and
+not what people should know before starting</strong>.  It only provides a
+map, a RSE will incrementally learn things here (and probably things
+not on the list - this list is what we already know).  In the future,
+we expect this list to be copied and reused in other contexts.</p>
+<p>Someone might take ~6 months to slowly learn things on this list as
+they need them.  Not everything will be needed.</p>
+<section id="linux-and-shell">
+<h2>Linux and shell<a class="headerlink" href="#linux-and-shell" title="Link to this heading"></a></h2>
+<ul class="simple">
+<li><p>Shell scripting and the OS interface</p>
+<ul>
+<li><p>Advanced Bash SCripting guide: <a class="reference external" href="https://tldp.org/LDP/abs/html/">https://tldp.org/LDP/abs/html/</a></p></li>
+</ul>
+</li>
+<li><p>Containers</p>
+<ul>
+<li><p>Docker: <a class="reference external" href="https://docs.docker.com/get-started/overview/">https://docs.docker.com/get-started/overview/</a> (though we don’t Docker on the cluster, it’s good to know anyway)</p></li>
+<li><p>Dockerfile reference: <a class="reference external" href="https://docs.docker.com/engine/reference/builder/">https://docs.docker.com/engine/reference/builder/</a></p></li>
+<li><p>Apptainer (formerly called “singularity”):</p>
+<ul>
+<li><p>This is what is actually used on the cluster</p></li>
+<li><p><a class="reference external" href="https://apptainer.org/docs/user/latest/">https://apptainer.org/docs/user/latest/</a></p></li>
+<li><p>Key things: make own container, convert docker to apptainer, how to run on cluster</p></li>
+<li><p>singularity_wrapper and how it works with Lmod: <a class="reference external" href="https://scicomp.aalto.fi/triton/usage/singularity/">https://scicomp.aalto.fi/triton/usage/singularity/</a> (load a singularity module and you can see where the script is)</p></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><p>Lmod:</p>
+<ul>
+<li><p><a class="reference external" href="https://lmod.readthedocs.io/en/latest/">https://lmod.readthedocs.io/en/latest/</a></p></li>
+<li><p>(hint: personal modulefiles: mkdir ~/modulefiles ; module use ~/modulefiles)</p></li>
+<li><p>Mainly basic use + writing modulefiles</p></li>
+</ul>
+</li>
+<li><p>Conda</p>
+<ul>
+<li><p>especially resolving GPU code related issues</p></li>
+</ul>
+</li>
+<li></li>
+</ul>
+</section>
+<section id="software-development-tools">
+<h2>Software development tools<a class="headerlink" href="#software-development-tools" title="Link to this heading"></a></h2>
+<ul class="simple">
+<li><p>CodeRefinery lessons (<a class="reference external" href="https://coderefinery.org">https://coderefinery.org</a>)</p></li>
+<li><p>git-intro: <a class="reference external" href="https://coderefinery.github.io/git-intro/">https://coderefinery.github.io/git-intro/</a></p></li>
+<li><p>and git-collaborative: <a class="reference external" href="https://coderefinery.github.io/git-collaborative/">https://coderefinery.github.io/git-collaborative/</a></p></li>
+<li><p>Reproducible Research: <a class="reference external" href="https://coderefinery.github.io/reproducible-research/">https://coderefinery.github.io/reproducible-research/</a></p></li>
+<li><p>Documentation: <a class="reference external" href="https://coderefinery.github.io/documentation/">https://coderefinery.github.io/documentation/</a></p></li>
+<li><p>(Jupyter: <a class="reference external" href="https://coderefinery.github.io/jupyter/">https://coderefinery.github.io/jupyter/</a>)</p></li>
+<li><p>Automated Testing <a class="reference external" href="https://coderefinery.github.io/testing/">https://coderefinery.github.io/testing/</a></p></li>
+<li><p><a class="reference external" href="https://coderefinery.github.io/modular-type-along/">Modular type-along</a> or <a class="reference external" href="http://cicero.xyz/v3/remark/0.14.0/github.com/coderefinery/modular-code-development/master/talk.md">Modular
+code developmenent presentation</a></p></li>
+<li><p>Social coding: <a class="reference external" href="https://coderefinery.github.io/social-coding/">https://coderefinery.github.io/social-coding/</a></p></li>
+</ul>
+<p>There are a few other interesting CodeRefinery lessons: <a class="reference external" href="https://coderefinery.org/lessons/">https://coderefinery.org/lessons/</a></p>
+</section>
+<section id="hpc">
+<h2>HPC<a class="headerlink" href="#hpc" title="Link to this heading"></a></h2>
+<ul class="simple">
+<li><p>Triton tutorials is what we expect our users to know, and reading
+through these is enough (it will be familiar):
+<a class="reference external" href="https://scicomp.aalto.fi/triton/#tutorials">https://scicomp.aalto.fi/triton/#tutorials</a></p></li>
+<li><p>And in general, browse (but not read in detail) the rest of the
+Triton <a class="reference external" href="https://scicomp.aalto.fi/triton/">https://scicomp.aalto.fi/triton/</a></p></li>
+</ul>
+</section>
+<section id="programming">
+<h2>Programming<a class="headerlink" href="#programming" title="Link to this heading"></a></h2>
+<section id="python">
+<h3>Python<a class="headerlink" href="#python" title="Link to this heading"></a></h3>
+<ul class="simple">
+<li><p>Python virtual environments and Conda environments: <a class="reference external" href="https://scicomp.aalto.fi/scicomp/python/">https://scicomp.aalto.fi/scicomp/python/</a> , <a class="reference external" href="https://scicomp.aalto.fi/triton/apps/python/">https://scicomp.aalto.fi/triton/apps/python/</a></p>
+<ul>
+<li><p>Be able to create a virtual environment</p></li>
+</ul>
+</li>
+<li><p>Python module/package structure</p></li>
+<li><p>Python packaging</p>
+<ul>
+<li><p><a class="reference external" href="https://packaging.python.org/en/latest/tutorials/packaging-projects/">https://packaging.python.org/en/latest/tutorials/packaging-projects/</a></p></li>
+<li><p>setup.py vs pyproject.toml (newer)</p></li>
+</ul>
+</li>
+<li><p>Python command line interfaces (argparse), installing interfaces via
+packages, …</p></li>
+<li><p>Other steps for a good project</p>
+<ul>
+<li><p>Good project structure (module-name/module_name/)</p></li>
+<li><p>Command line interface</p></li>
+<li><p>Modular and maintainable code</p></li>
+<li><p>Installable: setup.py vs pyproject.toml</p></li>
+<li><p>Linter (if worth it)</p></li>
+<li><p>Test coverage (if worth it)</p></li>
+<li><p>Good documentation (README, code-level docs, sphinx + RTD/gh-pages)</p></li>
+<li><p>Automated tests to the degree useful for the project.  At least minimal.</p></li>
+<li><p>Github Actions</p></li>
+<li><p>PyPI release</p></li>
+<li><p>conda-forge release</p></li>
+<li><p>GH-action for releasing to PyPI/conda-forge</p></li>
+</ul>
+</li>
+</ul>
+<p>Examples:
+*</p>
+</section>
+</section>
+<section id="data-processing">
+<h2>Data processing<a class="headerlink" href="#data-processing" title="Link to this heading"></a></h2>
+<ul class="simple">
+<li><p>webdataset</p></li>
+<li><p>Small file management in various ways</p></li>
+<li><p>Exercise: i/o benchmarking</p></li>
+</ul>
+</section>
+<section id="data-management">
+<h2>Data management<a class="headerlink" href="#data-management" title="Link to this heading"></a></h2>
+<ul class="simple">
+<li><p>FAIR data</p></li>
+<li><p>Open Science</p></li>
+<li><p>Aalto Data Agents webinars</p></li>
+</ul>
+</section>
+<section id="web-stuff">
+<h2>Web stuff<a class="headerlink" href="#web-stuff" title="Link to this heading"></a></h2>
+<ul class="simple">
+<li><p>intro, debugging</p></li>
+<li><p>django?</p></li>
+</ul>
+</section>
+</section>
+
+
+           </div>
+          </div>
+          <footer>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>&#169; Copyright 2026, The contributors.</p>
+  </div>
+
+  Built with <a href="https://www.sphinx-doc.org/">Sphinx</a> using a
+    <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a>
+    provided by <a href="https://readthedocs.org">Read the Docs</a>.
+   
+
+</footer>
+        </div>
+      </div>
+    </section>
+  </div>
+  <script>
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script> 
+
+</body>
+</html>
