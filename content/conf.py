@@ -7,6 +7,7 @@
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = 'Aalto RSE training'
+html_title = project
 copyright = '2026, The contributors'
 author = 'The contributors'
 
