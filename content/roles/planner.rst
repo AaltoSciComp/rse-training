@@ -87,8 +87,91 @@ External materials
 * ... and almost everything else on :doc:`rse/index`
 
 
-Training program: materials and exercises
------------------------------------------
+Training program: materials
+---------------------------
 
-Roleplay: Planning meeting of a new RSE project, including filling the
-template, making a Gitlab issue, etc.
+
+Exercises
+---------
+
+Future todo: making the first Gitlab issue?
+
+.. exercise:: Planner-1: Roleplay a straightforward project (concept meeting)
+
+   Goal: practice the first meeting with a potential customer and
+   establish the basic principles of doing a project.  Walk them
+   through what to expect in the RSE project process.
+
+   You: roleplay answering the situation below.  Ask the basics and
+   establish if the concept of RSE is appropriate for the project,
+   what will happen, etc.  You don't have to pretend to be the one to
+   do the project, but you are getting enough info to take it to a
+   weekly meeting to find the right person to go to the next stage.
+
+   Your partner: roleplay a customer requesting a fairly normal
+   project.
+
+   Example cases:
+
+   * LUMI porting
+   * Optimizing some HPC software
+   * Developing a web visualization for some data
+   * Adding documentation, testing, packaging, etc. to some existing
+     project.
+   * Creating a data analysis pipeline.
+   * (you can think of your own things, too)
+
+
+.. exercise:: Planner-2: Roleplay a planning meeting, continuing from above
+
+   Goal: practice a structured way to plan out the project, so that
+   everyone leaves with a clear idea of what will happen.  Practice
+   with the template project planning doc or equivalent, and
+   co-editing a doc to produce a plan.
+
+   Like the exercise above (maybe combined with above), but fill out
+   all template doc and make a plan for what should actually happen
+   (the "planning meeting").  Go through, extracting information about
+   what needs to be done, discuss who does what, and write it down.
+
+   (For this exercise, you probably want to use an involved-enough
+   project that both people understand enough and could possibly do)
+
+
+.. exercise:: Planner-3: Roleplay responding to a project request we can most likely not fulfill
+
+   Goal: practice directing the customer to other resources or
+   otherwise finding their best way forward, even when we have to say
+   "no".  (This would normally not happen in the concept meeting, but
+   you would take it to the weekly meeting to present to others
+   anyway.  You can pretend you did that already, or just pretend you
+   already know we can't do it.)
+
+   Like the exercise above, but you need to tell the customer that
+   it's not within our capacity (either time or skills) right now.
+   Give a special focus to making sure they have some other path
+   forward.
+
+   Your partner: there are different reasons we might not be able to
+   fulfill the project:
+
+   * It takes too long (years of time, better to hire someone
+     themselves)
+   * It is too specialized (ENG researcher needs specialized laboratory
+     instrument programming, ASIC programming, or something).
+   * They need CPU design
+
+
+.. exercise:: Planner-4:: Roleplay digging to figure out the project
+
+   Goal: customers don't always volunteer important information about
+   the project easily.  Practice your skills at digging in, so you
+   won't forget to do it later.
+
+   You: roleplay talking with the customer to figure out their
+   project, and discuss if you can or cant' do it.
+
+   Your partner: present your own previous work as an RSE project.
+   Don't be too specific (in fact act a bit shy and non-communicative)
+   and force your partner to ask questions to dig deeper and
+   happening.

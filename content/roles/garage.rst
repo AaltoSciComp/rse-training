@@ -79,31 +79,139 @@ External materials
 
 
 
-Training program: materials and exercises
------------------------------------------
+Training program: materials
+---------------------------
 * :doc:`tech/user-support-responses`
 
-Roleplay: run through a support request.
 
-Roleplay: Run though a support request where you don't know the answer
 
-Roleplay: Run through a support request where you need to tell them
-you can't help them.
+Exercises
+---------
 
-Roleplay: Garage, someone has only used AI and doesn't know what their code does
+.. exercise:: Garage-1: Roleplay a fairly normal support request
 
-Roleplay: Discussing with another staff member about a sub-standard support session
+   Goal: run through a fairly normal support request.
+
+   You: roleplay answering a fairly typical garage customer.  Figure
+   out who they are (department/position), what their topic is,
+   decide that you can handle it, exact details of the problem,
+   solving the problem, telling them next steps and you know they can
+   do it.
+
+   Your partner: roleplay coming to garage and asking some normal-ish question.
+
+
+.. exercise:: Garage-2: Roleplay a support request where you don't know the answer
+
+   Goal: practice telling a customer that you can't help them right
+   now and giving other options (for example, coming back the next
+   day, waiting a bit for someone else to be free, sending email to
+   arrange a specific meeting, directing them to some other team)
+
+   You: roleplay the above.  The script should go like the previous
+   exercise but you can't answer it directly.  (you can also pretend
+   you can't answer it even if you can)
+
+   Your partner: roleplay coming to garage and asking something.
+
+   Example cases:
+
+   * Some highly advanced multi-node GPU work.
+   * It's about data storage in ENG and needs their admin support (not
+     general usage that we could do)
+
+
+.. exercise:: Garage-3: Roleplay with an insistent customer
+
+   Goal: practice your confidence when dealing with customers who
+   won't let go of specific misconceptions they have.
+
+   You: roleplay responding to the request below.  Try to talk them
+   down and at least have them leave on good terms, since they never
+   seem to give it up.
+
+   Your partner: You are a customer is in the garage insisting you
+   know the best way to do something or what is wrong.
+
+   Example cases:
+
+   * Arguing that they should be able to "sudo apt-get install"
+     something and make it just work on Triton, continually arguing
+     when you try to explain why it doesn't work.
+   * Or why can't they simply run their Python code, saying that batch
+     isn't needed.  They keep insisting "just help me do X" and acting
+     like we are the problem.
+
+
+.. exercise:: Garage-4: Roleplay someone in over their head
+
+   Goal: practice a frustrating situation where it seems, no matter
+   what you do, you won't be able to help the customer.  Find a way to
+   leave them at least a little bit motivated and with an idea for
+   what to do next.  (Note: if this happens and it needs to be
+   escalated to the supervisor, contact one of the team leaders.)
+
+   You: roleplay responding to the request below.  Try to leave them
+   feeling encouraged somehow and with something to do next.  Try to
+   understand their background to make the next recommendation.
+
+   Your partner: You are a customer in over their head.
+
+   Example cases:
+
+   * The customer only know how to use AI to do things, but they need
+     to know more now.
+   * A customer (new summer research assistant for a ML group) comes
+     to the garage and is clearly in over their head and asking you to
+     do very basic things (ssh, opening a file, editing a file even
+     through Jupyter/OOD), things that even a new summer intern should
+     be able to do.  Take, for example, making a Python program run
+     via the command line (they have never seen a command line before
+     and they can't even begin).  This has been happening for several
+     days with the same customer now.  You think there may be some
+     deeper problem and their supervisor needs to get involved.
+
+
+.. exercise:: Garage-5: Roleplay answering some recurrent students
+
+   Goal: practice telling students (or someone) that they need to use
+   someone else as their primary support channel.  Discuss what we do
+   vs what others should do.
+
+   You: roleplay responding to the situation below.
+
+   Your partner: You are one of a group of students who has been
+   coming each day working on a project.  You have just learned this
+   is a project for a course.  The students have permission to use
+   Triton (since this is a project with research data with a research
+   PI theoretically supervising), but they have begun asking us about
+   the analysis of their data.
+
+   Example cases:
+
+   * The project is analyzing some social media data and the questions
+     have been about the concepts of network analysis and using a
+     database for the data.
+
+   (Note: We can help students in these cases, especially about the
+   mechanics of using Triton.  But we can't replace TAs who should be
+   the first line of support, since courses can direct large numbers
+   of students to us at once, and only the course staff can scale that
+   large.)
 
 
 
 Other
 -----
 * Psychology of support
+
   * How to help someone use a computer
   * Roleplay: garage help
   * Exercise: comment on a simulated bad support session
   * Roleplay: suggest to a colleague that their support could have been improved
   * Finding the real problem within the question
+
 * Usability
 * Teamwork
-    * Work together but one person in charge of each support session
+
+   * Work together but one person in charge of each support session

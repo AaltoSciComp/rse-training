@@ -65,3 +65,31 @@ Further reading
 * `A not-so-brief history of Research Software Engineers
   <https://www.software.ac.uk/blog/not-so-brief-history-research-software-engineers-0>`__
 * :doc:`rse/history`
+
+
+
+Exercises
+---------
+
+.. exercise:: What-is-rse-1: General explanation
+
+   Goal: practice the general technical explanation of what we do.
+
+   You: roleplay answering your partner's question.  Explain why they,
+   mostly non-computational, might someday be interested in RSE
+   services.
+
+   Your partner: A researcher in ENG asks you what our team does.  You
+   focus is mainly on measuring the strengths of various materials in
+   laboratories.  (You can make up something else)
+
+
+.. exercise:: What-is-RSE-2: General audience explanation
+
+   Goal: practice interacting with people who have no idea of research
+   or academics.
+
+   You: Roleplay a non-technical family member asking "What do you do
+   for work?"
+
+   Your partner: be the non-technical family member and

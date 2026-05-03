@@ -76,7 +76,31 @@ External materials
   <https://carpentries.github.io/instructor-training/04-expertise.html>`__
 
 
-Training program: materials and exercises
------------------------------------------
+Training program: materials
+---------------------------
+
 * See :doc:`garage` - some of the materials and exercises there are
   relevant here and can sometime be split up.
+
+
+Exercises
+---------
+
+.. exercise:: Mentor-1: Discussing with another staff member about a sub-standard support session
+
+   Goal: you noticed a support session in garage that you thought could be
+   improved.  Respectfully bring it up and tell your team member that
+   you think something could be improved.
+
+   You: roleplay telling a colleague that their support could have
+   been a little bit better.
+
+   Your partner: Listen to the feedback.
+
+   Example cases:
+
+   * Your colleague's explanation was too technical for the apparent
+     level of the customer.
+   * Your colleague said "shouldn't you have learned this in [course]"
+   * Your colleague sent the customer away saying they need to learn
+     more first, but didn't make it clear how to start that.

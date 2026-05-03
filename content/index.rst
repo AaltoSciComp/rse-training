@@ -33,6 +33,7 @@ General background information.
    roles/technical-mentor
    roles/unit-liaison
    roles/team-supervisor
+   exercise-list
 
 This section tells what to expect at Aalto.  It's not expected to be
 read all at once when starting, but slowly mentored according to each

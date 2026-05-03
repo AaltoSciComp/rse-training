@@ -58,3 +58,12 @@ Training program: materials and exercises
 -----------------------------------------
 
 This is probably mentored and learned on-the-job.
+
+
+Exercises
+---------
+
+.. exercise:: UnitLiaison-1: Give a ASC introduction
+
+   Roleplay giving a sample 3-5 minute pitch of ASC services to a
+   department meeting.  You get to pick the department.
