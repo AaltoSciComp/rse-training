@@ -84,12 +84,23 @@ Exercises
    laboratories.  (You can make up something else)
 
 
+.. exercise:: What-is-RSE-2: Pitch for a research day
+
+   Goal: refine our pitching of RSEs and see how others
+
+   In groups, everyone gives a 1-3 minute pitch looking for more RSE
+   projects, like you might tell to someone who approaches us at a
+   research day.  Compare to others in your group and discuss what the
+   different unique selling points are.
+
+
 .. exercise:: What-is-RSE-2: General audience explanation
 
    Goal: practice interacting with people who have no idea of research
    or academics.
 
-   You: Roleplay a non-technical family member asking "What do you do
-   for work?"
+   You: Roleplay answering the question below.
 
-   Your partner: be the non-technical family member and
+   Your partner: roleplay a non-technical family member asking "What
+   do you do for work?" and listen to the explanation.  Ask some
+   questions and give feedback.
