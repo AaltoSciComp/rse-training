@@ -199,6 +199,24 @@ Exercises
    of students to us at once, and only the course staff can scale that
    large.)
 
+.. exercise:: Garage-6: Explain some topic in progressively more depth
+
+   Roleplay: you have a garage customer, and you are not sure how
+   in-depth they understand some topic.  Explain the topic
+   progressively from the big overview, to more and more detailed.
+   Each explanation should be ~30-60 seconds.  Can you manage 3-5
+   explanations on the same topic?  Make sure that the
+   customer understands that you always need to start big, even if you
+   are pretty sure you understand
+
+   You can choose the topic.  The purpose is that when working with a
+   customer, you may not know how knowledgeable they are, so you
+   should start wide (acknowledging they may know this, but you need to
+   be on the same page), and then go deeper.
+
+   Sample topics: data storage and transfer.  Connecting to Triton.
+   Slurm batch jobs.
+
 
 
 Other

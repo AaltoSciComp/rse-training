@@ -24,8 +24,13 @@ Main challenges/pitfalls
   when you are already too busy with existing projects.
 * It can be difficult to explain why we exist and why people should
   use our services (academics want to do things themselves).
+* Remember to take the customer perspective.  To us, they are
+  "customers", but they are just researchers with research problems.
+  Don't focus too much on the idea of "starting a project" or "project
+  process".  Instead, focus on "what are your computing or research
+  problems?"
 * Customers expect you to have a broad knowledge of everything ASC
-  does.
+  does and this basic knowledge puts you on the right foot.
 * All the typical things that are involved in being a customer
   relations person.
 
@@ -67,3 +72,10 @@ Exercises
 
    Roleplay giving a sample 3-5 minute pitch of ASC services to a
    department meeting.  You get to pick the department.
+
+
+.. exercise:: UnitLiaison-2: Knock on someone's door
+
+   Roleplay visiting an office of a group leader and talking about RSE
+   services.  (you can also imagine talking in a coffee room, to other
+   group members, etc.)
