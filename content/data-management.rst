@@ -6,3 +6,8 @@ Data management
 
   * The Finnish Open Science Days are good, too, but most content is
     in Finnish.
+
+* `Aalto Data Agents webinars
+  <https://www.aalto.fi/en/services/training-in-research-data-management-and-open-science>`__:
+  recommended to attend or watch most for the semester after joining.
+* `TU/e RDM handbook <https://rdm.tue.nl/docs/intro/rdm>`
