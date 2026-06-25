@@ -6,6 +6,10 @@ textbook or course, but a reference for use during mentoring and of
 what the expectations are - mainly of moving from an individual
 researcher to a consulting engineer in a team.
 
+There is a separate section that is the Aalto SciComp handbook.  This is
+the onboarding material for our team's procedures specifically (not RSE
+skills in general).  
+
 This site is under construction and "wiki rules" are in effect: if you
 see something, just make the update.  Someone will come later and
 clean it up.  I'm also happy if this is useful to others and there are
@@ -33,7 +37,7 @@ General background information.
    roles/technical-mentor
    roles/unit-liaison
    roles/team-supervisor
-   exercise-list
+   roles/exercise-list
 
 This section tells what to expect at Aalto.  It's not expected to be
 read all at once when starting, but slowly mentored according to each
@@ -44,18 +48,24 @@ person's onboarding plan.
    :maxdepth: 1
    :caption: Topical reference
 
-   it-in-aalto
-   research-services-at-aalto
-   tech
-   data-management
-   ethics
-   security
+   topics/it-in-aalto
+   topics/research-services-at-aalto
+   topics/tech
+   topics/data-management
+   topics/ethics
+   topics/security
 
 (section is not yet filled out.) This section is a collection of
 interesting links and things to learn as RSEs.  It's also not intended
 to be followed one-by-one but a general reference for what you may
 need to know, that is easy to be missed in academic training.  Your
 mentor will tell you what to focus on.
+
+.. toctree::
+   :maxdepth: 1
+   :caption: ASC handbook
+
+   asc-handbook/index
 
 
 .. toctree::
