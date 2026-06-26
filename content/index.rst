@@ -54,6 +54,7 @@ person's onboarding plan.
    topics/data-management
    topics/ethics
    topics/security
+   topics/project-process
 
 (section is not yet filled out.) This section is a collection of
 interesting links and things to learn as RSEs.  It's also not intended
@@ -66,7 +67,11 @@ mentor will tell you what to focus on.
    :caption: ASC handbook
 
    asc-handbook/index
+   asc-handbook/projects/index
+   asc-handbook/checklists/index
 
+The ASC handbook is our own team's internal practices - basically a part
+of onboarding for new people.
 
 .. toctree::
    :maxdepth: 1
