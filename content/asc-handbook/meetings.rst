@@ -44,9 +44,9 @@ far-reaching effects.
 - Ways to sync with whole team and raise things where we want to make
   sure we get everyone's thoughts before making a decision.
 - The point is to focus on discussion and not status reports.
-- Agenda docs used to collect topics over the week.
-- Then they are ordered based on importance/time considerations and
-  discussed during the meeting
+- As the team grows, meetings have a tendency to get long and
+  off-the-point.  Bring important matters to the meeting, but
+  specific discussions may be pushed to happen afterwards.
 - There is limited time for voice, but there are multiple channels you
   can use:
 
@@ -57,11 +57,12 @@ far-reaching effects.
 
 - Use this to let everyone get their thoughts in!
 
+
 Agenda documents
 ----------------
 
-We have running agenda documents (internal links) - every meeting gets a
-new section above it.  This means it's always easily available in
+We have running agenda documents (internal links) - every meeting gets
+a new section at the top.  This means it's always easily available in
 people's history, and it is easy for people to add something to be
 discussed in the next meeting (or a reminder to themselves to fill it
 out later).
@@ -72,7 +73,7 @@ CodeRefinery teaching).
 - People should pre-fill agenda items with info for the meeting, so the
   meeting time can be used for discussion, not reporting.
 - People can ask questions about that info even before we get to the
-  item, and it can be answered even before.
+  point, and it can be answered even before.
 - The agenda document is also good for questions where someone doesn't
   quite know what is going on (say, a new person), who wants more
   background but doesn't want to delay the meeting.  You should not feel
@@ -83,6 +84,6 @@ CodeRefinery teaching).
 Customer meetings
 -----------------
 
-Customer meetings can often be in the garage zoom.  If customers have
-their own place to meet/prefer to meet in-person, we should use/do
-that instead.
+Customer meetings can often be in the garage zoom, if overlaps are OK.
+If customers have their own place to meet/prefer to meet in-person, we
+should use/do that instead.
