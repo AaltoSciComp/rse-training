@@ -23,6 +23,9 @@ extensions = ['sphinx_lesson',
 templates_path = ['_templates']
 exclude_patterns = []
 
+myst_enable_extensions = [
+    "colon_fence",
+]
 
 
 # -- Options for HTML output -------------------------------------------------

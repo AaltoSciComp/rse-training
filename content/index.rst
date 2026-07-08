@@ -75,6 +75,14 @@ of onboarding for new people.
 
 .. toctree::
    :maxdepth: 1
+   :caption: RSE seminar series
+
+   seminars/index
+   seminars/archive
+
+
+.. toctree::
+   :maxdepth: 1
    :caption: Other material
 
    12-session-plan
