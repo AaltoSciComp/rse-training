@@ -3,7 +3,7 @@ Online work and support
 
 .. seealso::
 
-   Our garage description page for users: :doc:`/help/garage`.  (This
+   Our garage description page for users: :doc:`help/garage`.  (This
    is an internal description page)
 
 Since 2020, Aalto Scientific Computing has worked online.  Since we
@@ -70,7 +70,7 @@ How it works: "garage" support session
 - Often in other issues, when the actual problem is unclear, we will
   say "Let's talk in garage" rather than try to debug by asynchronous
   chat.  Since garage is so frequent, this feels good.
-- You can read our "support flowchat" from :doc:`/help/index`.
+- You can read our "support flowchat" from :doc:`help/index`.
 
 
 
@@ -291,11 +291,11 @@ above.  Any ideas?)
 See also
 ---------
 
-- Our :doc:`help page </help/index>`
+- Our :doc:`help page <help/index>`
 
 - List of garages
 
-  - :doc:`/help/garage`
+  - :doc:`help/garage`
 
 - Why the name?
 

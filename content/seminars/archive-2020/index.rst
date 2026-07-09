@@ -5,7 +5,7 @@ Archive 2020-2021
 
 **This is the archive of the old version of the seminar serious, focus
 on Aalto internal people.  It's here in its original form.  The old
-link was ** `https://scicomp.aalto.fi/tech/`.
+link was** ``https://scicomp.aalto.fi/tech/``.
 
 .. admonition:: Upcoming talks
 

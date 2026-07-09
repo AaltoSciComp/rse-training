@@ -79,6 +79,7 @@ of onboarding for new people.
 
    seminars/index
    seminars/archive
+   seminars/archive-2020/index
 
 
 .. toctree::
