@@ -35,5 +35,7 @@ MAY or COULD means things that are really at your option.
    communication-channels
    hr
    finance
-   it-devices-and-procurement
    offices-spaces-remote-work
+   it-devices-and-procurement
+   information-security
+   onboarding
