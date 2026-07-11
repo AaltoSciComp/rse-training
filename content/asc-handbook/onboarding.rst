@@ -37,6 +37,17 @@ you can only get by working on things with others in real projects.)
 You and your supervisor should find some sort of projects you can
 begin focusing on.
 
+The types of things you may do are divided into different roles
+(:doc:`/roles/index`), which are made this way so you don't have to start
+working on everything at once - talk with your supervisor to figure
+out where you want to focus.
+
+As for actual computing skills, there is a plenty to learn, but this
+is what you know how to study on your own.  What you learn here
+depends on what projects you may have and what your interests are, and
+will be very customized to everyone individually.  Some of the most
+important topics are below.
+
 Material:
 
 * Everything on :doc:`this site </index>` in depth.
@@ -67,6 +78,10 @@ the things above.
 
 From this site and others, you can find plenty of stuff to continue
 reading, but a lot will based on what you need for your projects.
+
+You should avoid the trap of doing too many things medium-well.  Work
+with your supervisor and the team to set your priorities, communicate
+to customers what you can and can't do, and focus on that.
 
 
 

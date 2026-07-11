@@ -37,5 +37,6 @@ MAY or COULD means things that are really at your option.
    finance
    offices-spaces-remote-work
    it-devices-and-procurement
+   user-communication
    information-security
    onboarding
