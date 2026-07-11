@@ -75,13 +75,13 @@ External materials
 * `How to ask for help with supercomputers
   <https://cicero.xyz/v3/remark/0.14.0/github.com/bast/help-with-supercomputers/main/talk.md/#1>`__
   by Radovan Bast
-* :doc:`tech/online-work-and-support`
+* :doc:`/seminars/archive-2020/online-work-and-support`
 
 
 
 Training program: materials
 ---------------------------
-* :doc:`tech/user-support-responses`
+* :doc:`/seminars/archive-2020/user-support-responses`
 
 
 
