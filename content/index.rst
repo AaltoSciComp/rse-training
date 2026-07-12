@@ -54,6 +54,7 @@ person's onboarding plan.
    topics/data-management
    topics/ethics
    topics/security
+   topics/sysadmin
    topics/project-process
 
 (section is not yet filled out.) This section is a collection of
