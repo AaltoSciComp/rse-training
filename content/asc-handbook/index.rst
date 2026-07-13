@@ -31,6 +31,7 @@ MAY or COULD means things that are really at your option.
    welcome
    values-and-culture
    science-it-history
+   strategy
    meetings
    communication-channels
    hr
