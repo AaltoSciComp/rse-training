@@ -48,6 +48,7 @@ person's onboarding plan.
    :maxdepth: 1
    :caption: Topical reference
 
+   topics/what-is-aalto
    topics/it-in-aalto
    topics/research-services-at-aalto
    topics/tech
@@ -55,6 +56,7 @@ person's onboarding plan.
    topics/ethics
    topics/security
    topics/sysadmin
+   topics/communication
    topics/project-process
 
 (section is not yet filled out.) This section is a collection of

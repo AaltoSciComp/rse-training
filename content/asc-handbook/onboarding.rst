@@ -8,6 +8,7 @@ how it can be adapted to you.
 For concrete technical steps to take to get access, see the
 rse-internal-wiki onboarding page (link not here).
 
+Upstream onboarding guide: https://www.aalto.fi/en/services/onboarding-guide-for-new-employee
 
 
 First week

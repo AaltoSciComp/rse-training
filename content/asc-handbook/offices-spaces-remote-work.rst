@@ -1,4 +1,34 @@
 Offices and work locations
 ==========================
 
-Our team's basic principle is that 
+Our team's basic principle is that anyone should be able to take part,
+no matter where they are.  In essence, this means we act remote-first
+and anything in-person is a bonus.  We do occasionally have whole-team in-person
+days, and everyone should come to these if at all possible.
+
+(To put this directly, there is much less pressure to compromise
+between other obligations such as child care and work Wherever you
+need to be, you can be and we will make it possible for you to take
+part in the team).
+
+Officially, people are supposed to work on-campus 40% of the time.  In
+our team, no one is going to force someone to waste time coming to
+campus when we have good remote work practices going on (and it would
+end up fracturing our team since online work, which everyone can
+participate in, will suffer).
+
+You aren't officially allowed to work outside of Finland, though, and
+you should not plan on this.  This is probably because it affects tax
+stuff.
+
+We have offices scattered around the campus, and you can work wherever
+makes sense.  Offices include:
+
+* CS Building (many spaces - this is the default work space for most
+  people)
+* Kide (physics) (one spare space)
+* NBE building (one or two spare spaces)
+
+In practice, as of 2026, we do *not* have enough space for everyone.
+We will get more space if needed.  This is likely to evolve in the
+next few years, so this may be out of date.
