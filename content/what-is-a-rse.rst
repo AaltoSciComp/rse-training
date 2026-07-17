@@ -60,7 +60,7 @@ Further reading
   by rkdarst.
 * `RSE lessons from Civil Engineering
   <https://rkd.zgib.net/blog/rse-lessons-from-civil-engineering/>`__
-  by rkdarst
+  by rkdarst (`Aalto library book link <https://primo.aalto.fi/permalink/358AALTO_INST/agblf1/alma999878668406526>`__)
 * :doc:`/asc-handbook/values-and-culture`
 * `A not-so-brief history of Research Software Engineers
   <https://www.software.ac.uk/blog/not-so-brief-history-research-software-engineers-0>`__
