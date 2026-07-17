@@ -1,4 +1,4 @@
-Human Resources formalities
+Human resources formalities
 ===========================
 
 This page will contain our various HR peculiarities, but not replace

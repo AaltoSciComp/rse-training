@@ -1,5 +1,5 @@
-Aalto SciComp values and culture
-================================
+ASC values and culture
+======================
 
 As a team grows, it's useful to outline its values and the way it
 works.  This is our team's attempt at that.

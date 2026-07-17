@@ -1,4 +1,4 @@
-ASC Handbook
+ASC handbook
 ============
 
 This section contains onboarding and "how the team works" for staff of

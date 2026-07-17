@@ -1,4 +1,4 @@
-ASC Strategy
+ASC strategy
 ============
 
 "Strategy" refers to a general plan or vision to achieve our goals (and
