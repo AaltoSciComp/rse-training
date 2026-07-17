@@ -14,15 +14,17 @@ author = 'The contributors'
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
-extensions = ['sphinx_lesson',
-              'sphinx_rtd_theme_ext_color_contrast',
-              'sphinx_aaltoscicomp_branding',
-              'sphinx.ext.intersphinx',
-              ]
+extensions = [
+    'sphinx_lesson',
+    'sphinx_rtd_theme_ext_color_contrast',
+    'sphinx_aaltoscicomp_branding',
+    'sphinx.ext.intersphinx',
+]
 
 templates_path = ['_templates']
 exclude_patterns = []
 
+# https://myst-parser.readthedocs.io/en/latest/syntax/optional.html
 myst_enable_extensions = [
     "colon_fence",
 ]
