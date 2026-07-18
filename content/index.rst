@@ -99,5 +99,5 @@ A seminar series to build RSE skills.
 Other links and ideas not yet sorted to the above sections.
 
 You can also read this as: `a single HTML page <singlehtml/>`__, `epub
-<aaltoscicomp-rse-training.epub>`__, or `PDF
-<aaltoscicomp-rse-training.pdf>`__.
+<AaltoSciComp-rse-training.epub>`__, or `PDF
+<AaltoSciComp-rse-training.pdf>`__.
