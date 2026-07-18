@@ -1,20 +1,22 @@
 Aalto RSE training
 ==================
 
-This site contains the Aalto RSE training program.  It's not a
-textbook or course, but a reference for use during mentoring and of
-what the expectations are - mainly of moving from an individual
-researcher to a consulting engineer in a team.
+This is the Aalto RSE and Aalto Scientific Computing training and
+team reference material.  It's not a textbook or course, but a reference
+for use during mentoring and of what the expectations are.  There is both general information that may be useful outside of
+Aalto, but plenty is specific to our team, especially the later sections.
 
-There is a separate section that is the Aalto SciComp handbook.  This is
-the onboarding material for our team's procedures specifically (not RSE
-skills in general).  
+The first parts are mainly about the roles when moving from an
+individual researcher to a consulting engineer in a team, the middle
+part is topical knowledge reference about, and latter parts are our
+team procedures.
 
-This site is under construction and "wiki rules" are in effect: if you
-see something, just make the update.  Someone will come later and
-clean it up.  I'm also happy if this is useful to others and there are
-suggestions to make it more useful outside Aalto.  Current editor:
-rkdarst.
+This site is still under construction and "wiki rules" are in effect:
+make improvements and iterate, someone will come later and clean it
+up.  I'm also happy if this is useful to others and there are
+suggestions to make it more useful outside Aalto - if there is a lot
+of outside interest, the Aalto specific stuff my be split out.
+Current editor: rkdarst.
 
 
 .. toctree::
@@ -39,9 +41,10 @@ General background information.
    roles/team-supervisor
    roles/exercise-list
 
-This section tells what to expect at Aalto.  It's not expected to be
-read all at once when starting, but slowly mentored according to each
-person's onboarding plan.
+This section tells some of the main roles in our team and how to
+prepare for them.  In practice, there is no real division, but
+this division hopefully makes onboarding more manageable (according to
+one's onboarding plan).
 
 
 .. toctree::
@@ -59,11 +62,11 @@ person's onboarding plan.
    topics/communication
    topics/project-process
 
-(section is not yet filled out.) This section is a collection of
-interesting links and things to learn as RSEs.  It's also not intended
-to be followed one-by-one but a general reference for what you may
-need to know, that is easy to be missed in academic training.  Your
-mentor will tell you what to focus on.
+This section is a reference of what one may need to know to be a RSE.
+It is a collection of interesting links and some original material.
+It's also not intended to be read straight through but instead be a
+general reference for what you may need to know and a place to refer
+to later.  Your mentor will tell you what to focus on.
 
 .. toctree::
    :maxdepth: 1
@@ -84,6 +87,7 @@ of onboarding for new people.
    seminars/archive
    seminars/archive-2020/index
 
+A seminar series to build RSE skills.
 
 .. toctree::
    :maxdepth: 1
@@ -93,3 +97,7 @@ of onboarding for new people.
    other-rse-training
 
 Other links and ideas not yet sorted to the above sections.
+
+You can also read this as: `a single HTML page <singlehtml/>`__, `epub
+<aaltoscicomp-rse-training.epub>`__, or `PDF
+<aaltoscicomp-rse-training.pdf>`__.
