@@ -1,6 +1,8 @@
 Tech stuff
 ==========
 
+(this page could be split out into more focused topics)
+
 This list is made for new people, who have been hired as RSEs at
 Aalto.  This isn't a list of what someone has to know to apply, **and
 not what people should know before starting**.  It only provides a
