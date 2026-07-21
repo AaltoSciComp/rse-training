@@ -19,7 +19,9 @@ Calendars
 ---------
 
 - You have a personal calendar as part of the Outlook.  This is the
-  official Aalto calendar
+  official "Aalto calendar system" and despite being Microsoft stuff,
+  it very useful for everyone to be able to see everyone else's free
+  times.
 - You are expected to keep it reasonably up to date with appointments,
   since we use it to find free times, etc.
 - Send calendar invites to keep people's calendar in sync.
