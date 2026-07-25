@@ -22,21 +22,21 @@ Role list
 
    * *
      * Responsibilities
-   * * Project work
+   * * :doc:`Project work <project-work>`
      * The default RSE job: for a project, learn and/or apply the
        necessary scientific and technical background and work on it
        over time in close collaboration with the customers.  This
        includes project planning when projects are straightforward.
        Primary challenges include ongoing communication with the
        customers.
-   * * Garage support
+   * * :doc:`Garage support <garage>`
      * Help users with drop-in questions in garage and other
        short-term support.  Questions may be anything, and customers
        may be helped directly, you may call someone who can help, or
        they can be directed to other help (with advice).  Primary
        challenges include the huge variety of questions which may
        come, and the need to think on your feet.
-   * * Teaching
+   * * :doc:`Teaching <teaching>`
      * Teaches (+other support) in courses, mainly using the
        CodeRefinery teaching strategies of co-teaching, collaborative
        notes, and livestreaming.  Teaches with compassion and always
@@ -44,7 +44,7 @@ Role list
        are not alone.  Always maintains a critical mind about what
        should be taught (as opposed to blindly recommending best
        practices that aren't practical for the audienc).
-   * * Project planner (architect?)
+   * * :doc:`Project planner <planner>` (architect?)
      * This person has enough broad experience to to untangle what the
        customer actually needs even when they may not know (or it may
        not be possible).  Meet with customers to create the initial
@@ -53,17 +53,17 @@ Role list
        include understanding the optimal solution when even the
        customer may not know what they need and conveying risks and
        limitations.
-   * * Technical mentor
+   * * :doc`Technical mentor <technical-mentor>`
      * Work with junior RSEs (or researchers) in the execution of
        projects, giving pointers and co-working to teach them new
        skills.  Mentors junior RSEs in our project process.  Primary
        challenges include the hands-on teaching and knowing the tech.
-   * * Unit liaison
+   * * :doc:`Unit liaison <unit-liaison>`
      * Keep active communication with the unit, including telling them
        about general RSE activities, attending unit meetings, and
        keeping an active search for projects.  Primary challenges
        include networking with diverse busy people.
-   * * Team Supervisor
+   * * :doc:`Team Supervisor <team-supervisor>`
      * Manage HR and financial practicalities, especially including
        ultimate responsibility for mentoring and productivity of all
        team members and the team itself.

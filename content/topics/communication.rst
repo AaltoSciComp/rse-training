@@ -7,7 +7,102 @@ which most of our new staff get surprised about.  Compared to being a
 academic researcher, you must be prepared to work with customers who
 have very different focuses than you.
 
-You somehow need to communicate:
+
+.. admonition: Philosophy of this page
+
+   I don't seriously think that anything I can tell you what to do.
+   There are so many unique communication styles and unique projects,
+   you need to figure out what to do yourself, via a lot of trial and
+   error and learning from others.  I hope this is a guide, but always
+   keep thinking and improving things.
+
+   Specific guidance for certain types of situations is found under
+   :doc:`the roles section </roles/index>`.
+
+
+
+Key rules
+---------
+
+- **Think defensively.** We are the professionals and thus it is our
+  responsibility to think about how you can be misinterpreted and
+  preemptively prevent that.
+
+- **Right level of detail.** Most of our customers don't need to go as
+  in-depth to technical things as we do.  You need to present what
+  they need to know.
+
+  - RD: in Garage I always start by gently asking "what's your
+    position and department? [and history]" to understand where they
+    are coming from.
+
+- **Be brief.** Get to the point fast enough to be relevant (see
+  above).  People have much less time to listen to you than you have
+  thoughts.  You need to prepare your message well.
+
+  - Of course, details are often needed, and you need to structure
+    your presentation where you get to point fast for most people, and
+    can go deeper {if needed, with others}.
+
+- **Don't go alone.** If you have a colleague there, you can work
+  together (just like co-teaching).  Two brains helps to detect
+  mis-understandings earlier and people can think of different levels.
+
+
+Also think of if you need to communicate strategically (broad shared
+mental models and ideas) or tactically (how are we working together to
+do something).  Different people need a different view on the same
+project (e.g. professor vs their student you are working with).  You
+will need to tailor the message to each.
+
+
+
+Garage support
+--------------
+
+When you are doing small garage-type support, you need to figure out
+needs quickly and make a quick impact.  You have less time to get to
+know the person and project, and perhaps less likely to already be
+familiar with the topic.
+
+Keep in mind the "other side" of the "formulate your question" guide
+for customers in :doc:`help/index`.  Asking these is part of being
+defensive.  We tell our users to tell us the following, so make sure
+you think if you need to ask these:
+
+- **Has it ever worked?** (If so, what has changed?)
+- **What are you trying to accomplish?** (Your ultimate goal, not
+  current technical obstacle.)
+- **What did you do?** (Be specific enough to be reproducible - copy
+  and paste exact commands you run, exact output messages, scripts,
+  inputs, etc.)
+- **What do you need?** Do you need a complete solution, pointers to
+  get started, or should we say if it will take too long and we
+  recommend you think of other solutions first?
+
+It is far too easy to quickly do something, and then realize you did
+the wrong thing.
+
+See also:
+
+* :doc:`/roles/garage`: All the things under "Garage support",
+  including the references there.
+* :doc:`/seminars/archive-2020/user-support-responses`: guide for
+  answering users, notes from an old un-presented seminar.  This is
+  rkdarst's lore.
+
+
+
+Projects
+--------
+
+Projects have unique communication needs in that they are long-term
+and you will go much more in depth.  There are very many more ways for
+something to go off the rails and the team members to get de-synced.
+
+Just think, for example, that you need to communicate a shared vision
+through all the following stages.  At any stage, if the vision
+de-syncs, thing can go very far off the rails:
 
 * The initial idea
 * Decision if the idea is worth pursuing
@@ -16,19 +111,39 @@ You somehow need to communicate:
 * Finishing the plan (or deciding what is finished enough)
 * Reviewing how it went
 
-This may be with yourself, within ASC, with customers, or with the
-broader community.  Everyone is busy and most people can't go as deep
-into topics as you can, so you need to be able to summarize and
-present the right information to the right person.
+These steps may happen in a project with yourself, within ASC, with
+customers, or with the broader community.  Everyone is busy and most
+people can't go as deep into topics as you can, so you need to be able
+to summarize and present the right information to the right person.
 
 
-Other notes:
 
-* Meeting of minds of two different specialties, where both sides
-  don't need to go deep into their things.
-* Conveying information succinctly (briefing)
-* Within our team, distilling down to the right important things that
-  are needed to share information and make decisions.  Nat expecting
-  everyone to know the name things.
+Other notes
+-----------
+
+* Communication is also about thinking.  You need to figure out what
+  the real issue is (by communicating) before you can communicate to
+  solve it.
+
+* Our work is often meeting of minds of two different specialties,
+  where both sides don't need to go deep into their things.  What you
+  need to think about, others may not need to.  Managing this
+  difference is very important.
+
+* Conveying information succinctly (briefing).  Most customers don't
+  need an academic talk on what we are doing.  They need a staff
+  briefing to figure out what they need to know.
+
+* For a lot of this, we talk about work with customers.  It's also
+  true within our team.  We need to distilling down to the right
+  important things that are needed to share information and make
+  decisions.  Even within the team, we have different roles, and not
+  everyone can or should be the same depth into everything.
+
 * Leaders finding the right information and converging to a decision
   in the right timeframe.
+
+* My (rkdarst's) estimate is it might take about two years of being on
+  our team for someone to get good at this.  Take it slow, be prepared
+  for frustration, and take colleagues with you to support.  Talk
+  about what goes well and not so well.
