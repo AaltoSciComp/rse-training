@@ -19,6 +19,7 @@ extensions = [
     'sphinx_rtd_theme_ext_color_contrast',
     'sphinx_aaltoscicomp_branding',
     'sphinx.ext.intersphinx',
+    'sphinx_misc_rkdarst.site_map',
 ]
 
 templates_path = ['_templates']

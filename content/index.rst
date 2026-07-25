@@ -95,6 +95,7 @@ A seminar series to build RSE skills.
 
    12-session-plan
    other-rse-training
+   site-map
 
 Other links and ideas not yet sorted to the above sections.
 
