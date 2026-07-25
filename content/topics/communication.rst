@@ -118,6 +118,84 @@ to summarize and present the right information to the right person.
 
 
 
+Meetings
+--------
+
+Meetings are the time we talk with customers, and while
+hacking/working-together meetings can be ad-hoc, when there are many
+people involved (for example the PIs or it's starting a project), they
+need to be smooth.  I won't pretend to say the best way to do
+meetings, since there are so many unique needs, but it is something
+you should think about and prepare fore.
+
+`This document on military briefings
+<https://www.trngcmd.marines.mil/Portals/207/Docs/TBS/W3S0005%20-%20MILITARY%20BRIEFING.pdf>`__
+(found when searching how to do briefings for other purposes) was a
+somewhat useful classification.  It is way too formal for us, but does
+provide some useful guidelines in a non-nonsense setting where people
+have to practice and do it well.  I think it's good to think about the
+different purposes a meeting may fill, and make sure the structure is
+tuned properly:
+
+* Always start with what the purpose and structure of the meeting is.
+  Ask if there are initial questions and if agenda seems OK.
+
+* In reality, many of our meetings are a combination of the below
+  types, so keep the overall structure and structure of each part
+  clear.
+
+* **Information briefing:** You are presenting information and the
+  goal is listener compensation.
+
+  * Keep it to the point, but the goal is for learners to see the
+    whole picture.  Start with the overall map of the info and end
+    with a summary of the take-aways someone should remember the
+    next day.
+
+* **Decision briefing:** You are seeing a decision from those
+  attending (who is less involved than you).
+
+  * Present several alternatives and your recommendations (remember,
+    you are probably the expert - don't expect the audience to come up
+    with solutions if it's in your domain).
+
+  * Realize that you know things that others can't and won't know, so
+    you need to adjust your presentation so they can understand at a
+    relevant depth (trade-offs relevant to them) to make the decision.
+    As in, you do first filtering to figure out what they should
+    consider, then they think about that.
+
+  * Keep it to the point, but it's possible a decision can be made
+    even partway through without the full details.  It's also
+    possible questions will take you deeper into some of the
+    options.
+
+  * Make the decision clear and write it down.
+
+* **Staff briefing:** This is the term used for recurrent "status
+  update" meetings.
+
+  * Keep them short and don't reproduce what could be read
+    independently.  Tailor for the audience and what is most important
+    to discuss.
+
+  * Can easily become boring and a waste of time if you can't focus on
+    what needs to be synced.
+
+* **Mission briefing:** You are about to do something together.
+
+  * More focused on coordination, much more technical.  May have fewer
+    people, or you may release the PIs after the initial intro and
+    framing while others do hacking (if PIs aren't involved so much
+    there).
+
+* We are much less formal than all of these, and many of our meetings
+  have different types all mixed together, but there probably some
+  worth to considering these points, writing to them, and being
+  explicit about it.
+
+
+
 Other notes
 -----------
 
