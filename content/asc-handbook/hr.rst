@@ -29,6 +29,32 @@ system and handle only things by day.
 
 
 
+Vacations
+---------
+
+As an academic, you were probably use to working all the time and not
+fully taking vacations.  That should not be necessary here, but since
+we have highly motivated people it sometimes happens.  However this
+should be your own choice, not someone else's choice.  That means:
+
+* You should say no if you are getting too much work (and constantly
+  be thinking if that might be the case to avoid getting there).
+* Not make promises that can't be reasonably accomplished during
+  non-vacation worktime (this also means being aware of the risk in
+  discussions and planning what happens if the risk happens).
+* Never promise customers that you or someone is guaranteed to be
+  available on vacations.
+* Use the team.  If projects do ever require require standby or
+  on-call work during vacations to, coordinate with others on the team
+  to cover you.
+
+Our team's general practice is that anyone can take vacation whenever
+they want (but this is not a promise that this stays in the future).
+We usually have someone around, and if there is every a critical
+staffing shortage, we will figure out what to do then.
+
+
+
 Possibly unexpected things
 --------------------------
 
