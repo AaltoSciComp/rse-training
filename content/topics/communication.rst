@@ -211,6 +211,19 @@ help to take notes or maintain a larger strategic overview?
 
 
 
+Reports and writing
+-------------------
+
+Most of us come from an academic background and have plenty of
+experience writing.  Just like many of the things above, there is a
+difference in writing as research engineers: academic writing is made
+for other academics deep in your field (show your deep knowledge to
+get cited), while most of our writing is for people who are not as
+deep in our field and we need to adjust the way we think and write.
+(Same as everything above, right?)
+
+
+
 Other notes
 -----------
 
