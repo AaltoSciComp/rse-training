@@ -53,7 +53,7 @@ Role list
        include understanding the optimal solution when even the
        customer may not know what they need and conveying risks and
        limitations.
-   * * :doc`Technical mentor <technical-mentor>`
+   * * :doc:`Technical mentor <technical-mentor>`
      * Work with junior RSEs (or researchers) in the execution of
        projects, giving pointers and co-working to teach them new
        skills.  Mentors junior RSEs in our project process.  Primary
