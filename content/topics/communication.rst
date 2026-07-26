@@ -10,11 +10,13 @@ have very different focuses than you.
 
 .. admonition: Philosophy of this page
 
-   I don't seriously think that anything I can tell you what to do.
-   There are so many unique communication styles and unique projects,
-   you need to figure out what to do yourself, via a lot of trial and
-   error and learning from others.  I hope this is a guide, but always
-   keep thinking and improving things.
+   I don't seriously think that anything I can tell you that you can't
+   better learn elsewhere.  I don't think this can be complete or a
+   proper lesson.  There are so many unique communication styles and
+   unique projects, you need to figure out what to do yourself, via a
+   lot of trial and error and learning from others.  I hope can get
+   you thinking (and maybe we can make it better), but always keep
+   thinking, learning from others, and improving things.
 
    Specific guidance for certain types of situations is found under
    :doc:`the roles section </roles/index>`.
@@ -193,6 +195,19 @@ tuned properly:
   have different types all mixed together, but there probably some
   worth to considering these points, writing to them, and being
   explicit about it.
+
+* I think almost every meeting should have a live notes document (for
+  example the project template google doc) which is set up at the
+  beginning, screen-shared, and used to take notes.  Share the link
+  with everyone (if you use the same doc repeatedly, it's easy next
+  time).  Yes, this takes some time but shows that we are actively
+  listening.  It also allows decisions and plans to be immediately
+  recorded.
+
+Meetings are a good time to bring another ASC team member, or use them
+to look over your materials.  If you can't explain it to an ASC team
+member, do you have any hope for customers?  Does an ASC team member
+help to take notes or maintain a larger strategic overview?
 
 
 
