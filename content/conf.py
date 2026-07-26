@@ -39,6 +39,8 @@ html_static_path = ['_static']
 html_theme_options = {
     "prev_next_buttons_location": False,
     "style_external_links": True,
+#    "collapse_navigation": True,
+#    "navigation_depth": 2
 }
 html_css_files = [
     "theme_overrides.css",
@@ -51,6 +53,13 @@ html_context = {
     "github_version": "main",
     "conf_py_path": "/content/",
 }
+
+
+latex_engine = 'xelatex'
+latex_toplevel_sectioning = 'chapter'  # 'part' | 'chapter' | 'section'
+latex_show_pagerefs = True
+latex_show_urls = 'footnote'
+latex_theme = 'manual'
 
 
 intersphinx_mapping = {
