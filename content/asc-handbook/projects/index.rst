@@ -23,8 +23,6 @@ tracked.
    tracking-reporting-gitlab
    old-project-tracking
    prioritization
-   outreach-material
-   templates
 
 
 TODO: insert graphs here that describe what we do.

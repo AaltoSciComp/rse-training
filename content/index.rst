@@ -74,7 +74,7 @@ to later.  Your mentor will tell you what to focus on.
 
    asc-handbook/index
    asc-handbook/projects/index
-   asc-handbook/checklists/index
+   asc-handbook/ref/index
 
 The ASC handbook is our own team's internal practices - basically a part
 of onboarding for new people.
