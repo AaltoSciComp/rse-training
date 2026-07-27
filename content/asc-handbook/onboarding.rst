@@ -17,8 +17,10 @@ First week
 In the first week you are still getting familiar with things.  Most of
 your time is spent shadowing other support sessions in
 :doc:`help/garage`, finding our basic collaboration tools (chat,
-Google Drive, etc. how meetings work, etc.)  In general, follow
-everyone around, sit in on things, ask questions.
+Google Drive, etc. how meetings work, etc.).  The team leader should
+announce your arrival and ask people to hang out in garage (even not
+during the garage time).  In general, follow everyone around, sit in
+on things, ask questions.
 
 Material:
 
