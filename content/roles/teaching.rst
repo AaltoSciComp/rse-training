@@ -59,6 +59,14 @@ External materials
   (includes ideas for teaching).  (`readable transcript
   <https://coderefinery.github.io/train-the-trainer/preparation/>`__)
 * All :external+manuals:doc:`CodeRefinery manual pages <index>`
+* Carpentries `Learner-centric teaching
+  <https://carpentries.org/learner-centered-teaching/>`__ (`Link to
+  material
+  <https://carpentries.github.io/instructor-training-lct/>`__).
+
+  * (we currently think that) This is like Carpentries instructor
+    training, but focused on the teaching pedagogy and without the
+    material to become a certified Carpentries instructor.
 
 
 Other
