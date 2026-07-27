@@ -5,6 +5,11 @@ This page contains material useful for reaching out to potential
 users.  It isn't an playbook that must be followed, but ideas for you
 to build on.
 
+Outreach is important, and you can take worktime to do it.  Just in
+general "being out there" leads to more high-quality work down the
+line.  You are encouraged to look for opportunities for our team and
+to come to outreach events organized by others.
+
 
 
 Our message
