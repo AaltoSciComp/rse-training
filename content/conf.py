@@ -20,6 +20,7 @@ extensions = [
     'sphinx_aaltoscicomp_branding',
     'sphinx.ext.intersphinx',
     'sphinx_misc_rkdarst.site_map',
+    'sphinx_misc_rkdarst.inote',
 ]
 
 templates_path = ['_templates']
