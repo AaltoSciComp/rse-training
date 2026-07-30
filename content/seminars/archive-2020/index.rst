@@ -1,11 +1,11 @@
-Archive 2020-2021
+Archive 2021-2022
 =================
 
 **Previous page title: FCCI Tech (aka the SciComp Tech series)**
 
 **This is the archive of the old version of the seminar serious, focus
-on Aalto internal people.  It's here in its original form.  The old
-link was** ``https://scicomp.aalto.fi/tech/``.
+on Aalto internal people and practices.  It's here in its original
+form.  The old link was** ``https://scicomp.aalto.fi/tech/``.
 
 .. admonition:: Upcoming talks
 
