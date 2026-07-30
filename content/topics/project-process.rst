@@ -186,5 +186,5 @@ Ending the project
 ~~~~~~~~~~~~~~~~~~
 
 * Update the issue tracker.
-* See the :doc:`/asc-handbook/checklists/project-done` checklist.
+* See the :doc:`/asc-handbook/ref/project-done` checklist.
 * TODO: add more here

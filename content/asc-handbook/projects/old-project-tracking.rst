@@ -47,7 +47,7 @@ Procedures by project size
        RSE meeting before promising anything.  In the meeting, the
        responsible RSE is decided and they contact the customer.
      * rse-projects issue tracker updated
-       (:doc:`../checklists/project-done`).
+       (:doc:`../ref/project-done`).
    * * Large
      * Second (try to do all we can to get outside funding)
      * If there is not enough time for all requests, in proportion to :doc:`unit priorities <rse/procedures/units-info>`.
