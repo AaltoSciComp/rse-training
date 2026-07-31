@@ -9,7 +9,10 @@ in-person days, and everyone should come to these if at all possible.
 (To put this directly, there is much less pressure to compromise
 between other obligations such as child care and work Wherever you
 need to be, you can be and we will make it possible for you to take
-part in the team).
+part in the team.  I'd recommend getting a good remote work setup: at
+least one monitor, keyboard, etc. to feel comfortable.  Officially
+Aalto doesn't pay for remote work stuff, but some old supplies can
+sometimes be found.)
 
 Despite being "remote-first", we should have a very low threshold for
 meeting in-person when it will help, especially for brainstorming or
