@@ -1,6 +1,8 @@
 OLD: Project management: RSE perspective
 ========================================
 
+**OLD material - will be deleted once it is moved to other locations.**
+
 
 Summary
 -------

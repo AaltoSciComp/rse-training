@@ -38,7 +38,7 @@ we have highly motivated people it sometimes happens.  However this
 should be your own choice, not someone else's choice.  That means:
 
 * You should say no if you are getting too much work (and constantly
-  be thinking if that might be the case to avoid getting there).
+  be aware of this possibility).
 * Not make promises that can't be reasonably accomplished during
   non-vacation worktime (this also means being aware of the risk in
   discussions and planning what happens if the risk happens).
@@ -46,7 +46,9 @@ should be your own choice, not someone else's choice.  That means:
   available on vacations.
 * Use the team.  If projects do ever require require standby or
   on-call work during vacations to, coordinate with others on the team
-  to cover you.
+  to cover you (for example by having multiple people on the project
+  from the start, or onboarding someone to cover during your
+  vacations).
 
 Our team's general practice is that anyone can take vacation whenever
 they want (but this is not a promise that this stays in the future).

@@ -10,16 +10,14 @@ and end up in yearly reports.  (Thus "Garage" and "Small" are not
 considered projects in this sense, even though we may say "garage
 projets" and "small projects" - you can figure it out).
 
-**Garage support** is the term used for Garage and Small projects (even
-though "small" is split from garage when talking to management,
-internally we would treat them pretty similar).  These are only vaguely
-tracked.
+**Support** is the term used for Garage and Small support.  These are
+only roughly tracked.
 
 
 .. toctree::
    :maxdepth: 1
 
-   garage
+   support
    tracking-reporting-gitlab
    old-project-tracking
    prioritization

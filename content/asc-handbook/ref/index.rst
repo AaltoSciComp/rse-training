@@ -7,3 +7,4 @@ Checklists, reference, and material
    project-done
    outreach-material
    message-templates
+   Planning template doc <https://docs.google.com/document/d/1XcxeNLRq0kOsFbDEmA7ArdbIrCVudMWHPFQsKRVcTIk>

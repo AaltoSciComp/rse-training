@@ -94,7 +94,9 @@ Exercises
    explanations went and giving recommendations to a colleague).  We
    use these lessons in our teaching.
 
-   Preparation: `Watch
+   Preparation: Watch `How to teach board games like a pro
+   <https://www.youtube.com/watch?v=P5fjDaFuft8>`__ and/or the local
+   tech teaching version `on youtube
    <https://www.youtube.com/watch?v=61Cdi4Eje2Y>`__ or (`read
    <https://coderefinery.github.io/train-the-trainer/preparation/>`__)
    the "Motivation to CodeRefinery instructor training" (teaching tech
