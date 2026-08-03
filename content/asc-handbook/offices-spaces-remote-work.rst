@@ -36,6 +36,7 @@ makes sense.  Offices include:
   people)
 * Kide (physics) (one spare space)
 * NBE building (one or two spare spaces)
+* TUAS building, AI Factory Hub (six ad-hoc places in shared room)
 
 In practice, as of 2026, we do *not* have enough space for everyone if
 everyone started showing up.  We will get more space if needed.  This
