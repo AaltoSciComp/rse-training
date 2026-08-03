@@ -27,9 +27,31 @@ Zoom
   you can configure.  Set username to ``[ASC] Your Name`` so users can
   know who we are.
 - You will be added as a co-host to the Garage zoom meeting, and then
-  you can control breakout rooms (if you are logged in).
+  you can control breakout rooms (if you are logged in).  You can move
+  yourself and others to different rooms.
+- Don't click "End meeting" ever - everyone will stop.  Always click
+  "Leave meeting" and transfer host to someone else if needed.
 
 See also: :doc:`meetings` for how we meet via Zoom.
+
+
+Audio
+-----
+
+This fits under "meetings" and "zoom" but is important enough to make
+it a separate section.
+
+- Audio quality is the most important for our style of working.  If
+  you don't have good audio quality, it affects others, too.  Good
+  headphones also help your comfort.
+- Minimum standards would be: microphone in front of your mouth (boom
+  mic on headset or desk) and not bluetooth (dedicated dongle and wire
+  for latency)
+- Read the `CodeRefinery instructor audio guide
+  <https://coderefinery.github.io/manuals/instructor-audio/>`__ for
+  details and recommendations.
+- Ask your supervisor how to buy headphones if you need them.  We have
+  options.
 
 
 Calendars
@@ -40,13 +62,16 @@ Calendars
   it very useful for everyone to be able to see everyone else's free
   times.
 - You are expected to keep it reasonably up to date with appointments,
-  since we use it to find free times, etc.
-- Send calendar invites to keep people's calendar in sync.
+  so that people can know when your free times are.
+- Send calendar invites to keep people's calendar in sync and make
+  meetings explicit.  Send them to customers to make meetings
+  explicit.  Etc.
 - We have a "Science-IT" calendar which you can add (see onboarding)
   which appears alongside your calendar.  This is used for things
-  which people should know about, but is not appropriate to send out a
-  calendar invite to everyone (it's not something that everyone has to
-  or probably will attend).
+  which people should know about, but is not worth reserving a time in
+  everyone's calendar (since not everyone is expected to attend).  You
+  can open the event from the Science-IT calendar and send it to you,
+  if you want it on yours.
 
 
 Chat systems
