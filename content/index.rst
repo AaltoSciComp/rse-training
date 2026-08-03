@@ -56,6 +56,7 @@ one's onboarding plan).
    topics/research-services-at-aalto
    topics/tech
    topics/data-management
+   topics/data-storage
    topics/ethics
    topics/security
    topics/sysadmin
