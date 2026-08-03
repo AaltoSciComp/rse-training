@@ -21,7 +21,7 @@ You can find Aalto policies that say one person should have one
 device, but that clearly doesn't make sense for us.  If you need extra
 devices for testing, ask.  We can find plenty of older devices,
 including standalone (not Aalto managed) devices that you can use for
-testing.
+testing.  You can find current models at itorders.aalto.fi.
 
 
 Other computers
@@ -44,3 +44,7 @@ ask the right channels if they can buy it for you, and if not, then
 they can tell you it's OK to buy and get it reimbursed.  This is
 because there are various procurement contracts, and we need to make
 sure things are done properly.
+
+You can find other standard equipment at itorders.aalto.fi, and if you
+need something that isn't there, check the rest of dustin.fi and it
+can usually be ordered.

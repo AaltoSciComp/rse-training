@@ -12,7 +12,8 @@ need to be, you can be and we will make it possible for you to take
 part in the team.  I'd recommend getting a good remote work setup: at
 least one monitor, keyboard, etc. to feel comfortable.  Officially
 Aalto doesn't pay for remote work stuff, but some old supplies can
-sometimes be found.)
+sometimes be found.  However, standard things that move like
+headphones can be bought for use at home, of course.)
 
 Despite being "remote-first", we should have a very low threshold for
 meeting in-person when it will help, especially for brainstorming or
