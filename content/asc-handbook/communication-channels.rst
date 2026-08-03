@@ -6,13 +6,30 @@ Email
 
 - You should keep up to date with our email.
 - Aalto email is Microsoft which isn't great, but that's life.
-- `This extension
+- If you get a login loop for Outlook web, `this extension
   <https://github.com/rkdarst/browser-ext-delete-outlook-cookies>`__
-  that rkdarst made can delete the relevant Web Outlook cookies to
-  prevent login loops.
+  that rkdarst made can delete the relevant Web Outlook cookies
+  automatically.  (It's kind of ridiculous that we have to go making
+  these things...)
 - When setting up the Microsoft two-factor authentication, you can use
   use a non-phone device and get a QR code that works with any TOTP
   device/program.
+
+
+Zoom
+----
+
+- This is our main synchronous communication method.  It's good to get
+  used to it.
+- Our Zoom has a private data center somewhere in the Nordics (by
+  NordUNet).
+- Log in to aalto.zoom.us (Aalto account) and you will get a username
+  you can configure.  Set username to ``[ASC] Your Name`` so users can
+  know who we are.
+- You will be added as a co-host to the Garage zoom meeting, and then
+  you can control breakout rooms (if you are logged in).
+
+See also: :doc:`meetings` for how we meet via Zoom.
 
 
 Calendars

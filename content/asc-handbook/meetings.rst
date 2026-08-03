@@ -5,6 +5,8 @@ Meetings
 The SciComp Garage zoom
 -----------------------
 
+See also: :doc:`communication-channels` for Zoom functions.
+
 We have one zoom room, the :doc:`help/garage` zoom room, which is used
 for most of our meetings.  This reduces the friction to start talking
 when people want to get together.  There's always one default place for
