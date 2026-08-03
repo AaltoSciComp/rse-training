@@ -12,25 +12,28 @@ Email
   automatically.  (It's kind of ridiculous that we have to go making
   these things...)
 - When setting up the Microsoft two-factor authentication, you can use
-  use a non-phone device and get a QR code that works with any TOTP
-  device/program.
+  configure a custom authenticator app (not the default phone app that
+  needs some Microsoft stuff) get a QR code that works with any TOTP
+  device/program.  Then, for example, a web browser extension can do
+  MFA instead of the main Microsoft app.
 
 
 Zoom
 ----
 
 - This is our main synchronous communication method.  It's good to get
-  used to it.
+  used to it (and unfortunately install the desktop application...).
 - Our Zoom has a private data center somewhere in the Nordics (by
   NordUNet).
-- Log in to aalto.zoom.us (Aalto account) and you will get a username
-  you can configure.  Set username to ``[ASC] Your Name`` so users can
-  know who we are.
+- Log in to https://aalto.zoom.us (Aalto account) and you will get an
+  Aalto zoom account and be able to configure it.  Set username to
+  ``[ASC] Your Name`` so users can know who is staff.
 - You will be added as a co-host to the Garage zoom meeting, and then
   you can control breakout rooms (if you are logged in).  You can move
   yourself and others to different rooms.
-- Don't click "End meeting" ever - everyone will stop.  Always click
-  "Leave meeting" and transfer host to someone else if needed.
+- Don't click "End meeting" ever - everyone will be kicked out.
+  Always click "Leave meeting" and transfer host to someone else if
+  needed.
 
 See also: :doc:`meetings` for how we meet via Zoom.
 
@@ -80,8 +83,9 @@ Chat systems
 - We use Zulip chat. Its specialty is organizing information.
 - `Official getting started guide
   <https://zulip.com/help/getting-started-with-zulip>`__
-- `rkdarst's hints on managing too much information
-  <https://rkd.zgib.net/blog/2026/zulip-guide/>`__
+- `rkdarst's hints on managing too much information in Zulip
+  <https://rkd.zgib.net/blog/2026/zulip-guide/>`__ - a lot of
+  practical advice on configuring Zulip for usability.
 - Chat is for short term topics.  It is great for quick talks, but:
 
   - It's short term and not everyone can follow everything.
