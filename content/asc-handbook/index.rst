@@ -19,12 +19,6 @@ This handbook is also long, and while you should browse and know the
 basics here, a lot of the purpose is to have a link so that someone who
 knows of the page can send you the link.
 
-Inspired by RFCs/IETF task force documents, this will use the
-terminologies MUST to mean something you should do (unless you really
-think why not and others know), SHOULD or RECOMMENDED are things you
-should usually do but there are cases where it may not be practical, and
-MAY or COULD means things that are really at your option.
-
 .. toctree::
    :maxdepth: 1
 
