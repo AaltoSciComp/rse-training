@@ -44,17 +44,19 @@ Audio
 This fits under "meetings" and "zoom" but is important enough to make
 it a separate section.
 
-- Audio quality is the most important for our style of working.  If
-  you don't have good audio quality, it affects others, too.  Good
-  headphones also help your comfort.
+- Audio quality is extremely important for our style of working.  If
+  you don't have good audio quality, it affects others and the
+  smoothness of the whole meetings.  Good headphones also help your
+  comfort.
 - Minimum standards would be: microphone in front of your mouth (boom
   mic on headset or desk) and not bluetooth (dedicated dongle and wire
-  for latency)
+  for latency).
 - Read the `CodeRefinery instructor audio guide
   <https://coderefinery.github.io/manuals/instructor-audio/>`__ for
   details and recommendations.
-- Ask your supervisor how to buy headphones if you need them.  We have
-  options.
+- Ask your supervisor how to buy headphones if you need them.  (You
+  aren't expected to spend your own money, but are expected to have
+  something good.)  We have options.
 
 
 Calendars
