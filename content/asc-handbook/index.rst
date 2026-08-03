@@ -28,6 +28,7 @@ knows of the page can send you the link.
    strategy
    meetings
    communication-channels
+   information-organization
    hr
    finance
    offices-spaces-remote-work
