@@ -73,5 +73,6 @@ question until the end).
 This seminar series is hosted by LUMI AI Factory partners Aalto
 Scientific Computing and CSC, but others are welcome to join the
 organization.  If you want to join us, the [CodeRefinery
-chat](https://coderefinery.github.io/manuals/chat/), `#nordic-rse` or
-`#hpc` channels, are good places to chat with us.
+chat](https://coderefinery.github.io/manuals/chat/), `#hpc` > `LUMI AI
+Factory RSE Seminar` channel/topic (or `#nordic-rse` or `#finland`),
+are good places to chat with us.
