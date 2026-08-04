@@ -13,3 +13,4 @@ used as RSE training programs.
 * https://www.hpc-certification.org/
 * https://eumaster4hpc.eu/
 * https://fys-8805-collaborative-coding.github.io/lecture-material/
+* https://the-teachingrse-project.github.io/RSE-Masters/
