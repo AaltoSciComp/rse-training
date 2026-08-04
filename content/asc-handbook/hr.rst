@@ -55,6 +55,16 @@ they want (but this is not a promise that this stays in the future).
 We usually have someone around, and if there is every a critical
 staffing shortage, we will figure out what to do then.
 
+Typical vacation/absence practices:
+
+* Think for yourself if a time is OK for a (existing commitments, talk
+  to customers if needed, see team schedule, etc.)
+* State your absence in the ``#science-it`` channel, ``absences`` topic.
+* Mark your calendar as being out of office (if vacation) or busy
+  (work trip etc.)
+* Email auto-reply (if relevant)
+* Request vacation in Workday (formality but keeps stuff organized).
+
 
 
 Possibly unexpected things
