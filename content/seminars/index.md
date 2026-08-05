@@ -5,7 +5,7 @@ others are welcome to attend.
 
 :::{admonition} Next seminar
 
-**2026 September 18: AI agent coding without sending stuff to foreign clouds**
+**2026 September 11: AI agent coding without sending stuff to foreign clouds**
 
 (Description here)
 
