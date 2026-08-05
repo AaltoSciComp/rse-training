@@ -21,7 +21,7 @@ Audience:
 
 *Early stage plan - just to give you an idea of what might happen:*
 
-* 18 September: AI agent coding locally (no foreign clouds).
+* 11 September: AI agent coding locally (no foreign clouds).
 * 16 October: Data protection and privacy.
 * 20 Nov: Container tricks and defending against supply chain attacks.
 * 11 December: Local LLM infrastructure.
