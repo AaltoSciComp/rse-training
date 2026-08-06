@@ -11,6 +11,21 @@ funding sources and Halli is not precise enough for a report).
 
 
 
+When is something a "project" and not support?
+----------------------------------------------
+
+This is a good question and there is no fixed answer.
+
+* Project: requires more than several days on our part.
+
+* Project: has value in appearing separately on our reports by name
+  (and you are willing to record the time spent each month in the
+  ``rse-timetracking`` spreadsheet.
+
+* Should be a project: major courses we teach.
+
+
+
 Basic principles
 ----------------
 
@@ -31,6 +46,43 @@ Basic principles
 
   * For each thing that is big enough to be a project, make sure that
     the rough monthly time is set correctly.
+
+
+
+Gitlab summary
+--------------
+
+There is an issue template (``Default``) that has a basic template to
+fill out.  Fill it out well enough to give someone an idea what is
+happening.  Be structured and add all relevant labels.
+
+This contains:
+
+* Name
+* Summary
+* Contacts and supervisor
+* Unit
+* Funding
+* Labels to indicate what it covers...
+
+You can read details of using Gitlab at
+https://github.com/AaltoRSE/rse-timetracking (but that is too
+detailed and I wouldn't recommend reading it).
+
+
+
+``rse-timetracking`` spreadsheet
+--------------------------------
+
+This is the person x month spreadsheet rkdarst is using for long-term
+planning.  Each month's cell should be accurate for what you did at
+the end of each month.  Each project should be tagged with ``#NNN``
+and a script will extract this to get the time distribution.
+
+The spreadsheet does not have to have anything classified as "support"
+in it.  That fits in spare unallocated time.  A person should not
+usually go above 80% full (to have time for these other things).
+
 
 
 Reporting by step
@@ -63,26 +115,6 @@ Reporting by step
   later).  It is important we can say how much of this work we do.
   Don't forget to update maintenance time to the ``rse-timetracking``
   spreadsheet.
-
-
-
-Gitlab summary
---------------
-
-TODO: section not filled out yet.
-
-You can read details of using Gitlab at
-https://github.com/AaltoRSE/rse-timetracking (but that is too
-detailed and I wouldn't recommend reading it).
-
-This contains:
-
-* Name
-* Summary
-* Contacts and supervisor
-* Unit
-* Funding
-* Labels to indicate what it covers...
 
 
 
