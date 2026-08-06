@@ -83,3 +83,21 @@ This contains:
 * Unit
 * Funding
 * Labels to indicate what it covers...
+
+
+
+Example report outputs
+----------------------
+
+*This section shows what kind of reports we can make with the data, so
+you can see the purposes of the reports - if you can see the output,
+that may help with motivation to produce the data.  See*
+:doc:`rse/reports/2025`.
+
+
+.. figure:: https://github.com/AaltoSciComp/scicomp-docs/blob/master/rse/reports/2025-projects-schools.png?raw=true
+
+   Showing the projects per school.  This shows funders where our time
+   goes.  (Note it does not consider time spent per project).
+
+See the full report for more.

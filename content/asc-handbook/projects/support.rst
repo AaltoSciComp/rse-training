@@ -74,3 +74,33 @@ Small support
   time, too.  Record each meeting in the garage diary.
 
 * Reporting: this is mixed in with the garage reporting.
+
+
+Example report outputs
+----------------------
+
+*This section shows what kind of reports we can make with the data, so
+you can see the purposes of the reports - if you can see the output,
+that may help with motivation to produce the data.  See*
+:doc:`rse/reports/2025`.
+
+.. figure:: https://github.com/AaltoSciComp/scicomp-docs/blob/master/rse/reports/2025-garage-positions.png?raw=true
+
+   This shows the positions of garage customers.  Leadership likes to
+   see that we support a variety of people, with emphasis of PhD
+   students.
+
+   This chart, and all of them, has a numerical value on the vertical
+   axis, but as it says, the data is incomplete since not everyone
+   remembers to add entries.  This makes it a bit difficult to explain
+   the results.
+
+.. figure:: https://github.com/AaltoSciComp/scicomp-docs/blob/master/rse/reports/2025-garage-units.png
+
+   Like above, but this shows the departments of attendees.  This
+   shows a broad benefit and helps to secure more funding.
+
+.. figure:: https://github.com/AaltoSciComp/scicomp-docs/blob/master/rse/reports/2025-garage-schools.png?raw=true
+
+   Like above, but broken down by department.  Having structured data
+   lets us make this report.
