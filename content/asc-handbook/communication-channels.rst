@@ -119,3 +119,7 @@ Chat systems
 - Try to avoid private messages unless about a personal matter - it's
   better to use our internal channels and good topics and allow
   everyone to learn from our questions.
+
+
+Mailing lists
+-------------
