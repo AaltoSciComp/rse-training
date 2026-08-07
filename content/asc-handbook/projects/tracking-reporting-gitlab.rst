@@ -132,4 +132,21 @@ that may help with motivation to produce the data.  See*
    Showing the projects per school.  This shows funders where our time
    goes.  (Note it does not consider time spent per project).
 
-See the full report for more.
+See the full report for more figures.
+
+
+Below is an example from the automatically-generated text report that
+is sometimes requested.  It has the issue title, various metadata from
+labels and ``/``-commands, and the ``/summary`` summary.
+
+    Adding functionality to [some-software] (#nnn / ELEC)
+
+    * Feb 202x
+    * Contacts: user.name@example.com
+    * Time saved / spent: 2w / 2w5d1h
+    * Size: 2-M
+
+    Researcher needed to access some information in [some software]
+    that was not included in the Python API. We extended the API to
+    provide the information and submitted a pull request to the
+    original repository.
