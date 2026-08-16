@@ -46,6 +46,7 @@ What makes Aalto RSEs different from academic researches:
   collectively, individually we are all learning new things)
 * More determination and focusing on a few tasks (getting them to
   completion) rather than doing too many things at once.
+* Our standards of communication are much higher.
 
 What makes Aalto RSE different from RSEs in other places:
 
@@ -59,6 +60,7 @@ Compared to software developers:
 
 * We have much more research experience and can usefully discuss with
   researchers about their needs without a middle layer of managers.
+* We do not just work on "software" but everything related to computing.
 * We don't just build to a specification.  The customers often don't
   know what they need, so we need to work as equal collaborators to
   figure out what that specification is.

@@ -23,6 +23,7 @@ involved.
 
 Main challenges/pitfalls
 ------------------------
+
 * Customers may not know what they need (and maybe not even what to
   ask for).  If we do exactly what they ask, we may do the wrong
   thing.  We need to carefully work to find out what the goals are.
@@ -38,6 +39,12 @@ Main challenges/pitfalls
   concisely enough that the customers and others can understand what
   is happening. (This often happens when needing to present the
   project to more customers than the original ones.)
+* Customers may present overly broad project plans, perhaps even
+  generated with AI and thus not realistic or representative of what
+  the customer actually needs.
+* It can sometimes be difficult to know if a project even should be
+  accepted, or declined (and in that case, providing the next best
+  options to the customers).
 * All the risks that come with research and software development,
   combined.
 
@@ -67,7 +74,9 @@ Expectations / checklists
   come up with the right people to do the project.  You don't
   necessarily have to do every project yourself, even if you are
   involved in planning them.
-* Have the courage to say "no" when that is the best answer.
+* Have the courage to say "no" when that is the best answer, and
+  decide when that is the case.  In these situations, make a plan with
+  the next-best options for the customers to do what they need to do.
 * If someone else new is working on the projects, mentor them with the
   material from :doc:`project-work`.
 * If you aren't working directly with the project, stay engaged enough

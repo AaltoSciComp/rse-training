@@ -27,6 +27,8 @@ Expectations / checklists
 * Be aware of the team enough to know if there are problems, and
   deal with them.
 * Intervene in projects for which the customer is not satisfied.
+  Follow up enough (possibly out of band) to know when this is the
+  case.
 * Coordinate hiring.
 
 

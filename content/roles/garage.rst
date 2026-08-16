@@ -92,13 +92,14 @@ Exercises
 
    Goal: run through a fairly normal support request.
 
+   Your partner: roleplay coming to garage and asking some normal-ish
+   question.
+
    You: roleplay answering a fairly typical garage customer.  Figure
    out who they are (department/position), what their topic is,
    decide that you can handle it, exact details of the problem,
    solving the problem, telling them next steps and you know they can
    do it.
-
-   Your partner: roleplay coming to garage and asking some normal-ish question.
 
 
 .. exercise:: Garage-2: Roleplay a support request where you don't know the answer
@@ -108,11 +109,11 @@ Exercises
    day, waiting a bit for someone else to be free, sending email to
    arrange a specific meeting, directing them to some other team)
 
+   Your partner: roleplay coming to garage and asking something.
+
    You: roleplay the above.  The script should go like the previous
    exercise but you can't answer it directly.  (you can also pretend
    you can't answer it even if you can)
-
-   Your partner: roleplay coming to garage and asking something.
 
    Example cases:
 
@@ -126,12 +127,12 @@ Exercises
    Goal: practice your confidence when dealing with customers who
    won't let go of specific misconceptions they have.
 
-   You: roleplay responding to the request below.  Try to talk them
-   down and at least have them leave on good terms, since they never
-   seem to give it up.
-
    Your partner: You are a customer is in the garage insisting you
    know the best way to do something or what is wrong.
+
+   You: roleplay responding to the request.  Try to talk them
+   down and at least have them leave on good terms, since they never
+   seem to give it up.
 
    Example cases:
 
@@ -143,6 +144,24 @@ Exercises
      like we are the problem.
 
 
+.. exercise:: Garage-4: Why garage?
+
+   Goal: practice explaining to someone about why they should visit
+   garage (and in general ask for help).
+
+   Your partner: Roleplay a family member explaining why they don't
+   wan to go visit a (medical) doctor, with various reasons (I can
+   handle it, I'm afraid of doctors, they aren't nice to me / don't
+   tell me what is going on, etc.)
+
+   You: Explain why it's better to ask help and how we are better than
+   others.
+
+   Twist: This isn't about medical doctors, this is about computing.
+   Mentally adjust the situation above for computing support in
+   garage.  Discuss the similarities and differences.
+
+
 .. exercise:: Garage-4: Roleplay someone in over their head
 
    Goal: practice a frustrating situation where it seems, no matter
@@ -151,11 +170,11 @@ Exercises
    what to do next.  (Note: if this happens and it needs to be
    escalated to the supervisor, contact one of the team leaders.)
 
-   You: roleplay responding to the request below.  Try to leave them
-   feeling encouraged somehow and with something to do next.  Try to
-   understand their background to make the next recommendation.
+   Your partner: Roleplay a customer in over their head.
 
-   Your partner: You are a customer in over their head.
+   You: roleplay responding to the request.  Try to leave them feeling
+   encouraged somehow and with something to do next.  Try to
+   understand their background to make the next recommendation.
 
    Example cases:
 
@@ -178,14 +197,14 @@ Exercises
    someone else as their primary support channel.  Discuss what we do
    vs what others should do.
 
-   You: roleplay responding to the situation below.
-
    Your partner: You are one of a group of students who has been
    coming each day working on a project.  You have just learned this
    is a project for a course.  The students have permission to use
    Triton (since this is a project with research data with a research
    PI theoretically supervising), but they have begun asking us about
    the analysis of their data.
+
+   You: roleplay responding to the situation.
 
    Example cases:
 
@@ -198,6 +217,7 @@ Exercises
    the first line of support, since courses can direct large numbers
    of students to us at once, and only the course staff can scale that
    large.)
+
 
 .. exercise:: Garage-6: Explain some topic in progressively more depth
 

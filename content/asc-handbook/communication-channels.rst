@@ -123,3 +123,26 @@ Chat systems
 
 Mailing lists
 -------------
+
+
+Profile pictures
+----------------
+
+It can be useful to have consistent profile pictures in our chat
+systems, to make it easy to tell who is communicating at a glance.
+*This does not in any sense mean it should be a real picture of you,
+any distinct graphical representation can work.*  You can also choose
+to have no picture.
+
+Consider synchronizing the following: Zulipchat, Github, Aalto Gitlab,
+Zoom, Outlook/Teams, etc.
+
+rkdarst can take high-quality profile pictures if you ask.  These can
+be taken and used for any purposes and do *not* necessarily have to
+become the pictures of chat, Github, etc.  These pictures could be
+used for your personal sites, CVs, etc.
+
+If you don't want real pictures, some geometric shapes you make in a
+image editor, photo of any object, or online sites can make something.
+You could also download the best default auto-generated
+Gitlab/Github/Chat picture and use it for every other site.

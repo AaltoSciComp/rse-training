@@ -110,6 +110,15 @@ Figures and graphics
 
 
 
+General aaltoscicomp-marketing git repository
+------------------------------------
+
+This is a private repo stored on Triton (since it has big files in it)
+that has pictures and some material above.  Ask around or search for
+``ASC marketing pictures`` in chat.
+
+
+
 Events
 ------
 
