@@ -224,6 +224,40 @@ deep in our field and we need to adjust the way we think and write.
 
 
 
+Bottom line up front
+--------------------
+
+I can't stop thinking about the concept of `Bottom line up front
+(BLUF) communications
+<https://en.wikipedia.org/wiki/BLUF_(communication)>`__, and similarly
+the `inverted pyramid of journalism
+<https://en.wikipedia.org/wiki/Inverted_pyramid_(journalism)>`__.  In
+both of these, the point is to convey the most important information
+first, not slowly justify the conclusions.  For busy customers, this
+is useful.
+
+The basic idea is getting the point (recommendation, conclusion,
+request, ...) first, and then supporting it.  With this strategy,
+someone can stop reading as soon as they feel have enough information
+to do whatever they need to do.  If one is receiving a request, they
+can know what they are asked immediately and stop reading (or begin
+skimming) once they have enough information to make a decision.
+
+The typical academic writing style is the opposite, where one starts
+with background and slowly derives all conclusions, where each point
+is in theory justified by previous text.  (No, an abstract doesn't
+make it BLUF.)  This either requires a huge time investment to read or
+requires the reader to hunt for what the main point they need to know
+is.
+
+BLUF can be applied to emails, presentations, discussions, etc.  It
+can take time to get used to, but can greatly improve response rates.
+It saves customers time and increases our efficiency.  It is probably
+not applicable everywhere, but I recommend everyone to consider if
+every email/presentation/etc. they do could benefit from BLUF.
+
+
+
 Other notes
 -----------
 
