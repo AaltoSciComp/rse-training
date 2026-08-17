@@ -157,12 +157,16 @@ Exercises
    You: Explain why it's better to ask help and how we are better than
    others.
 
-   Twist: This isn't about medical doctors, this is about computing.
+   Twist: This isn't about medical doctors, this is about computing
+   :inote:`This exercise comes from the somewhat frequent complains I
+   hear about doctors not communicating well, and it leads to
+   people wanting to stay away.  I think there are significant
+   metaphors to learn from here`.
    Mentally adjust the situation above for computing support in
    garage.  Discuss the similarities and differences.
 
 
-.. exercise:: Garage-4: Roleplay someone in over their head
+.. exercise:: Garage-5: Roleplay someone in over their head
 
    Goal: practice a frustrating situation where it seems, no matter
    what you do, you won't be able to help the customer.  Find a way to
@@ -191,7 +195,7 @@ Exercises
      deeper problem and their supervisor needs to get involved.
 
 
-.. exercise:: Garage-5: Roleplay answering some recurrent students
+.. exercise:: Garage-6: Roleplay answering some recurrent students
 
    Goal: practice telling students (or someone) that they need to use
    someone else as their primary support channel.  Discuss what we do
@@ -219,7 +223,7 @@ Exercises
    large.)
 
 
-.. exercise:: Garage-6: Explain some topic in progressively more depth
+.. exercise:: Garage-7: Explain some topic in progressively more depth
 
    Roleplay: you have a garage customer, and you are not sure how
    in-depth they understand some topic.  Explain the topic
