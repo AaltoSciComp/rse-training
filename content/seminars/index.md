@@ -7,9 +7,13 @@ others are welcome to attend.
 
 **2026 September 11: AI agent coding without sending stuff to foreign clouds**
 
-(Description here)
+AI-assisted coding tools like Codex (from OpenAI) and Claude (from Anthropic) are all over the place. But what if you want to use these tools and don't send all your data to these companies?
 
-Audience:
+In this short talk, we will start with the basics of these tools, and what makes them powerful. We will cover open-source harnesses, what are skills and how to use them, how to use plugins and / or write them, what are MCPs, how these tools are connected to the LLMs, and lastly, how to connect all of them to use in your workflow.
+
+We will focus on open source tools and open weight models.
+
+Audience: Anyone who writes code and wants to get faster with the help of AI-assistance.
 :::
 
 * Location: LAIF Hub Otaniemi and online ({doc}`Garage zoom <help/garage>`)
