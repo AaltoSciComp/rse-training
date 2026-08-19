@@ -24,11 +24,15 @@ Officially, people are supposed to work on-campus 40% of the time.  In
 our team, no one is going to force someone to waste time coming to
 campus when we have good remote work practices going on (and it would
 end up fracturing our team since our online work, which everyone can
-participate in, will suffer).
+participate in, will suffer).  If you mostly work remotely, you should
+really try to come to all the possible in-person events (outreach
+events, in-person seminars, development days, etc.) because it will
+let you get to build a network outside of your main team.
 
 You aren't officially allowed to work outside of Finland, though, and
 you should not plan on this.  This is probably because it affects tax
-stuff.
+stuff.  But see :doc:`hr` for the opportunity to work abroad for two
+weeks per year from some places.
 
 We have offices scattered around the campus, and you can work wherever
 makes sense.  Offices include:

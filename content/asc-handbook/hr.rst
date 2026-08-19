@@ -67,6 +67,20 @@ Typical vacation/absence practices:
 
 
 
+Work abroad
+-----------
+
+Because of various tax laws etc, you are required to be in Finland
+when working.  But you can get permission to do two weeks per year in
+another country: `remote work info
+<https://www.aalto.fi/en/services/international-assignments-and-other-types-of-working-abroad#4-remote-work-abroad--14-days->`__.
+Sometimes people "volunteer" by doing work-related stuff
+while they are on vacation.  We don't encourage this but won't stop
+you.  Note that in principle you shouldn't bring work devices when you
+go on personal vacations.
+
+
+
 Possibly unexpected things
 --------------------------
 

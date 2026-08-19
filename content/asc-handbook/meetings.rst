@@ -45,6 +45,9 @@ far-reaching effects.
 - One weekly meeting for RSE and one for all Science-IT.
 - Ways to sync with whole team and raise things where we want to make
   sure we get everyone's thoughts before making a decision.
+- Can also be used for important announcements that don't have or need
+  much discussion.  Try to keep these written (no need to take time to
+  speak if there are no questions).
 - The point is to focus on discussion and not status reports.
 - As the team grows, meetings have a tendency to get long and
   off-the-point.  Bring important matters to the meeting, but
@@ -57,7 +60,8 @@ far-reaching effects.
     document
   - Meeting chat
 
-- Use this to let everyone get their thoughts in!
+- Use this to let everyone get their thoughts in!  Do write
+  questions/comments even if it is a "learner" question.
 
 
 Agenda documents

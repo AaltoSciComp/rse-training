@@ -94,6 +94,10 @@ Chat systems
   - If you need rapid talking, consider moving to the Garage zoom room
     to talk.
 
+- If something is important (everyone needs to know), there should be
+  a mention in a weekly meeting (add a summary to an agenda document)
+  :inote:`This doesn't mean we have to take a long time to discuss.
+  Agenda items can be mainly announcement with only text questions`.
 - Zulip topics allow you to follow what is most interesting to you.
 - Topics are very important, since it allows people to
   scan... topics... and see what to read.  Try to make topics

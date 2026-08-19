@@ -8,7 +8,9 @@ guarantee their work and the goal is to replace that with funding from
 certain projects.
 
 For almost anything finance-related, ask your supervisor before taking
-your own actions.
+your own actions (confirm project number and budget).  If you search
+"Finance project numbers" in Google Drive there is a reference (mainly
+for supervisors).
 
 There is a system called **Halli**, which must be used to report project
 funding.  You will get individualized instructions for this, because it
