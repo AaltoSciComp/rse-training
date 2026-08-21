@@ -26,7 +26,7 @@ Zoom
 - Our Zoom has a private data center somewhere in the Nordics (by
   NordUNet).
 - Log in to https://aalto.zoom.us (Aalto account) and you will get an
-  Aalto zoom account and be able to configure it.  Set username to
+  Aalto zoom account and be able to configure it.  Set your display name to
   ``[ASC] Your Name`` so users can know who is staff.
 - You will be added as a co-host to the Garage zoom meeting, and then
   you can control breakout rooms (if you are logged in).  You can move
