@@ -16,7 +16,7 @@ There is a system called **Halli**, which must be used to report
 project funding.  You will get individualized instructions for this,
 because it varies by person.  For RSEs, when you make a Halli report
 at the end of the month, also update the timetracking spreadsheet, see
-:doc:`projects/tracking-reporting-gitlab`.
+:doc:`rse-reporting/projects`.
 
 Reimbursements are done in the **Neo** system.  It is easiest to
 prepare all your material and work with someone who knows it to do it.

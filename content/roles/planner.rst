@@ -88,8 +88,8 @@ External materials
 ------------------
 
 * `Project starting template <https://docs.google.com/document/d/1XcxeNLRq0kOsFbDEmA7ArdbIrCVudMWHPFQsKRVcTIk>`__
-* :doc:`/asc-handbook/projects/index`
-* :doc:`/asc-handbook/projects/prioritization`
+* :doc:`/asc-handbook/rse-reporting/index`
+* :doc:`/asc-handbook/rse-reporting/prioritization`
 * :doc:`rse/project-lifecycle`
 * :doc:`rse/for-group-leaders`
 * :doc:`scicomp/zen-of-scicomp`

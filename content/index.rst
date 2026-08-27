@@ -74,7 +74,7 @@ to later.  Your mentor will tell you what to focus on.
    :caption: ASC handbook
 
    asc-handbook/index
-   asc-handbook/projects/index
+   asc-handbook/rse-reporting/index
    asc-handbook/ref/index
 
 The ASC handbook is our own team's internal practices - basically a part

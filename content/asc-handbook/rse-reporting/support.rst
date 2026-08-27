@@ -1,14 +1,19 @@
-Support: garage and small things
-================================
+Support: garage and small work
+==============================
 
 **Support** is the term for things below the project level, that do
 not have extensive tracking.  The main characteristic is **the
-customers come to us with requests we can handle and don't need to
-think about long-term.** In other words, doing things short-term and
-without needing to schedule our time long-term.
+customers come to us with requests we can handle quickly and don't
+need to think about long-term.** In other words, doing things
+short-term and without needing to schedule our time long-term.
 
 Everyone should save around 20% of their time for meetings, garage
 support, self-learning, etc.  (It may be much larger for some people).
+
+.. admonition:: summary
+
+   * Record each customer meeting in the garage diary.  Details are
+     not important, only the general statistics.
 
 
 Reporting and tracking
@@ -76,8 +81,8 @@ Small support
 * Reporting: this is mixed in with the garage reporting.
 
 
-Example report outputs
-----------------------
+Example reports to management
+-----------------------------
 
 *This section shows what kind of reports we can make with the data, so
 you can see the purposes of the reports - if you can see the output,

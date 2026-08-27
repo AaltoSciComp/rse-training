@@ -1,5 +1,5 @@
-Prioritization and reporting
-============================
+Prioritization
+==============
 
 In general, we are very free and most people can choose what projects
 they work on.  (Yes, there are some things we need to do and we need

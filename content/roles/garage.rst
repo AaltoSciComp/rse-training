@@ -69,6 +69,7 @@ Expectations / checklists
 
 External materials
 ------------------
+* :doc:`/asc-handbook/rse-reporting/support`
 * `How to help someone use a computer
   <https://www.librarian.net/stax/4965/how-to-help-someone-use-a-computer-by-phil-agre/>`__
   by Phil Agre

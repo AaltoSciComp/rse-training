@@ -8,7 +8,7 @@ have one place with good practices and a description of all the way
 that things can go wrong.
 
 For the minimum mandator reporting work, see
-:doc:`/asc-handbook/projects/tracking-reporting-gitlab`.
+:doc:`/asc-handbook/rse-reporting/projects`.
 
 Terminology:
 

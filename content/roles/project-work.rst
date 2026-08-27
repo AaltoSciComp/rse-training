@@ -75,8 +75,7 @@ Expectations / checklists
 External materials
 ------------------
 
-* :doc:`/asc-handbook/projects/index`
-* :doc:`/asc-handbook/projects/prioritization`
+* :doc:`/asc-handbook/rse-reporting/projects`
 * Many other things on :doc:`rse/index`
 
   * Checklists section
