@@ -14,8 +14,10 @@ funding sources and Halli is not precise enough for a report).
    * If it passes the "project" threshold, make an issue in Gitlab.
 
    * At key stages (at least before committing), give a quick report
-     in a RSE meeting so that others may be able to speak up if they
-     know something you need to know.
+     in a RSE meeting to get any possible extra advice and a go/no-go
+     decision :inote:`The main purpose is extra advice.  The go/no-go
+     decision provides some protection for you: a time for reflection
+     and to avoid over-committing without it being your fault`.
 
    * Each month, make sure the rse-timetracking spreadsheet reflects
      what you actually did - more or less.  Every "project" should be
@@ -25,21 +27,39 @@ funding sources and Halli is not precise enough for a report).
      time in the future..
 
 
-When is something a "project" and not support?
-----------------------------------------------
 
-This is a good question and there is no fixed answer.
+When is something a "project" and not "support"?
+------------------------------------------------
 
 * Things generally indicating a "project"
 
+  * Requires a 3 days or more on our part.
+
+  * A "Retainer" project, where we are paid to work with a group
+    long-term on many various small things. :inote:`In this case, you
+    would probably use the retainer project even if there are other
+    things longer than three days going on, since there is not much
+    purpose to show in more detail`
+
   * Every major course.
 
-  * Requires a 3 days or more on our part.
+  * Is a concrete future possibility, for example we have been written
+    into a grant application at X months. :inote:`Having a list of
+    where we have been written into grants is also useful for our
+    reporting` (label: `Status::0-WaitingForGrant`)
 
 * Things generally indicating **not** a project
 
   * No value in listing it separately in reports to management (it
     looks trivial and dilutes the other good work we do)
+
+  * One person can do it quickly with little interaction needed from
+    others.
+
+  * Spending a few hours or even a few days attending a course or
+    event if it is not mainly organized by us.
+
+The boundary may not be clear here and you can make a judgment call.
 
 
 
@@ -52,11 +72,10 @@ big enough to be a "project" should have a Gitlab issue.** This
 provides a tracking number ``RSE#NNN`` which is the permanent
 identifier and is automatically parsed for reports.
 
-
 Create a new issue and use the issue template (``Default``).  Fill it
-out well enough to give someone an idea what is happening.  Be
-structured and add all relevant issue labels.
-
+out well enough to give someone an idea what the project is about/who
+is involved if you weren't available.  Think 3-5 minutes of work at
+maximum.  Add all relevant issue labels.
 
 (You can read out-of-date details and semantics of the labels and
 fields at https://github.com/AaltoRSE/rse-timetracking, but should
@@ -101,8 +120,9 @@ Reporting by step
 * **Pre-discussion:** (there is no project yet, you are just talking
   to people about a future idea).  You don't need to do any reporting,
   but if this is a concrete idea (for example a grant has been
-  submitted), you can make tracking issue with the state ``S:0-Lead``
-  so we can track our upcoming work.
+  submitted), you can make tracking issue with the state
+  ``Status::0-WaitingForGrant`` or ``Status::0-Lead``
+  so we can track possible upcoming commitments.
 
 * **Idea meeting** (possibly with supervisor): Make the full Gitlab
   issue.  Give a report to the RSE weekly meeting and ask for any
@@ -115,18 +135,19 @@ Reporting by step
 
 * **Working on it**: Keep the ``rse-timetracking`` spreadsheet up to
   date month-by-month.  Important updates and news can go to the
-  Gitlab issue, and use chat as needed.
+  Gitlab issue, and use chat as needed.  (label: ``Status::3-InProgress``)
 
 * **Done**: Move the issue to state "done", update the summary and, if
   possible, ask how much time we saved the customer and report it with
   ``/timesaved``.  If it's mostly done but you are waiting for info
-  from the customer, you can move it to start "reporting".
+  from the customer, you can move it to start "reporting".  (labels:
+  ``Status::6-Done``)
 
 * **Maintenance**: Use this state if the main work is done, but it
   remains under our maintenance (we may be called to fix stuff for it
   later).  It is important we can say how much of this work we do.
   Don't forget to update maintenance time to the ``rse-timetracking``
-  spreadsheet.
+  spreadsheet.  (labels: ``Status::7-Maintenance``)
 
 
 
