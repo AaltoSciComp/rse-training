@@ -100,7 +100,7 @@ that may help with motivation to produce the data.  See*
    remembers to add entries.  This makes it a bit difficult to explain
    the results.
 
-.. figure:: https://github.com/AaltoSciComp/scicomp-docs/blob/master/rse/reports/2025-garage-units.png
+.. figure:: https://github.com/AaltoSciComp/scicomp-docs/blob/master/rse/reports/2025-garage-units.png?raw=true
 
    Like above, but this shows the departments of attendees.  This
    shows a broad benefit and helps to secure more funding.
