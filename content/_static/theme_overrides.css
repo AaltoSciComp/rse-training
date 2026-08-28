@@ -10,3 +10,10 @@
     margin-left: .5em;
     padding-left: .5em;
 }
+
+/* Better figure captions */
+.rst-content .document figcaption p {
+    font-size: 85%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
