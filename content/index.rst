@@ -51,6 +51,7 @@ one's onboarding plan).
    :maxdepth: 1
    :caption: Topical reference
 
+   topics/index
    topics/what-is-aalto
    topics/it-in-aalto
    topics/research-services-at-aalto
