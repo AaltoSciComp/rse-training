@@ -7,8 +7,10 @@ customers come to us with requests we can handle quickly and don't
 need to think about long-term.** In other words, doing things
 short-term and without needing to schedule our time long-term.
 
-Everyone should save around 20% of their time for meetings, garage
-support, self-learning, etc.  (It may be much larger for some people).
+Everyone should save at least 20% of their time for meetings, garage
+support, self-learning, etc.  (For most people, it is more than 20%
+due to our frequent support, and it may be the majority of the time
+for some people).
 
 .. admonition:: summary
 

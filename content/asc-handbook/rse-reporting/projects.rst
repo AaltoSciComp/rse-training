@@ -19,21 +19,22 @@ funding sources and Halli is not precise enough for a report).
      decision provides some protection for you: a time for reflection
      and to avoid over-committing without it being your fault`.
 
-   * Each month, make sure the rse-timetracking spreadsheet reflects
-     what you actually did - more or less.  Every "project" should be
-     here with a ``#NNN`` tag.
+   * At the end of each month, make sure the rse-timetracking
+     spreadsheet reflects what you actually did - more or less.  Every
+     "project" you worked on should be here with a ``#NNN`` tag
+     :inote:`motivation to not make too many projects, right?`.
 
    * Keep the rse-timetracking spreadsheet up to date with committed
-     time in the future..
+     time in the future.
 
 
 
 When is something a "project" and not "support"?
 ------------------------------------------------
 
-* Things generally indicating a "project"
+* Things generally indicating a "project":
 
-  * Requires a 3 days or more on our part.
+  * Requires 3 focus days or more on our part.
 
   * A "Retainer" project, where we are paid to work with a group
     long-term on many various small things. :inote:`In this case, you
@@ -48,16 +49,23 @@ When is something a "project" and not "support"?
     where we have been written into grants is also useful for our
     reporting` (label: `Status::0-WaitingForGrant`)
 
-* Things generally indicating **not** a project
+* Things generally indicating *not* a project:
+
+  * Requires less than a week :inote:`Yes, there is an overlap with
+    projects.`
 
   * No value in listing it separately in reports to management (it
     looks trivial and dilutes the other good work we do)
+
+  * Someone else could easily take it over :inote:`So that long-term
+    support can be dropping by garage and seeing who is there.`
 
   * One person can do it quickly with little interaction needed from
     others.
 
   * Spending a few hours or even a few days attending a course or
     event if it is not mainly organized by us.
+
 
 The boundary may not be clear here and you can make a judgment call.
 
@@ -96,8 +104,8 @@ What do the numbers mean?  Fraction of your actual time, so that (for
 example) it is the percent value you would give for the Person-Months
 in an EU or Halli report.
 
-**For past months**, values should match up reasably closely with your
-actual time distribution.  Every "project" worked on should be
+**For past months**, values should match up reasonably closely with
+your actual time distribution.  Every "project" worked on should be
 included with a tag ``#NNN`` :inote:`This is motivation to not make
 too many "projects" when not needed`.  Update the spreadsheet each
 month when you make your Halli report :inote:`if you don't do Halli,
