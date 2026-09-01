@@ -36,6 +36,9 @@ When is something a "project" and not "support"?
 
   * Requires 3 focus days or more on our part.
 
+  * Requires a fair amount of planning and documentation of that
+    planning.
+
   * A "Retainer" project, where we are paid to work with a group
     long-term on many various small things. :inote:`In this case, you
     would probably use the retainer project even if there are other
@@ -51,13 +54,13 @@ When is something a "project" and not "support"?
 
 * Things generally indicating *not* a project:
 
-  * Requires less than a week :inote:`Yes, there is an overlap with
+  * Requires less than a week. :inote:`Yes, there is an overlap with
     projects.`
 
   * No value in listing it separately in reports to management (it
-    looks trivial and dilutes the other good work we do)
+    looks trivial and dilutes the other good work we do).
 
-  * Someone else could easily take it over :inote:`So that long-term
+  * Someone else could easily take it over. :inote:`So that long-term
     support can be dropping by garage and seeing who is there.`
 
   * One person can do it quickly with little interaction needed from
