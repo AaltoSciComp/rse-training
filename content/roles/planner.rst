@@ -69,6 +69,10 @@ Expectations / checklists
 * Avoid the `XY problem <https://en.wikipedia.org/wiki/XY_problem>`__.
 * Ensure that customers are aware of any risks and you have a plan if
   the risks come.
+* Identify risks on our side due to lack of skills or domain knowledge
+  and make sure that risk is mitigated (learning something, more
+  active customer involvement, adding more checkpoints, or making
+  sure the customer knows the risk exists.)
 * Ensure that there is someone to manage the project, as much as
   needed, if the RSE can't do themselves.
 * Have initial finance discussions (team supervisor needs to finalize
