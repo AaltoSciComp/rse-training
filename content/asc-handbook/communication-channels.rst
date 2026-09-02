@@ -72,11 +72,29 @@ Calendars
   meetings explicit.  Send them to customers to make meetings
   explicit.  Etc.
 - We have a "Science-IT" calendar which you can add (see onboarding)
-  which appears alongside your calendar.  This is used for things
-  which people should know about, but is not worth reserving a time in
-  everyone's calendar (since not everyone is expected to attend).  You
-  can open the event from the Science-IT calendar and send it to you,
-  if you want it on yours.
+  which appears alongside your calendar.  It's good to keep it
+  visible.  This is used for things which everyone on the team should
+  know about, but is not worth reserving a time in everyone's calendar
+  (since not everyone is expected to attend).
+
+.. admonition:: Adding an event to the Science-IT calendar
+   :class: dropdown
+
+   This is used to make an event updateable by everyone.
+
+   * Create a new event from your calendar, and *before* saving,
+     change the calendar to ``science-it`` (you can't do it later,
+     after you send invites out).
+   * You *can*
+
+.. admonition:: RSVPing to an event on the Science-IT calendar
+   :class: dropdown
+
+   Do this so that we can know who is attending.
+
+   * Click on the event in the Science-IT calendar.
+   * Add yourself to the invite list and save.
+   * Accept the event in your calendar.
 
 
 Chat systems
