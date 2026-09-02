@@ -39,6 +39,8 @@ Main challenges/pitfalls
   concisely enough that the customers and others can understand what
   is happening. (This often happens when needing to present the
   project to more customers than the original ones.)
+* Determining if the customer-RSE relationship is enough, or if extra
+  support such as project managers are needed.
 * Customers may present overly broad project plans, perhaps even
   generated with AI and thus not realistic or representative of what
   the customer actually needs.
@@ -67,6 +69,8 @@ Expectations / checklists
 * Avoid the `XY problem <https://en.wikipedia.org/wiki/XY_problem>`__.
 * Ensure that customers are aware of any risks and you have a plan if
   the risks come.
+* Ensure that there is someone to manage the project, as much as
+  needed, if the RSE can't do themselves.
 * Have initial finance discussions (team supervisor needs to finalize
   it).
 * Present the project in the weekly RSE meeting and your evaluation if

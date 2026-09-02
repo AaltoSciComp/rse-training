@@ -34,6 +34,8 @@ Main challenges/pitfalls
 * Realizing when the customer doesn't just need something done, but
   needs help coming up with how to do it.  You are a researcher, not a
   contracted developer.
+* Avoiding too much independent work (showing only the final result)
+  instead of working iteratively with continual feedback.
 * Gracefully handle major changes to the plan, possibly throwing
   everything off track.
 * Gracefully handle customers who have something else come up and thus
