@@ -132,7 +132,7 @@ you should think about and prepare fore.
 
 `This document on military briefings
 <https://www.trngcmd.marines.mil/Portals/207/Docs/TBS/W3S0005%20-%20MILITARY%20BRIEFING.pdf>`__
-(found when searching how to do briefings for other purposes) was a
+(rkdarst found when searching how to do briefings for a game) was a
 somewhat useful classification.  It is way too formal for us, but does
 provide some useful guidelines in a non-nonsense setting where people
 have to practice and do it well.  I think it's good to think about the
@@ -221,6 +221,18 @@ for other academics deep in your field (show your deep knowledge to
 get cited), while most of our writing is for people who are not as
 deep in our field and we need to adjust the way we think and write.
 (Same as everything above, right?)
+
+
+
+Working together
+----------------
+
+Try not to be alone when there is any doubt of getting the message
+across as simply as possible.  One thing I have found is that, even
+before preparing writing or a presentation, talk with someone about
+what the main points are.  Then expand some, then talk again, etc.
+Work backwards this way with others, not do too much and try to
+clarify later.
 
 
 
