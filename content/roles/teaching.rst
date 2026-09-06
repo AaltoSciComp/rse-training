@@ -94,46 +94,10 @@ Exercises
    explanations went and giving recommendations to a colleague).  We
    use these lessons in our teaching.
 
-   Preparation: Watch `How to teach board games like a pro
-   <https://www.youtube.com/watch?v=P5fjDaFuft8>`__ and/or the local
-   tech teaching version `on youtube
-   <https://www.youtube.com/watch?v=61Cdi4Eje2Y>`__ or (`read
-   <https://coderefinery.github.io/train-the-trainer/preparation/>`__)
-   the "Motivation to CodeRefinery instructor training" (teaching tech
-   vs teaching games) material
 
-   The task:
+   See :doc:`exercise-game-teaching` for full exercise description.
 
-   * Choose board games and divide into groups appropriate for the
-     games.  In each group, there should be ~1-2 people who knows the
-     game, and it's new to the rest (this is flexible)
 
-   * The 1-2 teachers make a teaching plan in accordance with the
-     lessons in the info.  (you don't have to teach the whole game, or
-     do a complete play-through.)  Treat it is our SciComp teaching:
-     not the full picture, but enough to get someone interested and
-     get started.  (If there's a schedule, it may give you an idea of
-     how many minutes you have to teach.)
-
-   * Teach others the game.  The learners pay close attention to the
-     way the game is being taught (perhaps taking notes; without
-     interrupting the teaching too much).  You can use `this exercise
-     sheet
-     <https://docs.google.com/document/d/1n-QsTTMfxnvDoo1op77NPOWzjDCDZthVKKtUcPkJ5-g/edit>`__
-     that lists the points from the material to assist in note-taking.
-
-     Special notes:
-
-     * Manage time well and decide the proper level of detail.  Don't
-       get stuck on small things.
-
-   * When time is up, everyone discusses how the explanation went:
-
-     * What went well and didn't go well?
-     * How would you improve it next time?
-     * Also use the opportunity to practice constructive criticism -
-       find a way to say what you think nicely but directly, even if
-       it's not comfortable.
 
 
 .. exercise:: Teaching-2: Practice a course intro
