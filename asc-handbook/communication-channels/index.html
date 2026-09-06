@@ -1,0 +1,357 @@
+
+
+<!DOCTYPE html>
+<html class="writer-html5" lang="en" data-content_root="../../">
+<head>
+  <meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Communication channels &mdash; Aalto RSE training</title>
+      <link rel="stylesheet" type="text/css" href="../../_static/pygments.css?v=b86133f3" />
+      <link rel="stylesheet" type="text/css" href="../../_static/css/theme.css?v=9edc463e" />
+      <link rel="stylesheet" type="text/css" href="../../_static/mystnb.11b39860a7a0cbfd473a3ad8a317855267ff0bd372690045ca344a6b62be495e.css" />
+      <link rel="stylesheet" type="text/css" href="../../_static/copybutton.css?v=76b2166b" />
+      <link rel="stylesheet" type="text/css" href="../../_static/togglebutton.css?v=9c3e77be" />
+      <link rel="stylesheet" type="text/css" href="../../_static/sphinx_lesson.css?v=e9df6548" />
+      <link rel="stylesheet" type="text/css" href="../../_static/term_role_formatting.css?v=4194e21c" />
+      <link rel="stylesheet" type="text/css" href="../../_static/sphinx_rtd_theme_ext_color_contrast.css?v=8e8ea19f" />
+      <link rel="stylesheet" type="text/css" href="../../_static/inote.css?v=54d43699" />
+      <link rel="stylesheet" type="text/css" href="../../_static/theme_overrides.css?v=6802f900" />
+
+  
+    <link rel="shortcut icon" href="../../_static/logo-hexagons-02-compact.svg.ico"/>
+      <script src="../../_static/jquery.js?v=5d32c60e"></script>
+      <script src="../../_static/_sphinx_javascript_frameworks_compat.js?v=2cd50e6c"></script>
+      <script src="../../_static/documentation_options.js?v=187304be"></script>
+      <script src="../../_static/doctools.js?v=9bcbadda"></script>
+      <script src="../../_static/sphinx_highlight.js?v=dc90522c"></script>
+      <script src="../../_static/clipboard.min.js?v=a7894cd8"></script>
+      <script src="../../_static/copybutton.js?v=f281be69"></script>
+      <script src="../../_static/minipres.js?v=a0d29692"></script>
+      <script>let toggleHintShow = 'Click to show';</script>
+      <script>let toggleHintHide = 'Click to hide';</script>
+      <script>let toggleOpenOnPrint = 'true';</script>
+      <script src="../../_static/togglebutton.js?v=b8b12719"></script>
+      <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
+    <script src="../../_static/js/theme.js"></script>
+    <link rel="index" title="Index" href="../../genindex/" />
+    <link rel="search" title="Search" href="../../search/" />
+    <link rel="next" title="Information organization" href="../information-organization/" />
+    <link rel="prev" title="Meetings" href="../meetings/" /> 
+</head>
+
+<body class="wy-body-for-nav"> 
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search" >
+
+          
+          
+          <a href="../../" class="icon icon-home">
+            Aalto RSE training
+          </a>
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="../../search/" method="get">
+    <input type="text" name="q" placeholder="Search docs" aria-label="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+        </div><div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+              <ul>
+<li class="toctree-l1"><a class="reference internal" href="../../what-is-a-rse/">What is a RSE at ASC?</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">Roles</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../../roles/">Roles intro</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../roles/project-work/">Project worker</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../roles/garage/">Garage supporter</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../roles/teacher/">Teacher</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../roles/planner/">Project planner</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../roles/technical-mentor/">Technical mentor</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../roles/unit-liaison/">Unit liaison</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../roles/team-supervisor/">Team supervisor</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../roles/exercise-list/">Exercise list</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">Topical reference</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../../topics/what-is-aalto/">What is Aalto University?</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../topics/it-in-aalto/">IT in Aalto</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../topics/research-services-at-aalto/">Research services at Aalto</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../topics/tech/">Tech stuff</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../topics/data-management/">Data management</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../topics/data-storage/">Data storage systems</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../topics/ethics/">Ethics</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../topics/security/">Security</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../topics/sysadmin/">System administration</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../topics/communication/">Communications</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../topics/project-process/">Project processes</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">ASC handbook</span></p>
+<ul class="current">
+<li class="toctree-l1 current"><a class="reference internal" href="../">ASC handbook</a><ul class="current">
+<li class="toctree-l2"><a class="reference internal" href="../welcome/">Welcome</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../values-and-culture/">ASC values and culture</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../science-it-history/">History of Science-IT</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../strategy/">ASC strategy</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../meetings/">Meetings</a></li>
+<li class="toctree-l2 current"><a class="current reference internal" href="#">Communication channels</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#email">Email</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#zoom">Zoom</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#audio">Audio</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#calendars">Calendars</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#chat-systems">Chat systems</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#mailing-lists">Mailing lists</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#profile-pictures">Profile pictures</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="../information-organization/">Information organization</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../hr/">Human resources formalities</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../finance/">Finance stuff</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../offices-spaces-remote-work/">Offices and work locations</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../it-devices-and-procurement/">IT devices and procurement</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../user-communication/">User communication</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../information-security/">Information security</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../professional-development/">Professional development</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../onboarding/">Onboarding</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="../rse-reporting/">RSE reporting</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../ref/">Checklists, reference, and material</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">RSE seminar series</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../../seminars/">RSE seminar series</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../seminars/archive/">Archive</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../seminars/archive-2020/">Archive 2021-2022</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">Other material</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../../12-session-plan/">12 session training plan</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../other-rse-training/">Other RSE training</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../site-map/">Site map</a></li>
+</ul>
+
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap"><nav class="wy-nav-top" aria-label="Mobile navigation menu" >
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="../../">Aalto RSE training</a>
+      </nav>
+
+      <div class="wy-nav-content">
+        <div class="rst-content style-external-links">
+          <div role="navigation" aria-label="Page navigation">
+  <ul class="wy-breadcrumbs">
+      <li><a href="../../" class="icon icon-home" aria-label="Home"></a></li>
+          <li class="breadcrumb-item"><a href="../">ASC handbook</a></li>
+      <li class="breadcrumb-item active">Communication channels</li>
+      <li class="wy-breadcrumbs-aside">
+              <a href="https://github.com/AaltoSciComp/rse-training/blob/main/content/asc-handbook/communication-channels.rst" class="fa fa-github"> Edit on GitHub</a>
+      </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+             
+  <section id="communication-channels">
+<h1>Communication channels<a class="headerlink" href="#communication-channels" title="Link to this heading"></a></h1>
+<section id="email">
+<h2>Email<a class="headerlink" href="#email" title="Link to this heading"></a></h2>
+<ul class="simple">
+<li><p>You should keep up to date with our email.</p></li>
+<li><p>Aalto email is Microsoft which isn’t great, but that’s life.</p></li>
+<li><p>If you get a login loop for Outlook web, <a class="reference external" href="https://github.com/rkdarst/browser-ext-delete-outlook-cookies">this extension</a>
+that rkdarst made can delete the relevant Web Outlook cookies
+automatically.  (It’s kind of ridiculous that we have to go making
+these things…)</p></li>
+<li><p>When setting up the Microsoft two-factor authentication, you can use
+configure a custom authenticator app (not the default phone app that
+needs some Microsoft stuff) get a QR code that works with any TOTP
+device/program.  Then, for example, a web browser extension can do
+MFA instead of the main Microsoft app.</p></li>
+</ul>
+</section>
+<section id="zoom">
+<h2>Zoom<a class="headerlink" href="#zoom" title="Link to this heading"></a></h2>
+<ul class="simple">
+<li><p>This is our main synchronous communication method.  It’s good to get
+used to it (and unfortunately install the desktop application…).</p></li>
+<li><p>Our Zoom has a private data center somewhere in the Nordics (by
+NordUNet).</p></li>
+<li><p>Log in to <a class="reference external" href="https://aalto.zoom.us">https://aalto.zoom.us</a> (Aalto account) and you will get an
+Aalto zoom account and be able to configure it.  Set your display name to
+<code class="docutils literal notranslate"><span class="pre">[ASC]</span> <span class="pre">Your</span> <span class="pre">Name</span></code> so users can know who is staff.</p></li>
+<li><p>You will be added as a co-host to the Garage zoom meeting, and then
+you can control breakout rooms (if you are logged in).  You can move
+yourself and others to different rooms.</p></li>
+<li><p>Don’t click “End meeting” ever - everyone will be kicked out.
+Always click “Leave meeting” and transfer host to someone else if
+needed.</p></li>
+</ul>
+<p>See also: <a class="reference internal" href="../meetings/"><span class="doc">Meetings</span></a> for how we meet via Zoom.</p>
+</section>
+<section id="audio">
+<h2>Audio<a class="headerlink" href="#audio" title="Link to this heading"></a></h2>
+<p>This fits under “meetings” and “zoom” but is important enough to make
+it a separate section.</p>
+<ul class="simple">
+<li><p>Audio quality is extremely important for our style of working.  If
+you don’t have good audio quality, it affects others and the
+smoothness of the whole meetings.  Good headphones also help your
+comfort.</p></li>
+<li><p>Minimum standards would be: microphone in front of your mouth (boom
+mic on headset or desk) and not bluetooth (dedicated dongle and wire
+for latency).</p></li>
+<li><p>Read the <a class="reference external" href="https://coderefinery.github.io/manuals/instructor-audio/">CodeRefinery instructor audio guide</a> for
+details and recommendations.</p></li>
+<li><p>Ask your supervisor how to buy headphones if you need them.  (You
+aren’t expected to spend your own money, but are expected to have
+something good.)  We have options.</p></li>
+</ul>
+</section>
+<section id="calendars">
+<h2>Calendars<a class="headerlink" href="#calendars" title="Link to this heading"></a></h2>
+<ul class="simple">
+<li><p>You have a personal calendar as part of the Outlook.  This is the
+official “Aalto calendar system” and despite being Microsoft stuff,
+it very useful for everyone to be able to see everyone else’s free
+times.</p></li>
+<li><p>You are expected to keep it reasonably up to date with appointments,
+so that people can know when your free times are.</p></li>
+<li><p>Send calendar invites to keep people’s calendar in sync and make
+meetings explicit.  Send them to customers to make meetings
+explicit.  Etc.</p></li>
+<li><p>We have a “Science-IT” calendar which you can add (see onboarding)
+which appears alongside your calendar.  It’s good to keep it
+visible.  This is used for things which everyone on the team should
+know about, but is not worth reserving a time in everyone’s calendar
+(since not everyone is expected to attend).</p></li>
+</ul>
+<div class="dropdown admonition">
+<p class="admonition-title">Adding an event to the Science-IT calendar</p>
+<p>This is used to make an event updateable by everyone.</p>
+<ul class="simple">
+<li><p>Create a new event from your calendar, and <em>before</em> saving,
+change the calendar to <code class="docutils literal notranslate"><span class="pre">science-it</span></code> (you can’t do it later,
+after you send invites out).</p></li>
+<li><p>You <em>can</em> then send the invite to specific people.</p></li>
+</ul>
+<p>One advantage of this is that an event sent only as a personal
+invite blocks everyone’s calendars with “tentative” unless they
+decline, and if they decline then they can’t see the event at all.
+Seeing it, but not blocking the calendar, is better.  (The option
+is someone doesn’t decline the event but changes it to “Free” as a
+status instead of “Tentative”.)</p>
+</div>
+<div class="dropdown admonition">
+<p class="admonition-title">RSVPing to an event on the Science-IT calendar</p>
+<p>Do this so that we can know who is attending.</p>
+<ul class="simple">
+<li><p>Click on the event in the Science-IT calendar.</p></li>
+<li><p>Add yourself to the invite list and save.</p></li>
+<li><p>Accept the event in your calendar.</p></li>
+</ul>
+</div>
+</section>
+<section id="chat-systems">
+<h2>Chat systems<a class="headerlink" href="#chat-systems" title="Link to this heading"></a></h2>
+<ul class="simple">
+<li><p>We use Zulip chat. Its specialty is organizing information.</p></li>
+<li><p><a class="reference external" href="https://zulip.com/help/getting-started-with-zulip">Official getting started guide</a></p></li>
+<li><p><a class="reference external" href="https://rkd.zgib.net/blog/2026/zulip-guide/">rkdarst’s hints on managing too much information in Zulip</a> - a lot of
+practical advice on configuring Zulip for usability.</p></li>
+<li><p>Chat is for short term topics.  It is great for quick talks, but:</p>
+<ul>
+<li><p>It’s short term and not everyone can follow everything.</p></li>
+<li><p>If you need rapid talking, consider moving to the Garage zoom room
+to talk.</p></li>
+</ul>
+</li>
+<li><p>If something is important (everyone needs to know), there should be
+a mention in a weekly meeting (add a summary to an agenda document)
+<span class="inote" role="button" aria-expanded="false" aria-label="Inline note: note - click to expand" onclick="this.classList.toggle('expanded'); this.setAttribute('aria-expanded', this.classList.contains('expanded'));">[note<span class="inote-content">: This doesn’t mean we have to take a long time to discuss. Agenda items can be mainly announcement with only text questions</span>]</span>.</p></li>
+<li><p>Zulip topics allow you to follow what is most interesting to you.</p></li>
+<li><p>Topics are very important, since it allows people to
+scan… topics… and see what to read.  Try to make topics
+descriptive enough so that someone will know when they need to
+click.</p></li>
+<li><p>You don’t need to follow everything unless you want.  However, there
+are some important channels which you should always follow:</p>
+<ul>
+<li><p><code class="docutils literal notranslate"><span class="pre">#science-it</span></code> for everyone</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">#rse-internal</span></code> for RSEs</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">#triton-admin</span></code> for admins</p></li>
+<li><p>Beyond that, follow what is relevant for your work.  See the
+rkdarst blog post above for ideas on managing the effort.</p></li>
+</ul>
+</li>
+<li><p>If unreads get too long (for example after vacation), mark
+everything as read as read.  Then you will see what stays active and
+you can scroll back of those topics to get caught up.  You aren’t
+expected to follow-up on old chats after a break, but you should
+probably quickly browse the “inbox” and “recent topics” view.</p></li>
+<li><p>Users can ask questions in the public channels in our chat.  It’s
+good to answer but we don’t promise any guaranteed service level
+there.</p></li>
+<li><p>Try to avoid private messages unless about a personal matter - it’s
+better to use our internal channels and good topics and allow
+everyone to learn from our questions.</p></li>
+</ul>
+</section>
+<section id="mailing-lists">
+<h2>Mailing lists<a class="headerlink" href="#mailing-lists" title="Link to this heading"></a></h2>
+</section>
+<section id="profile-pictures">
+<h2>Profile pictures<a class="headerlink" href="#profile-pictures" title="Link to this heading"></a></h2>
+<p>It can be useful to have consistent profile pictures in our chat
+systems, to make it easy to tell who is communicating at a glance.
+<em>This does not in any sense mean it should be a real picture of you,
+any distinct graphical representation can work.</em>  You can also choose
+to have no picture.</p>
+<p>Consider synchronizing the following: Zulipchat, Github, Aalto Gitlab,
+Zoom, Outlook/Teams, etc.</p>
+<p>rkdarst can take high-quality profile pictures if you ask.  These can
+be taken and used for any purposes and do <em>not</em> necessarily have to
+become the pictures of chat, Github, etc.  These pictures could be
+used for your personal sites, CVs, etc.</p>
+<p>If you don’t want real pictures, some geometric shapes you make in a
+image editor, photo of any object, or online sites can make something.
+You could also download the best default auto-generated
+Gitlab/Github/Chat picture and use it for every other site.</p>
+</section>
+</section>
+
+
+           </div>
+          </div>
+          <footer>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>&#169; Copyright 2026, The contributors.</p>
+  </div>
+
+  Built with <a href="https://www.sphinx-doc.org/">Sphinx</a> using a
+    <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a>
+    provided by <a href="https://readthedocs.org">Read the Docs</a>.
+   
+
+</footer>
+        </div>
+      </div>
+    </section>
+  </div>
+  <script>
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script> 
+
+</body>
+</html>

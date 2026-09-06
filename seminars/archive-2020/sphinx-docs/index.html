@@ -1,0 +1,558 @@
+
+
+<!DOCTYPE html>
+<html class="writer-html5" lang="en" data-content_root="../../../">
+<head>
+  <meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Technical documentation with Sphinx &mdash; Aalto RSE training</title>
+      <link rel="stylesheet" type="text/css" href="../../../_static/pygments.css?v=b86133f3" />
+      <link rel="stylesheet" type="text/css" href="../../../_static/css/theme.css?v=9edc463e" />
+      <link rel="stylesheet" type="text/css" href="../../../_static/mystnb.11b39860a7a0cbfd473a3ad8a317855267ff0bd372690045ca344a6b62be495e.css" />
+      <link rel="stylesheet" type="text/css" href="../../../_static/copybutton.css?v=76b2166b" />
+      <link rel="stylesheet" type="text/css" href="../../../_static/togglebutton.css?v=9c3e77be" />
+      <link rel="stylesheet" type="text/css" href="../../../_static/sphinx_lesson.css?v=e9df6548" />
+      <link rel="stylesheet" type="text/css" href="../../../_static/term_role_formatting.css?v=4194e21c" />
+      <link rel="stylesheet" type="text/css" href="../../../_static/sphinx_rtd_theme_ext_color_contrast.css?v=8e8ea19f" />
+      <link rel="stylesheet" type="text/css" href="../../../_static/inote.css?v=54d43699" />
+      <link rel="stylesheet" type="text/css" href="../../../_static/theme_overrides.css?v=6802f900" />
+
+  
+    <link rel="shortcut icon" href="../../../_static/logo-hexagons-02-compact.svg.ico"/>
+      <script src="../../../_static/jquery.js?v=5d32c60e"></script>
+      <script src="../../../_static/_sphinx_javascript_frameworks_compat.js?v=2cd50e6c"></script>
+      <script src="../../../_static/documentation_options.js?v=187304be"></script>
+      <script src="../../../_static/doctools.js?v=9bcbadda"></script>
+      <script src="../../../_static/sphinx_highlight.js?v=dc90522c"></script>
+      <script src="../../../_static/clipboard.min.js?v=a7894cd8"></script>
+      <script src="../../../_static/copybutton.js?v=f281be69"></script>
+      <script src="../../../_static/minipres.js?v=a0d29692"></script>
+      <script>let toggleHintShow = 'Click to show';</script>
+      <script>let toggleHintHide = 'Click to hide';</script>
+      <script>let toggleOpenOnPrint = 'true';</script>
+      <script src="../../../_static/togglebutton.js?v=b8b12719"></script>
+      <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
+    <script src="../../../_static/js/theme.js"></script>
+    <link rel="index" title="Index" href="../../../genindex/" />
+    <link rel="search" title="Search" href="../../../search/" />
+    <link rel="next" title="Online work and support" href="../online-work-and-support/" />
+    <link rel="prev" title="User support" href="../user-support/" /> 
+</head>
+
+<body class="wy-body-for-nav"> 
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search" >
+
+          
+          
+          <a href="../../../" class="icon icon-home">
+            Aalto RSE training
+          </a>
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="../../../search/" method="get">
+    <input type="text" name="q" placeholder="Search docs" aria-label="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+        </div><div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+              <ul>
+<li class="toctree-l1"><a class="reference internal" href="../../../what-is-a-rse/">What is a RSE at ASC?</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">Roles</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../../../roles/">Roles intro</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../roles/project-work/">Project worker</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../roles/garage/">Garage supporter</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../roles/teacher/">Teacher</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../roles/planner/">Project planner</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../roles/technical-mentor/">Technical mentor</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../roles/unit-liaison/">Unit liaison</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../roles/team-supervisor/">Team supervisor</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../roles/exercise-list/">Exercise list</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">Topical reference</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../../../topics/what-is-aalto/">What is Aalto University?</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../topics/it-in-aalto/">IT in Aalto</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../topics/research-services-at-aalto/">Research services at Aalto</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../topics/tech/">Tech stuff</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../topics/data-management/">Data management</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../topics/data-storage/">Data storage systems</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../topics/ethics/">Ethics</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../topics/security/">Security</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../topics/sysadmin/">System administration</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../topics/communication/">Communications</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../topics/project-process/">Project processes</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">ASC handbook</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../../../asc-handbook/">ASC handbook</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../asc-handbook/rse-reporting/">RSE reporting</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../asc-handbook/ref/">Checklists, reference, and material</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">RSE seminar series</span></p>
+<ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="../../">RSE seminar series</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../archive/">Archive</a></li>
+<li class="toctree-l1 current"><a class="reference internal" href="../">Archive 2021-2022</a><ul class="current">
+<li class="toctree-l2"><a class="reference internal" href="../#seminar-practicalities">Seminar Practicalities</a></li>
+<li class="toctree-l2 current"><a class="reference internal" href="../#material-and-links">Material and links</a><ul class="current">
+<li class="toctree-l3"><a class="reference internal" href="../user-support/">User support</a></li>
+<li class="toctree-l3"><a class="reference external" href="https://docs.google.com/presentation/d/1pVjFnxGzfy0DTPuc1XLQDFg0-44GUWwfSMxe5vVg-Lc/edit">Diversity vs services (external)</a></li>
+<li class="toctree-l3 current"><a class="current reference internal" href="#">Technical documentation with Sphinx</a><ul>
+<li class="toctree-l4"><a class="reference internal" href="#basics">Basics</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#demo-making-a-change">Demo: making a change</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#building-the-site">Building the site</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#arrangement-of-the-site">Arrangement of the site</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#other-details">Other details</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#little-known-features">Little-known features</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#open-questions">Open questions</a></li>
+</ul>
+</li>
+<li class="toctree-l3"><a class="reference external" href="https://hackmd.io/KRqQirJ_Rn2SHcE-t1iAUg?view">The future of teaching</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../online-work-and-support/">Online work and support</a></li>
+<li class="toctree-l3"><a class="reference internal" href="../user-support-responses/">How to actually respond to user support requests?</a></li>
+<li class="toctree-l3"><a class="reference external" href="https://rkdarst.github.io/presentation-kickstart/">How we did Kickstart 2021</a></li>
+<li class="toctree-l3"><a class="reference external" href="https://docs.google.com/presentation/d/1Ti4TvjAilnElk9ITBZVsMnR0g7pfgPg8t5HHe2YOQs4">RSE service status 2021</a></li>
+<li class="toctree-l3"><a class="reference external" href="https://www.youtube.com/watch?v=2lj4JqJWzz8&amp;list=PLZLVmS9rf3nN1Rj-TAqFEzFM22Y1kJmvn">Triton software stack (external)</a></li>
+<li class="toctree-l3"><a class="reference external" href="https://www.youtube.com/watch?v=2lj4JqJWzz8&amp;list=PLZLVmS9rf3nN1Rj-TAqFEzFM22Y1kJmvn">Anaconda on Triton (external)</a></li>
+<li class="toctree-l3"><a class="reference external" href="https://hackmd.io/&#64;AaltoSciComp/python-package-publication-demo">Publishing a Python package (external)</a></li>
+<li class="toctree-l3"><a class="reference external" href="https://hackmd.io/&#64;AaltoSciComp/SyAgcmTQF">Introduction to kubernetes deployment</a></li>
+<li class="toctree-l3"><a class="reference external" href="https://hackmd.io/TCPjGdR5Q7WoLbzlvsPHUA">jupyter.cs</a></li>
+<li class="toctree-l3"><a class="reference external" href="https://hackmd.io/&#64;AaltoSciComp/kubernetes-deployment-demo">Simple kubernetes deployment</a></li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="../#proposed-requested-future-topics">Proposed/requested future topics</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../#past-seminars">Past seminars</a></li>
+</ul>
+</li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">Other material</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../../../12-session-plan/">12 session training plan</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../other-rse-training/">Other RSE training</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../site-map/">Site map</a></li>
+</ul>
+
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap"><nav class="wy-nav-top" aria-label="Mobile navigation menu" >
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="../../../">Aalto RSE training</a>
+      </nav>
+
+      <div class="wy-nav-content">
+        <div class="rst-content style-external-links">
+          <div role="navigation" aria-label="Page navigation">
+  <ul class="wy-breadcrumbs">
+      <li><a href="../../../" class="icon icon-home" aria-label="Home"></a></li>
+          <li class="breadcrumb-item"><a href="../">Archive 2021-2022</a></li>
+      <li class="breadcrumb-item active">Technical documentation with Sphinx</li>
+      <li class="wy-breadcrumbs-aside">
+              <a href="https://github.com/AaltoSciComp/rse-training/blob/main/content/seminars/archive-2020/sphinx-docs.rst" class="fa fa-github"> Edit on GitHub</a>
+      </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+             
+  <section id="technical-documentation-with-sphinx">
+<h1>Technical documentation with Sphinx<a class="headerlink" href="#technical-documentation-with-sphinx" title="Link to this heading"></a></h1>
+<div class="admonition seealso">
+<p class="admonition-title">See also</p>
+<p><a class="reference external" href="https://www.youtube.com/watch?v=X6OzCSiS_VU&amp;list=PLZLVmS9rf3nN1Rj-TAqFEzFM22Y1kJmvn">Video recording of this talk</a></p>
+</div>
+<p>This talk explains how one can use <a class="reference external" href="https://www.sphinx-project.org">Sphinx</a> for technical documentation, in
+particular this very site scicomp.aalto.fi.  The focus is to make an
+overview for contributing to this site (or similar ones), but it will
+also provide a strong basis for creating such a site yourself.</p>
+<div class="admonition seealso">
+<p class="admonition-title">See also</p>
+<p><a class="reference external" href="https://scicomp.aalto.fi/README/" title="(in Aalto Scientific Computing)"><span>About this site</span></a> for a quick guide for editing this site.</p>
+</div>
+<section id="basics">
+<h2>Basics<a class="headerlink" href="#basics" title="Link to this heading"></a></h2>
+<section id="scicomp-aalto-fi">
+<h3>scicomp.aalto.fi<a class="headerlink" href="#scicomp-aalto-fi" title="Link to this heading"></a></h3>
+<ul class="simple">
+<li><p>Home of Aalto Scientific Computing’s documentation</p></li>
+<li><p>Before 2017, was Triton’s documentation using Confluence (wiki
+software)</p></li>
+<li><p>Now has information on many different topics about scientific
+computing.</p></li>
+<li><p>Rather highly ranked in search engines.</p></li>
+<li><p>Converted from wiki.aalto.fi (Triton) using
+<code class="docutils literal notranslate"><span class="pre">_meta/confluence2html.py</span></code> and then pandoc to convert HTML→ReST.</p></li>
+<li><p>CC-BY license agreed at that time</p></li>
+</ul>
+</section>
+<section id="properties-of-good-documentation">
+<h3>Properties of good documentation<a class="headerlink" href="#properties-of-good-documentation" title="Link to this heading"></a></h3>
+<ul class="simple">
+<li><p>Organized, easy to use</p></li>
+<li><p>Versioned</p></li>
+<li><p>Anyone can contribute</p></li>
+<li><p>Shareable, reuseable, licensed</p></li>
+<li><p>No lock-in, can migrate later</p></li>
+<li><p>Plain text so 50 years of text processing development (<code class="docutils literal notranslate"><span class="pre">grep</span></code>,
+<code class="docutils literal notranslate"><span class="pre">sed</span></code>), etc all work.</p></li>
+<li><p>Not standalone, can integrate with other materials
+(e.g. <code class="docutils literal notranslate"><span class="pre">literalinclude</span></code>).</p></li>
+<li><p>git? (naturally comes out of the above)</p></li>
+</ul>
+</section>
+<section id="the-basic-documentation-stack">
+<h3>The basic documentation stack<a class="headerlink" href="#the-basic-documentation-stack" title="Link to this heading"></a></h3>
+<ul class="simple">
+<li><p>Git repository</p></li>
+<li><p>Hosted on Github</p></li>
+<li><p>Documentation written in ReStructured Text or MyST-Markdown</p></li>
+<li><p>Built with Sphinx</p>
+<ul>
+<li><p>With various extensions</p></li>
+</ul>
+</li>
+<li><p>Hosted on ReadTheDocs</p></li>
+<li><p>GitHub actions validate basic syntax</p></li>
+</ul>
+</section>
+</section>
+<section id="demo-making-a-change">
+<h2>Demo: making a change<a class="headerlink" href="#demo-making-a-change" title="Link to this heading"></a></h2>
+<p>I want to add the Journal of Open Source Software (JOSS) review
+checklist
+(<a class="reference external" href="https://joss.readthedocs.io/en/latest/review_checklist.html">https://joss.readthedocs.io/en/latest/review_checklist.html</a>) to the
+RSE checklists section (<a class="reference external" href="https://scicomp.aalto.fi/rse/#checklists">https://scicomp.aalto.fi/rse/#checklists</a>).</p>
+<p>Through this, we will see:</p>
+<ul class="simple">
+<li><p>Git repository layout</p></li>
+<li><p>ReStructructured Text format</p></li>
+<li><p>Sphinx table of contents directives (<code class="docutils literal notranslate"><span class="pre">toctree</span></code>)</p></li>
+<li><p>Creating a pull request with git-pr</p></li>
+<li><p>Reviewing the pull request</p></li>
+<li><p>Merging</p></li>
+<li><p>See the rendered version.</p></li>
+</ul>
+</section>
+<section id="building-the-site">
+<h2>Building the site<a class="headerlink" href="#building-the-site" title="Link to this heading"></a></h2>
+<ul class="simple">
+<li><p>Git repo: <a class="reference external" href="https://github.com/AaltoSciComp/scicomp-docs/">https://github.com/AaltoSciComp/scicomp-docs/</a></p></li>
+<li><p>It has a <code class="docutils literal notranslate"><span class="pre">requirements.txt</span></code> like a normal Python project.</p>
+<ul>
+<li><p>Until recently, was buildable with stock Debian/Ubuntu packages.
+Now it may require custom extensions.</p></li>
+</ul>
+</li>
+<li><p><code class="docutils literal notranslate"><span class="pre">conf.py</span></code> contains all configuration</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">index.rst</span></code> is the root of all docs.</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">Makefile</span></code> builds it</p>
+<ul>
+<li><p><code class="docutils literal notranslate"><span class="pre">make</span> <span class="pre">html</span></code> to make it</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">make</span> <span class="pre">clean</span> <span class="pre">html</span></code> to rebuild</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">make</span> <span class="pre">clean</span> <span class="pre">check</span></code> to build and check for any errors</p></li>
+<li><p><code class="docutils literal notranslate"><span class="pre">sphinx-autobuild</span> <span class="pre">.</span> <span class="pre">_build/html/</span></code> may be useful - start a web
+server that automatically reloads on changes.</p></li>
+</ul>
+</li>
+<li><p>View results in <code class="docutils literal notranslate"><span class="pre">_build/</span></code></p></li>
+</ul>
+<section id="editing-on-the-web">
+<h3>Editing on the web<a class="headerlink" href="#editing-on-the-web" title="Link to this heading"></a></h3>
+<ul class="simple">
+<li><p>The Github web interface is suitable for making simple changes.</p></li>
+<li><p>You can either directly commit or open a PR.</p></li>
+<li><p>Can we use this more?</p></li>
+</ul>
+</section>
+<section id="sphinx-toctree-table-of-contents-tree">
+<h3>Sphinx toctree (table of contents tree)<a class="headerlink" href="#sphinx-toctree-table-of-contents-tree" title="Link to this heading"></a></h3>
+<ul>
+<li><p>The <code class="docutils literal notranslate"><span class="pre">toctree</span></code> directive is the fundamental building block of the
+site.</p></li>
+<li><p>It organizes documents into a tree, and that three is used to make
+the sidebar.  This directive can be put into any page.</p></li>
+<li><p>Example:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span><span class="o">..</span> <span class="n">toctree</span><span class="p">::</span>
+   <span class="p">:</span><span class="n">maxdepth</span><span class="p">:</span> <span class="mi">2</span>
+
+   <span class="n">aalto</span><span class="o">/*</span>
+   <span class="n">data</span><span class="o">/</span><span class="n">index</span>
+   <span class="n">README</span>
+</pre></div>
+</div>
+</li>
+<li><p>Example: Follow it from <code class="docutils literal notranslate"><span class="pre">index.rst</span></code> → <code class="docutils literal notranslate"><span class="pre">aalto/index.rst</span></code> →
+<code class="docutils literal notranslate"><span class="pre">aalto/jupyterhub.rst</span></code> →
+<code class="docutils literal notranslate"><span class="pre">aalto/jupyterhub-instructors/index.rst</span></code> → various subpages.</p></li>
+<li><p>It makes sense, but for complicated case I often do trial and error.</p></li>
+</ul>
+</section>
+</section>
+<section id="arrangement-of-the-site">
+<h2>Arrangement of the site<a class="headerlink" href="#arrangement-of-the-site" title="Link to this heading"></a></h2>
+<ul class="simple">
+<li><p>scicomp.aalto.fi started from the Triton wiki</p></li>
+<li><p>It then grew top-level sections for Aalto, Triton, Data, Training,
+RSE, etc.</p></li>
+<li><p>It is about time that we rethink how it is organized.</p></li>
+<li><p>rkdarst is currently the one with the overall picture in mind - for
+consultations about big changes.</p></li>
+</ul>
+</section>
+<section id="other-details">
+<h2>Other details<a class="headerlink" href="#other-details" title="Link to this heading"></a></h2>
+<section id="sphinx">
+<h3>Sphinx<a class="headerlink" href="#sphinx" title="Link to this heading"></a></h3>
+<ul class="simple">
+<li><p>Sphinx is a full-fledged extendable documentation generator</p></li>
+<li><p>We use many extensions such as <code class="docutils literal notranslate"><span class="pre">sphinx_gitstamp</span></code>,
+<code class="docutils literal notranslate"><span class="pre">sphinx-{copybutton,tabs,togglebutton}</span></code>, <code class="docutils literal notranslate"><span class="pre">sphinx_rtd_theme</span></code>.</p></li>
+<li><p>Custom Javascript and CSS in <code class="docutils literal notranslate"><span class="pre">_static</span></code>.</p></li>
+<li><p>Very useful to know for other projects in general</p></li>
+<li><p><a class="reference external" href="https://coderefinery.github.io/documentation/sphinx/">CodeRefinery documentation lesson on Sphinx</a>.</p></li>
+</ul>
+</section>
+<section id="restructured-text-syntax">
+<h3>ReStructured Text syntax<a class="headerlink" href="#restructured-text-syntax" title="Link to this heading"></a></h3>
+<ul class="simple">
+<li><p>Why ReST?  Because it’s not a thin mapping on HTML like Markdown.</p></li>
+<li><p>Markdown is syntactic substitution, ReST is semantic meaning.</p></li>
+<li><p><a class="reference external" href="https://myst-parser.readthedocs.io/">MyST</a> is now a reasonable
+alternative, but it is closer to a different ReST syntax than Markdown.</p></li>
+<li><p>See syntax quickstart at <a class="reference external" href="https://scicomp.aalto.fi/README/">https://scicomp.aalto.fi/README/</a></p></li>
+<li><p><a class="reference external" href="https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html">https://www.sphinx-doc.org/en/master/usage/restructuredtext/basics.html</a></p></li>
+</ul>
+<p>Most surprising ReST points:</p>
+<ul>
+<li><p>Double quotes for literals:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span>Run ``nano`` to begin
+</pre></div>
+</div>
+<p>(configurable)</p>
+</li>
+<li><p>Links are scoped:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span>:doc:`triton/index`
+:ref:`tutorials`
+</pre></div>
+</div>
+<p>(configurable)</p>
+</li>
+<li><p>Two underscores under links:</p>
+<div class="highlight-default notranslate"><div class="highlight"><pre><span></span>The main `Aalto website &lt;https://aalto.fi/&gt;`__
+</pre></div>
+</div>
+</li>
+</ul>
+</section>
+<section id="github-action-checks">
+<h3>Github Action checks<a class="headerlink" href="#github-action-checks" title="Link to this heading"></a></h3>
+<ul class="simple">
+<li><p><code class="docutils literal notranslate"><span class="pre">make</span> <span class="pre">clean</span> <span class="pre">check</span></code> will warn about the same errors that Github
+will fail on.</p></li>
+<li><p>Github provides error tracking for pushes and pull requests (demo?).</p></li>
+<li><p>Example failure:</p>
+<ul>
+<li><p>Code view: <a class="reference external" href="https://github.com/AaltoSciComp/scicomp-docs/commit/5f43ae628e3a60b1e5d3c1845f04a2c518520b7f">https://github.com/AaltoSciComp/scicomp-docs/commit/5f43ae628e3a60b1e5d3c1845f04a2c518520b7f</a></p></li>
+<li><p>Actions view: <a class="reference external" href="https://github.com/AaltoSciComp/scicomp-docs/runs/2579364572">https://github.com/AaltoSciComp/scicomp-docs/runs/2579364572</a></p></li>
+</ul>
+</li>
+<li><p>I purposely have checks as rather strict and disabled some options
+that would allow us to do more flexible ReST: “explicit is better
+than implicit”.</p></li>
+</ul>
+</section>
+<section id="readthedocs">
+<h3>ReadTheDocs<a class="headerlink" href="#readthedocs" title="Link to this heading"></a></h3>
+<ul class="simple">
+<li><p><a class="reference external" href="https://readthedocs.org">https://readthedocs.org</a> provides a management interface for the docs</p></li>
+<li><p>There is a joint aalto-scicomp account to manage it</p></li>
+<li><p>Demo if time, but pretty much self-explanatory</p></li>
+<li><p>Occasionally a build fails for no reason and rkdarst needs to go
+wipe and rebuild, or fix dependency versions.</p></li>
+</ul>
+</section>
+</section>
+<section id="little-known-features">
+<h2>Little-known features<a class="headerlink" href="#little-known-features" title="Link to this heading"></a></h2>
+<section id="we-could-use-markdown-or-jupyter">
+<h3>We could use Markdown or Jupyter<a class="headerlink" href="#we-could-use-markdown-or-jupyter" title="Link to this heading"></a></h3>
+<ul class="simple">
+<li><p>Via <a class="reference external" href="https://myst-parser.readthedocs.io/">MyST-parser</a> or
+<a class="reference external" href="https://myst-nb.readthedocs.io/">MyST-nb</a> for Jupyter.</p></li>
+<li><p>They all work together in the same site.</p></li>
+<li><p>ReST is really nicer for this than shoving directives into
+Commonmark.</p></li>
+</ul>
+</section>
+<section id="compatible-with-many-other-projects">
+<h3>Compatible with many other projects<a class="headerlink" href="#compatible-with-many-other-projects" title="Link to this heading"></a></h3>
+<ul class="simple">
+<li><p>Standard documentation system for many projects</p></li>
+<li><p>Used in recent CodeRefinery lessons, for example</p></li>
+</ul>
+</section>
+<section id="minipres">
+<h3>Minipres<a class="headerlink" href="#minipres" title="Link to this heading"></a></h3>
+<ul class="simple">
+<li><p>Turn any site into a presentation</p></li>
+<li><p>Demo: <a class="reference external" href="https://scicomp.aalto.fi/tech/sphinx-docs/?minipres&amp;h=3">https://scicomp.aalto.fi/tech/sphinx-docs/?minipres&amp;h=3</a></p></li>
+<li><p><a class="reference external" href="https://github.com/coderefinery/sphinx-minipres">https://github.com/coderefinery/sphinx-minipres</a></p></li>
+<li><p>Can anyone help do this properly?</p></li>
+</ul>
+</section>
+<section id="redirect-to-https">
+<h3>Redirect to HTTPS<a class="headerlink" href="#redirect-to-https" title="Link to this heading"></a></h3>
+<ul class="simple">
+<li><p>ReadTheDocs doesn’t natively do this for external domains</p></li>
+<li><p>Done via Javascript</p></li>
+<li><p>Can anyone improve?</p></li>
+</ul>
+</section>
+<section id="other-output-formats">
+<h3>Other output formats<a class="headerlink" href="#other-output-formats" title="Link to this heading"></a></h3>
+<ul class="simple">
+<li><p>Sphinx can output to PDF, single-page HTML, epub, manual pages, and
+more.</p></li>
+<li><p>Can anyone think of a use for this?</p></li>
+</ul>
+</section>
+<section id="substitution-extension">
+<h3>Substitution extension<a class="headerlink" href="#substitution-extension" title="Link to this heading"></a></h3>
+<ul class="simple">
+<li><p><a class="reference external" href="https://github.com/NordicHPC/sphinx_ext_substitution">https://github.com/NordicHPC/sphinx_ext_substitution</a></p></li>
+<li><p>Written for Hands-on Scientific Computing</p></li>
+</ul>
+</section>
+<section id="sphinx-gitstamp">
+<h3>sphinx-gitstamp<a class="headerlink" href="#sphinx-gitstamp" title="Link to this heading"></a></h3>
+<ul class="simple">
+<li><p>Bottom of every page lists date that exact page was actually
+modified.</p></li>
+<li><p><a class="reference external" href="https://pypi.org/project/sphinx-gitstamp/">https://pypi.org/project/sphinx-gitstamp/</a></p></li>
+</ul>
+</section>
+</section>
+<section id="open-questions">
+<h2>Open questions<a class="headerlink" href="#open-questions" title="Link to this heading"></a></h2>
+<section id="pull-requests-or-not">
+<h3>Pull requests or not?<a class="headerlink" href="#pull-requests-or-not" title="Link to this heading"></a></h3>
+<ul class="simple">
+<li><p>When should we use pull requests?  When should we push directly?</p></li>
+<li><p>In practice both are fine, up to you to decide what you want</p></li>
+<li><p>rkdarst believes that, if you aren’t sure, push directly and ask for
+review.</p></li>
+</ul>
+</section>
+<section id="sharing-with-other-sites">
+<h3>Sharing with other sites<a class="headerlink" href="#sharing-with-other-sites" title="Link to this heading"></a></h3>
+<ul class="simple">
+<li><p>We had this long-term plan to build scicomp.aalto.fi so that other
+sites could share our HPC tutorials and customize them to their
+sites.</p></li>
+<li><p><a class="reference external" href="https://github.com/NordicHPC/sphinx_ext_substitution">sphinx_ext_substitution</a> (written
+by rkdarst) could make this easier</p></li>
+<li><p>This has not yet been done, and by now scicomp-docs is so complex
+I’m not sure if that if it is a reasonable thing to do.</p></li>
+</ul>
+</section>
+<section id="others-at-aalto-can-use-scicomp-aalto-fi">
+<h3>Others at Aalto can use scicomp.aalto.fi<a class="headerlink" href="#others-at-aalto-can-use-scicomp-aalto-fi" title="Link to this heading"></a></h3>
+<ul class="simple">
+<li><p>Should we encourage others to join our project here?</p></li>
+</ul>
+</section>
+<section id="testable-docs">
+<h3>Testable docs<a class="headerlink" href="#testable-docs" title="Link to this heading"></a></h3>
+<ul class="simple">
+<li><p>Our dream would be to make examples in a testable form, where one
+can automatically run them all and find errors.</p></li>
+<li><p>For example, this <a class="reference external" href="https://github.com/AaltoSciComp/scicomp-docs/tree/master/triton/examples/python/python_openmp">python-openmp example</a>
+includes everything needed to submit and run the file.</p></li>
+<li><p>Can this be automatically tested?  A bit too complex for the typical doctest.</p></li>
+</ul>
+</section>
+<section id="integrated-hpc-examples">
+<h3>Integrated HPC-examples<a class="headerlink" href="#integrated-hpc-examples" title="Link to this heading"></a></h3>
+<ul class="simple">
+<li><p>We have two example locations:</p>
+<ul>
+<li><p><a class="reference external" href="https://scicomp.aalto.fi/triton/examples/">https://scicomp.aalto.fi/triton/examples/</a></p></li>
+<li><p><a class="reference external" href="https://github.com/AaltoSciComp/hpc-examples/">https://github.com/AaltoSciComp/hpc-examples/</a></p></li>
+</ul>
+</li>
+<li><p>The second (hpc-examples) could be included as a submodule to reduce
+duplication, and users can also clone it during courses.</p></li>
+</ul>
+</section>
+<section id="don-t-use-readthedocs-anymore">
+<h3>Don’t use ReadTheDocs anymore?<a class="headerlink" href="#don-t-use-readthedocs-anymore" title="Link to this heading"></a></h3>
+<ul class="simple">
+<li><p>Github Actions + GitHub Pages or other hosting sites would work
+instead of ReadTheDocs now.</p></li>
+</ul>
+</section>
+<section id="how-can-we-keep-things-up-to-date">
+<h3>How can we keep things up to date?<a class="headerlink" href="#how-can-we-keep-things-up-to-date" title="Link to this heading"></a></h3>
+<ul class="simple">
+<li><p>Requires continuous work, like any docs.</p></li>
+<li><p>What should the threshold be for removing old material?</p></li>
+<li><p>We now have a last updated time at the top.</p></li>
+<li><p>We clearly need to think about this more.</p></li>
+</ul>
+</section>
+<section id="visitor-stats">
+<h3>Visitor stats<a class="headerlink" href="#visitor-stats" title="Link to this heading"></a></h3>
+<ul class="simple">
+<li><p>ReadTheDocs provides limited stats based on web server logs.</p></li>
+<li><p>rkdarst is against detailed web tracking.</p></li>
+<li><p>Can we find a way to get both?.</p></li>
+<li><p>2022 update: we have Plausible analytics which is sufficiently
+anonymous.</p></li>
+</ul>
+</section>
+<section id="building-a-community">
+<h3>Building a community<a class="headerlink" href="#building-a-community" title="Link to this heading"></a></h3>
+<ul class="simple">
+<li><p>How can we get more people to contribute?</p></li>
+</ul>
+</section>
+</section>
+</section>
+
+
+           </div>
+          </div>
+          <footer>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>&#169; Copyright 2026, The contributors.</p>
+  </div>
+
+  Built with <a href="https://www.sphinx-doc.org/">Sphinx</a> using a
+    <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a>
+    provided by <a href="https://readthedocs.org">Read the Docs</a>.
+   
+
+</footer>
+        </div>
+      </div>
+    </section>
+  </div>
+  <script>
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script> 
+
+</body>
+</html>

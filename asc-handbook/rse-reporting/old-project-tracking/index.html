@@ -1,0 +1,394 @@
+
+
+<!DOCTYPE html>
+<html class="writer-html5" lang="en" data-content_root="../../../">
+<head>
+  <meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>OLD: Project management: RSE perspective &mdash; Aalto RSE training</title>
+      <link rel="stylesheet" type="text/css" href="../../../_static/pygments.css?v=b86133f3" />
+      <link rel="stylesheet" type="text/css" href="../../../_static/css/theme.css?v=9edc463e" />
+      <link rel="stylesheet" type="text/css" href="../../../_static/mystnb.11b39860a7a0cbfd473a3ad8a317855267ff0bd372690045ca344a6b62be495e.css" />
+      <link rel="stylesheet" type="text/css" href="../../../_static/copybutton.css?v=76b2166b" />
+      <link rel="stylesheet" type="text/css" href="../../../_static/togglebutton.css?v=9c3e77be" />
+      <link rel="stylesheet" type="text/css" href="../../../_static/sphinx_lesson.css?v=e9df6548" />
+      <link rel="stylesheet" type="text/css" href="../../../_static/term_role_formatting.css?v=4194e21c" />
+      <link rel="stylesheet" type="text/css" href="../../../_static/sphinx_rtd_theme_ext_color_contrast.css?v=8e8ea19f" />
+      <link rel="stylesheet" type="text/css" href="../../../_static/inote.css?v=54d43699" />
+      <link rel="stylesheet" type="text/css" href="../../../_static/theme_overrides.css?v=6802f900" />
+
+  
+    <link rel="shortcut icon" href="../../../_static/logo-hexagons-02-compact.svg.ico"/>
+      <script src="../../../_static/jquery.js?v=5d32c60e"></script>
+      <script src="../../../_static/_sphinx_javascript_frameworks_compat.js?v=2cd50e6c"></script>
+      <script src="../../../_static/documentation_options.js?v=187304be"></script>
+      <script src="../../../_static/doctools.js?v=9bcbadda"></script>
+      <script src="../../../_static/sphinx_highlight.js?v=dc90522c"></script>
+      <script src="../../../_static/clipboard.min.js?v=a7894cd8"></script>
+      <script src="../../../_static/copybutton.js?v=f281be69"></script>
+      <script src="../../../_static/minipres.js?v=a0d29692"></script>
+      <script>let toggleHintShow = 'Click to show';</script>
+      <script>let toggleHintHide = 'Click to hide';</script>
+      <script>let toggleOpenOnPrint = 'true';</script>
+      <script src="../../../_static/togglebutton.js?v=b8b12719"></script>
+      <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
+    <script src="../../../_static/js/theme.js"></script>
+    <link rel="index" title="Index" href="../../../genindex/" />
+    <link rel="search" title="Search" href="../../../search/" />
+    <link rel="next" title="Prioritization" href="../prioritization/" />
+    <link rel="prev" title="Project reporting" href="../projects/" /> 
+</head>
+
+<body class="wy-body-for-nav"> 
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search" >
+
+          
+          
+          <a href="../../../" class="icon icon-home">
+            Aalto RSE training
+          </a>
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="../../../search/" method="get">
+    <input type="text" name="q" placeholder="Search docs" aria-label="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+        </div><div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+              <ul>
+<li class="toctree-l1"><a class="reference internal" href="../../../what-is-a-rse/">What is a RSE at ASC?</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">Roles</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../../../roles/">Roles intro</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../roles/project-work/">Project worker</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../roles/garage/">Garage supporter</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../roles/teacher/">Teacher</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../roles/planner/">Project planner</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../roles/technical-mentor/">Technical mentor</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../roles/unit-liaison/">Unit liaison</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../roles/team-supervisor/">Team supervisor</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../roles/exercise-list/">Exercise list</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">Topical reference</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../../../topics/what-is-aalto/">What is Aalto University?</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../topics/it-in-aalto/">IT in Aalto</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../topics/research-services-at-aalto/">Research services at Aalto</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../topics/tech/">Tech stuff</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../topics/data-management/">Data management</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../topics/data-storage/">Data storage systems</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../topics/ethics/">Ethics</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../topics/security/">Security</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../topics/sysadmin/">System administration</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../topics/communication/">Communications</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../topics/project-process/">Project processes</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">ASC handbook</span></p>
+<ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="../../">ASC handbook</a></li>
+<li class="toctree-l1 current"><a class="reference internal" href="../">RSE reporting</a><ul class="current">
+<li class="toctree-l2"><a class="reference internal" href="../support/">Support: garage and small work</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../projects/">Project reporting</a></li>
+<li class="toctree-l2 current"><a class="current reference internal" href="#">OLD: Project management: RSE perspective</a><ul>
+<li class="toctree-l3"><a class="reference internal" href="#summary">Summary</a><ul>
+<li class="toctree-l4"><a class="reference internal" href="#procedures-by-project-size">Procedures by project size</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#procedures-for-tracked-projects">Procedures for tracked projects</a></li>
+</ul>
+</li>
+<li class="toctree-l3"><a class="reference internal" href="#finance-time-tracking">Finance time tracking</a></li>
+<li class="toctree-l3"><a class="reference internal" href="#notes-on-special-types-of-projects">Notes on special types of projects</a><ul>
+<li class="toctree-l4"><a class="reference internal" href="#special-projects">Special projects</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#normal-funded-projects">Normal funded projects</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#internal-charging-projects">Internal charging projects</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#basic-funding-projects">Basic funding projects</a></li>
+<li class="toctree-l4"><a class="reference internal" href="#gitlab-day-to-day-procedure">Gitlab day-to-day procedure</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toctree-l2"><a class="reference internal" href="../prioritization/">Prioritization</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="../../ref/">Checklists, reference, and material</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">RSE seminar series</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../../../seminars/">RSE seminar series</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../seminars/archive/">Archive</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../seminars/archive-2020/">Archive 2021-2022</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">Other material</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../../../12-session-plan/">12 session training plan</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../other-rse-training/">Other RSE training</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../site-map/">Site map</a></li>
+</ul>
+
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap"><nav class="wy-nav-top" aria-label="Mobile navigation menu" >
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="../../../">Aalto RSE training</a>
+      </nav>
+
+      <div class="wy-nav-content">
+        <div class="rst-content style-external-links">
+          <div role="navigation" aria-label="Page navigation">
+  <ul class="wy-breadcrumbs">
+      <li><a href="../../../" class="icon icon-home" aria-label="Home"></a></li>
+          <li class="breadcrumb-item"><a href="../">RSE reporting</a></li>
+      <li class="breadcrumb-item active">OLD: Project management: RSE perspective</li>
+      <li class="wy-breadcrumbs-aside">
+              <a href="https://github.com/AaltoSciComp/rse-training/blob/main/content/asc-handbook/rse-reporting/old-project-tracking.rst" class="fa fa-github"> Edit on GitHub</a>
+      </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+             
+  <section id="old-project-management-rse-perspective">
+<h1>OLD: Project management: RSE perspective<a class="headerlink" href="#old-project-management-rse-perspective" title="Link to this heading"></a></h1>
+<p><strong>OLD material - will be deleted once it is moved to other locations.</strong></p>
+<section id="summary">
+<h2>Summary<a class="headerlink" href="#summary" title="Link to this heading"></a></h2>
+<section id="procedures-by-project-size">
+<h3>Procedures by project size<a class="headerlink" href="#procedures-by-project-size" title="Link to this heading"></a></h3>
+<table class="docutils align-default">
+<thead>
+<tr class="row-odd"><th class="head stub"><p>Size</p></th>
+<th class="head"><p>Priority</p></th>
+<th class="head"><p>How to select</p></th>
+<th class="head"><p>When starting</p></th>
+<th class="head"><p>When finishing</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><th class="stub"><p>Garage</p></th>
+<td><p>Top</p></td>
+<td><p>Try to help everyone: help, redirect, or give advice to do themselves.</p></td>
+<td><p>Ask who you are, unit, background.  Ensure you help them at the
+level they need.  Shadow other help sessions to learn new things.</p></td>
+<td><p>Record in <a class="reference external" href="https://version.aalto.fi/gitlab/AaltoScienceIT/garagediary">garage diary</a> (with unit)</p></td>
+</tr>
+<tr class="row-odd"><th class="stub"><p>Small</p></th>
+<td><p>Third</p></td>
+<td><p>When garage project needs extra time and you {have time &amp; want} to
+do it.</p></td>
+<td><p>Discuss expectations with customer.  Usually meetings are in
+garage times; record in garage diary for each visit.</p></td>
+<td><p>(none, already in diary)</p></td>
+</tr>
+<tr class="row-even"><th class="stub"><p>Medium</p></th>
+<td><p>Lowest (filler)</p></td>
+<td><p>When we have time, in proportion to <a class="reference external" href="https://scicomp.aalto.fi/rse/procedures/units-info/" title="(in Aalto Scientific Computing)"><span class="xref std std-doc">unit priorities</span></a>.</p>
+<p>Confirm in weekly meeting before accepting.</p>
+</td>
+<td><p>Initial triage in garage.  Arrange a detailed planning meeting.
+Usually at least two RSE staff, at one experienced in the topic
+attend.  Invite the customer’s supervisor if needed.  Use the
+<a class="reference external" href="https://docs.google.com/document/d/1XcxeNLRq0kOsFbDEmA7ArdbIrCVudMWHPFQsKRVcTIk">template doc</a>.
+Make an issue in rse-projects issue tracker if it seems like a
+good project, even if we can’t do it.  Await a decision in weekly
+RSE meeting before promising anything.  In the meeting, the
+responsible RSE is decided and they contact the customer.</p></td>
+<td><p>rse-projects issue tracker updated
+(<a class="reference internal" href="../../ref/project-done/"><span class="doc">RSE project done</span></a>).</p></td>
+</tr>
+<tr class="row-odd"><th class="stub"><p>Large</p></th>
+<td><p>Second (try to do all we can to get outside funding)</p></td>
+<td><p>If there is not enough time for all requests, in proportion to <a class="reference external" href="https://scicomp.aalto.fi/rse/procedures/units-info/" title="(in Aalto Scientific Computing)"><span class="xref std std-doc">unit priorities</span></a>.</p></td>
+<td><p>Same ^</p></td>
+<td><p>Same ^</p></td>
+</tr>
+</tbody>
+</table>
+</section>
+<section id="procedures-for-tracked-projects">
+<h3>Procedures for tracked projects<a class="headerlink" href="#procedures-for-tracked-projects" title="Link to this heading"></a></h3>
+<table class="docutils align-default">
+<thead>
+<tr class="row-odd"><th class="head stub"><p>Stage</p></th>
+<th class="head"><p>What it means</p></th>
+<th class="head"><p>How to get here</p></th>
+<th class="head"><p>Info stored in</p></th>
+</tr>
+</thead>
+<tbody>
+<tr class="row-even"><th class="stub"><p>S0 Lead</p></th>
+<td><p>You’ve learned someone has a vague idea</p></td>
+<td><p>Whoever knows them best talks and explains the ideas of RSE
+stuff.  Give basic expectations.  Ask them if they want to
+proceed.</p></td>
+<td><ul class="simple">
+<li><p>If vague: nowhere, tell them to contact us again when ready.</p></li>
+<li><p>If a concrete lead: make a rse-projects issue with state
+“Lead”.  Include description, estimated time, unit label, and
+<code class="docutils literal notranslate"><span class="pre">/summary</span></code> at least.</p></li>
+<li><p>If they want to proceed: (a) set up the planning meeting
+yourself or (b) add to weekly meeting agenda to find someone
+who will do the pre-planning meeting.</p></li>
+</ul>
+</td>
+</tr>
+<tr class="row-odd"><th class="stub"><p>Planning meeting</p></th>
+<td><p>Discussed enough to understand what it is</p></td>
+<td><p>Planning meeting with at least two RSEs (doesn’t have to be
+those who got the lead, but it’s good if someone who might do
+it is there + someone who can mentor that person).  Use the <a class="reference external" href="https://docs.google.com/document/d/1XcxeNLRq0kOsFbDEmA7ArdbIrCVudMWHPFQsKRVcTIk">template doc</a>
+or similar.</p></td>
+<td><p>Template doc + <a class="reference external" href="https://version.aalto.fi/gitlab/AaltoRSE/rse-projects/">rse-projects</a>
+issue created</p></td>
+</tr>
+<tr class="row-even"><th class="stub"><p>S1/S2 Accepted (Waiting / Queued)</p></th>
+<td><p>We’ve decided we can do the project.</p></td>
+<td><p>Decision in weekly meeting based on pre-planning meeting info.
+Ensure we have time, ensure we have funding.  Look for
+unmanaged risks.  Final check for who has time to actually do
+the project.  Checklist:</p>
+<ul class="simple">
+<li><p>Project can be defined</p></li>
+<li><p>A RSE has skills, interest, and <em>time</em></p></li>
+<li><p>Team as whole has time and skills to support</p></li>
+</ul>
+</td>
+<td><p>Person(s) doing it contact the customer.</p></td>
+</tr>
+<tr class="row-odd"><th class="stub"><p>S3 In progress</p></th>
+<td><p>It’s being worked on.</p></td>
+<td><p>(someone starts working on it)</p></td>
+<td><p>Halli if needed.  Update rse-projects issue periodically.  Keep
+good communication with the customer, for example in the same
+planning doc.</p></td>
+</tr>
+<tr class="row-even"><th class="stub"><p>S5 Reporting</p></th>
+<td><p>Project is basically done but we are waiting for stats to add
+to rse-projects before forgetting about it.</p></td>
+<td><p>(finish project)</p></td>
+<td><p>rse-projects issue label</p></td>
+</tr>
+<tr class="row-odd"><th class="stub"><p>S6 Done</p></th>
+<td><p>Done, don’t have to think about it anymore</p></td>
+<td><p>Discuss with customer: what do they need to know from here?
+Add to weekly meeting agenda to discuss lessons leaned.</p></td>
+<td><p>rse-projects issue fully updated with label, summary, time
+spent/saved, and other stats.</p></td>
+</tr>
+<tr class="row-even"><th class="stub"><p>S7 Maintenance</p></th>
+<td><p>Project is done but it still occupies our minds since we may be
+asked to do maintenance in the future.
+Add to weekly meeting agenda to discuss lessons leaned.</p></td>
+<td><p>(finish project)</p></td>
+<td><p>rse-projects issue label</p></td>
+</tr>
+<tr class="row-odd"><th class="stub"><p>S8 Cancelled</p></th>
+<td><p>It was a good project, but we decided not to do it</p></td>
+<td><p>Either we decide we don’t have time, or customer decides it is
+no longer needed.</p></td>
+<td><p>rse-projects issue label.</p></td>
+</tr>
+</tbody>
+</table>
+</section>
+</section>
+<section id="finance-time-tracking">
+<h2>Finance time tracking<a class="headerlink" href="#finance-time-tracking" title="Link to this heading"></a></h2>
+<p>Halli serves as our source of truth about funded projects.  For
+projects with their own funding (external or internal funding), you
+should get instructions about how to record it.  All other projects
+(funded by the department’s/school’s basic funding) is marked in Halli
+to the standard RSE salaries project (ask for it).</p>
+</section>
+<section id="notes-on-special-types-of-projects">
+<span id="rse-project-admin-types-of-projects"></span><h2>Notes on special types of projects<a class="headerlink" href="#notes-on-special-types-of-projects" title="Link to this heading"></a></h2>
+<section id="special-projects">
+<h3>Special projects<a class="headerlink" href="#special-projects" title="Link to this heading"></a></h3>
+<p>Examples: EU-funded projects</p>
+<p>Special projects are their own distinct entity and are not mixed with
+other work of our team.  They receive dedicated days for their work,
+and are not given attention on other days.  Because these get
+exclusive days, the master data of these projects is in Halli, and
+because Halli can be used for records later, they are not recorded in
+Gitlab. (Note: “special” does not mean better, it’s usually more
+productive to be available for researchers whenever they need us).</p>
+<p>Special projects get one Gitlab issue to track the overall contact,
+but it isn’t updated on a day-to-day basis.</p>
+<p>Daily procedures: A Gitlab issue is created for every project, with
+funding source <code class="docutils literal notranslate"><span class="pre">Funding::Project</span></code>.  At the end of every day, record
+the working time in Halli.  As much as possible, these project days
+should not be mixed with other work, but internal team meetings,
+etc. are allowed if necessary.  In Halli, record each day’s worktime
+(scaled to the standard 7.25h/day) in proportion to the time spent on
+the special project (allocated to that project)/internal work
+(allocated to RSE-salaries).</p>
+</section>
+<section id="normal-funded-projects">
+<h3>Normal funded projects<a class="headerlink" href="#normal-funded-projects" title="Link to this heading"></a></h3>
+<p>For projects providing their own funding, Halli is also used to track
+the time spent on them, but you can work on them whenever the
+customers request.</p>
+<p>Daily procedures: A Gitlab issue is created for every project, with
+funding source <code class="docutils literal notranslate"><span class="pre">Funding::Project</span></code>.  Halli is marked to the
+respective project and at least is correct by-month.</p>
+</section>
+<section id="internal-charging-projects">
+<h3>Internal charging projects<a class="headerlink" href="#internal-charging-projects" title="Link to this heading"></a></h3>
+<p>“Internal changing” projects are funded, but are paid as a lump-sum
+internal invoice and Halli is not used.  These projects are not very
+common.  Gitlab is used to track time spent on these projects.</p>
+<p>Daily procedures: Like above for Gitlab.  Halli is marked to the
+standard RSE-salaries project.  <code class="docutils literal notranslate"><span class="pre">Funding::Project</span></code></p>
+</section>
+<section id="basic-funding-projects">
+<h3>Basic funding projects<a class="headerlink" href="#basic-funding-projects" title="Link to this heading"></a></h3>
+<p>These projects are paid by our basic funding, provided by our
+sponsoring units.  This also includes all of our internal work,
+meetings, development, and teaching.</p>
+<p>Daily procedures: Same as above.  Gitlab funding marked as
+<code class="docutils literal notranslate"><span class="pre">Funding::Unit</span></code></p>
+</section>
+<section id="gitlab-day-to-day-procedure">
+<h3>Gitlab day-to-day procedure<a class="headerlink" href="#gitlab-day-to-day-procedure" title="Link to this heading"></a></h3>
+<p>See <a class="reference external" href="https://github.com/AaltoRSE/rse-timetracking">the rse-timetracking repository</a> for info on how to use
+Gitlab.  But the actual data is in <strong>rse-projects</strong>, a separate
+private repository.</p>
+</section>
+</section>
+</section>
+
+
+           </div>
+          </div>
+          <footer>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>&#169; Copyright 2026, The contributors.</p>
+  </div>
+
+  Built with <a href="https://www.sphinx-doc.org/">Sphinx</a> using a
+    <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a>
+    provided by <a href="https://readthedocs.org">Read the Docs</a>.
+   
+
+</footer>
+        </div>
+      </div>
+    </section>
+  </div>
+  <script>
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script> 
+
+</body>
+</html>
