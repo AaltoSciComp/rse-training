@@ -230,9 +230,17 @@ Working together
 Try not to be alone when there is any doubt of getting the message
 across as simply as possible.  One thing I have found is that, even
 before preparing writing or a presentation, talk with someone about
-what the main points are.  Then expand some, then talk again, etc.
-Work backwards this way with others, not do too much and try to
-clarify later.
+what the main points will be - what is my message actually going to
+be?  Then expand some, then talk again, etc.  Work backwards this way
+with others instead of making too much and trying to figure out what
+to remove.  Often the "what is my message?" that is the hard part of
+planning communication, not "how do I write/say it?".
+
+Be involved early.  It is much easier to help guide the main messages
+early, rather than try to fix them later after a lot of work is done.
+If one gives advice late, it often just becomes minor changes and not
+helping with the main message-setting.  Insist on being involved
+early.
 
 
 
