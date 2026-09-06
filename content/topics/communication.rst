@@ -8,7 +8,7 @@ academic researcher, you must be prepared to work with customers who
 have very different focuses than you.
 
 
-.. admonition: Philosophy of this page
+.. admonition:: About this page
 
    I don't seriously think that anything I can tell you that you can't
    better learn elsewhere.  I don't think this can be complete or a
