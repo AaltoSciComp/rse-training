@@ -34,7 +34,7 @@ General background information.
    roles/index
    roles/project-work
    roles/garage
-   roles/teaching
+   roles/teacher
    roles/planner
    roles/technical-mentor
    roles/unit-liaison

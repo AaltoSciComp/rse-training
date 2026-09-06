@@ -36,7 +36,7 @@ Role list
        they can be directed to other help (with advice).  Primary
        challenges include the huge variety of questions which may
        come, and the need to think on your feet.
-   * * :doc:`Teaching <teaching>`
+   * * :doc:`Teaching <teacher>`
      * Teaches (+other support) in courses, mainly using the
        CodeRefinery teaching strategies of co-teaching, collaborative
        notes, and livestreaming.  Teaches with compassion and always

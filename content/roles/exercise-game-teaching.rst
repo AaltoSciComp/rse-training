@@ -3,7 +3,7 @@
 Exercise: game teaching
 =======================
 
-*This is an expansion of the gaming exercise in* :doc:`teaching`.
+*This is an expansion of the gaming exercise in* :doc:`teacher`.
 
 I (rkdarst) think there is a lot of analogies to teaching games and
 teaching technology.  Both are complex systems with many interlocking
