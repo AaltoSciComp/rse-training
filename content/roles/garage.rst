@@ -1,5 +1,5 @@
-Garage support
-==============
+Garage supporter
+================
 
 Summary
 -------

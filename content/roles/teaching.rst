@@ -1,5 +1,5 @@
-Teaching
-========
+Teacher
+=======
 
 Summary
 -------
