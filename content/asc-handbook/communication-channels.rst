@@ -85,7 +85,14 @@ Calendars
    * Create a new event from your calendar, and *before* saving,
      change the calendar to ``science-it`` (you can't do it later,
      after you send invites out).
-   * You *can*
+   * You *can* then send the invite to specific people.
+
+   One advantage of this is that an event sent only as a personal
+   invite blocks everyone's calendars with "tentative" unless they
+   decline, and if they decline then they can't see the event at all.
+   Seeing it, but not blocking the calendar, is better.  (The option
+   is someone doesn't decline the event but changes it to "Free" as a
+   status instead of "Tentative".)
 
 .. admonition:: RSVPing to an event on the Science-IT calendar
    :class: dropdown
