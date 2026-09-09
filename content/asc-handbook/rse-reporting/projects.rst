@@ -27,7 +27,7 @@ funding sources and Halli is not precise enough for a report).
    * Keep the rse-timetracking spreadsheet up to date with committed
      time in the future.
 
-
+.. _what-is-project:
 
 When is something a "project" and not "support"?
 ------------------------------------------------
@@ -50,7 +50,7 @@ When is something a "project" and not "support"?
   * Is a concrete future possibility, for example we have been written
     into a grant application at X months. :inote:`Having a list of
     where we have been written into grants is also useful for our
-    reporting` (label: `Status::0-WaitingForGrant`)
+    reporting` (label: ``Status::0-WaitingForGrant``)
 
 * Things generally indicating *not* a project:
 
@@ -72,7 +72,13 @@ When is something a "project" and not "support"?
 
 The boundary may not be clear here and you can make a judgment call.
 
+How much to subdivide projects, or use one tracking project for many
+small things?  That is kind of up to you, but in general, fewer is
+better if it still represents the unit/funding source and looks good
+on the reports.
 
+
+.. _rse-projects:
 
 ``rse-projects`` Gitlab repository
 ----------------------------------
@@ -93,6 +99,7 @@ fields at https://github.com/AaltoRSE/rse-timetracking, but should
 probably not read it until it is improved.)
 
 
+.. _rse-timetracking:
 
 ``rse-timetracking`` spreadsheet
 --------------------------------
@@ -183,7 +190,7 @@ metadata from Gitlab and makes a actual time report per-year.
 
 Below is an example from the automatically-generated text report that
 is sometimes requested.  It has the issue title, various metadata from
-labels and ``/``-commands, and the ``/summary`` summary.
+labels and ``/``-commands, and the ``/summary`` summary:
 
     Adding functionality to [some-software] (#nnn / ELEC)
 
