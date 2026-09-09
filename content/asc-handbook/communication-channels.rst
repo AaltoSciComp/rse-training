@@ -68,6 +68,9 @@ Calendars
   times.
 - You are expected to keep it reasonably up to date with appointments,
   so that people can know when your free times are.
+- If you are on vacation/leave/etc, mark your calendar as "away".
+  Note after making an all-day event you have to change it to "Away"
+  since it defaults to "Free".
 - Send calendar invites to keep people's calendar in sync and make
   meetings explicit.  Send them to customers to make meetings
   explicit.  Etc.
