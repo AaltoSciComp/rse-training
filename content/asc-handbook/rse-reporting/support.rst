@@ -17,6 +17,9 @@ for some people).
    * Record each customer meeting in the garage diary.  Details are
      not important, only the general statistics.
 
+.. seealso::
+
+   * :doc:`/roles/garage` - expectations for helping in garage.
 
 Reporting and tracking
 ----------------------
@@ -34,9 +37,9 @@ ad-hoc questions and contacts.
   calculate the duration of meetings.  We hope that long-term, number
   of meetings is proportional to who we support.
 
-* The main purpose is so that we can help visitors across visits if
+* The main purposes are to better help visitors across visits if
   (for example) the first person who helped them isn't there the next
-  day.
+  day, and generate good reports to show our value.
 
 * There is no need to record things that are already in another
   tracking system, like the Triton issue tracker or eSupport.
@@ -44,6 +47,9 @@ ad-hoc questions and contacts.
 
 Garage support
 --------------
+
+* Record each customer's visit to garage, unless it's part of a
+  project.
 
 * You can choose who to help in garage.  Work with others in the
   garage to figure out who does what (sometimes you may need to "take
@@ -64,8 +70,11 @@ Garage support
 Small support
 -------------
 
-* These are small extensions of garage support, which you work on
-  outside the garage time.
+These are small extensions of garage support, which you work on
+outside the garage time.
+
+* Reporting: this is mixed in with the garage reporting.  Report each
+  meeting with the customer to the diary.
 
 * You shouldn't promise anything you can't do within the few days
   (this shouldn't become a long-term mental burden for you).  If it's
@@ -79,8 +88,6 @@ Small support
 
 * You usually meet in garage but can schedule meetings outside of that
   time, too.  Record each meeting in the garage diary.
-
-* Reporting: this is mixed in with the garage reporting.
 
 
 Example reports to management

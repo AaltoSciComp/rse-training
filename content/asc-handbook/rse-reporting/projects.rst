@@ -27,6 +27,11 @@ funding sources and Halli is not precise enough for a report).
    * Keep the rse-timetracking spreadsheet up to date with committed
      time in the future.
 
+.. seealso::
+
+   * :doc:`/roles/garage` - expectations for helping in garage.
+
+
 .. _what-is-project:
 
 When is something a "project" and not "support"?
@@ -36,16 +41,18 @@ When is something a "project" and not "support"?
 
   * Requires 3 focus days or more on our part.
 
+  * Anything requiring funding.
+
   * Requires a fair amount of planning and documentation of that
-    planning.
+    planning, or coordinating multiple RSEs working together.
 
-  * A "Retainer" project, where we are paid to work with a group
-    long-term on many various small things. :inote:`In this case, you
-    would probably use the retainer project even if there are other
-    things longer than three days going on, since there is not much
-    purpose to show in more detail`
+  * A "Retainer" project, where we are paid for long-term work on many
+    various small things. :inote:`In this case, you would probably use
+    the retainer project even if there are other "projects" longer
+    than three days going on, since there is not much purpose to show
+    in more detail`
 
-  * Every major course.
+  * Every course we teach (larger than a workshop).
 
   * Is a concrete future possibility, for example we have been written
     into a grant application at X months. :inote:`Having a list of
@@ -64,10 +71,11 @@ When is something a "project" and not "support"?
     support can be dropping by garage and seeing who is there.`
 
   * One person can do it quickly with little interaction needed from
-    others.
+    others, or it's just a "one person needs to remember to do this"
+    on their own to-do list.
 
-  * Spending a few hours or even a few days attending a course or
-    event if it is not mainly organized by us.
+  * Spending a few hours or even a few days teaching or attending a
+    course or event if it is not mainly organized by us.
 
 
 The boundary may not be clear here and you can make a judgment call.
@@ -101,14 +109,20 @@ probably not read it until it is improved.)
 
 .. _rse-timetracking:
 
-``rse-timetracking`` spreadsheet
---------------------------------
+RSE time scheduling spreadsheet
+-------------------------------
 
 This is the person × month spreadsheet used for long-term time
 allocation.  The spreadsheet does not have to have anything classified
-as "garage" or "support" in it.  That fits in spare unallocated time.
+as "garage" or "support" in it (that fits in spare unallocated time).
 A person should not usually go above 80% full (to have time for these
 other things).
+
+.. figure:: rse-scheduling-spreadsheet.png
+
+   An example of the RSE scheduling sprereadsheet.  This was the early
+   days so doesn't meet all the current standards, but you see people,
+   months, percentages, and descriptions.
 
 What do the numbers mean?  Fraction of your actual time, so that (for
 example) it is the percent value you would give for the Person-Months
@@ -132,8 +146,8 @@ all be recorded.
 
 
 
-Reporting by step
------------------
+Reporting and approvals by step
+-------------------------------
 
 * **Pre-discussion:** (there is no project yet, you are just talking
   to people about a future idea).  You don't need to do any reporting,
@@ -151,21 +165,22 @@ Reporting by step
   correct.  Give a report of the plan to the RSE weekly meeting and
   ask for any other feedback and a "go/no-go" decision.
 
-* **Working on it**: Keep the ``rse-timetracking`` spreadsheet up to
-  date month-by-month.  Important updates and news can go to the
-  Gitlab issue, and use chat as needed.  (label: ``Status::3-InProgress``)
+* **Working on it** (label: ``Status::3-InProgress``): Keep the
+  RSE time scheduling spreadsheet up to date month-by-month.
+  Important updates and news can go to the Gitlab issue, and use chat
+  as needed.
 
-* **Done**: Move the issue to state "done", update the summary and, if
-  possible, ask how much time we saved the customer and report it with
-  ``/timesaved``.  If it's mostly done but you are waiting for info
-  from the customer, you can move it to start "reporting".  (labels:
-  ``Status::6-Done``)
+* **Done** (label: ``Status::6-Done``): Move the issue to state
+  "done", update the summary and, if possible, ask how much time we
+  saved the customer and report it with ``/timesaved``.  If it's
+  mostly done but you are waiting for info from the customer, you can
+  move it to start "reporting".
 
-* **Maintenance**: Use this state if the main work is done, but it
+* **Maintenance** (label: ``Status::7-Maintenance``): Use this state if the main work is done, but it
   remains under our maintenance (we may be called to fix stuff for it
   later).  It is important we can say how much of this work we do.
   Don't forget to update maintenance time to the ``rse-timetracking``
-  spreadsheet.  (labels: ``Status::7-Maintenance``)
+  spreadsheet.
 
 
 
