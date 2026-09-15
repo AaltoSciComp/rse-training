@@ -5,7 +5,8 @@ End of month checklist
 
   * If you need to report worktime in Halli, do so and submit it.
 
-* RSE scheduling spreadsheet (Google drive search: "RSE time scheduling")
+* RSE scheduling spreadsheet (:ref:`ref <rse-time-planner>`)
+  (Google drive search: "RSE time scheduling")
 
   * Review and update the time allocation for the past month and ensure
     every :ref:`project according to the definition <what-is-project>`
@@ -18,7 +19,7 @@ End of month checklist
   * Un-bold the cell once it is updated :inote:`[bolding] someone may
     bold them on the last day of the month to indicate "not yet updated"`.
 
-* rse-projects issue tracker (:ref:`ref <rse-timetracking>`):
+* rse-projects issue tracker (:ref:`ref <rse-projects>`):
 
   * Add any missing projects and give any updates that may be useful
     for those looking back on it.  You do not have to give updates on

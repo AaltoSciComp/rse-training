@@ -107,10 +107,10 @@ fields at https://github.com/AaltoRSE/rse-timetracking, but should
 probably not read it until it is improved.)
 
 
-.. _rse-timetracking:
+.. _rse-time-planner:
 
-RSE time scheduling spreadsheet
--------------------------------
+RSE time planning spreadsheet
+-----------------------------
 
 This is the person × month spreadsheet used for long-term time
 allocation.  The spreadsheet does not have to have anything classified
@@ -120,7 +120,7 @@ other things).
 
 .. figure:: rse-scheduling-spreadsheet.png
 
-   An example of the RSE scheduling sprereadsheet.  This was the early
+   An example of the RSE scheduling spreadsheet.  This was the early
    days so doesn't meet all the current standards, but you see people,
    months, percentages, and descriptions.
 
