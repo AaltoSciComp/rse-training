@@ -91,11 +91,12 @@ on the reports.
 ``rse-projects`` Gitlab repository
 ----------------------------------
 
-We have an internal repository ``rse-projects`` in the Aalto Gitlab.
-This contains the metadata of all the projects.  **Everything that is
-big enough to be a "project" should have a Gitlab issue.** This
-provides a tracking number ``RSE#NNN`` which is the permanent
-identifier and is automatically parsed for reports.
+We have an internal repository ``rse-projects`` in the Aalto Gitlab
+(AaltoRSE organization).  This contains the metadata of all the
+projects.  **Everything that is big enough to be a "project" should
+have a Gitlab issue.** This provides a tracking number ``RSE#NNN``
+which is the permanent identifier and is automatically parsed for
+reports.
 
 Create a new issue and use the issue template (``Default``).  Fill it
 out well enough to give someone an idea what the project is about/who
@@ -112,6 +113,8 @@ probably not read it until it is improved.)
 RSE time planning spreadsheet
 -----------------------------
 
+Link: google drive search for "RSE time planning"
+
 This is the person × month spreadsheet used for long-term time
 allocation.  The spreadsheet does not have to have anything classified
 as "garage" or "support" in it (that fits in spare unallocated time).
@@ -120,7 +123,7 @@ other things).
 
 .. figure:: rse-scheduling-spreadsheet.png
 
-   An example of the RSE scheduling spreadsheet.  This was the early
+   An example of the RSE time planning spreadsheet.  This was the early
    days so doesn't meet all the current standards, but you see people,
    months, percentages, and descriptions.
 
