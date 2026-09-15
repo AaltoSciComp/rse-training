@@ -103,7 +103,8 @@ Calendars
    Do this so that we can know who is attending.
 
    * Click on the event in the Science-IT calendar.
-   * Add yourself to the invite list and save.
+   * Add yourself to the invite list and save.  (Or forward it to
+     yourself, if it isn't originally made on the calendar.)
    * Accept the event in your calendar.
 
 
