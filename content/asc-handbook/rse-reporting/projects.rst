@@ -41,7 +41,7 @@ When is something a "project" and not "support"?
 
   * Requires 3 focus days or more on our part.
 
-  * Anything requiring funding.
+  * Anything providing its own funding.
 
   * Requires a fair amount of planning and documentation of that
     planning, or coordinating multiple RSEs working together.
@@ -63,6 +63,8 @@ When is something a "project" and not "support"?
 
   * Requires less than a week. :inote:`Yes, there is an overlap with
     projects.`
+
+  * You won't remember to update the issue as it progresses.
 
   * No value in listing it separately in reports to management (it
     looks trivial and dilutes the other good work we do).
