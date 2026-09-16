@@ -1,0 +1,441 @@
+
+
+<!DOCTYPE html>
+<html class="writer-html5" lang="en" data-content_root="../../">
+<head>
+  <meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Communications &mdash; Aalto RSE training</title>
+      <link rel="stylesheet" type="text/css" href="../../_static/pygments.css?v=b86133f3" />
+      <link rel="stylesheet" type="text/css" href="../../_static/css/theme.css?v=9edc463e" />
+      <link rel="stylesheet" type="text/css" href="../../_static/mystnb.11b39860a7a0cbfd473a3ad8a317855267ff0bd372690045ca344a6b62be495e.css" />
+      <link rel="stylesheet" type="text/css" href="../../_static/copybutton.css?v=76b2166b" />
+      <link rel="stylesheet" type="text/css" href="../../_static/togglebutton.css?v=9c3e77be" />
+      <link rel="stylesheet" type="text/css" href="../../_static/sphinx_lesson.css?v=e9df6548" />
+      <link rel="stylesheet" type="text/css" href="../../_static/term_role_formatting.css?v=4194e21c" />
+      <link rel="stylesheet" type="text/css" href="../../_static/sphinx_rtd_theme_ext_color_contrast.css?v=8e8ea19f" />
+      <link rel="stylesheet" type="text/css" href="../../_static/inote.css?v=54d43699" />
+      <link rel="stylesheet" type="text/css" href="../../_static/theme_overrides.css?v=6802f900" />
+
+  
+    <link rel="shortcut icon" href="../../_static/logo-hexagons-02-compact.svg.ico"/>
+      <script src="../../_static/jquery.js?v=5d32c60e"></script>
+      <script src="../../_static/_sphinx_javascript_frameworks_compat.js?v=2cd50e6c"></script>
+      <script src="../../_static/documentation_options.js?v=187304be"></script>
+      <script src="../../_static/doctools.js?v=9bcbadda"></script>
+      <script src="../../_static/sphinx_highlight.js?v=dc90522c"></script>
+      <script src="../../_static/clipboard.min.js?v=a7894cd8"></script>
+      <script src="../../_static/copybutton.js?v=f281be69"></script>
+      <script src="../../_static/minipres.js?v=a0d29692"></script>
+      <script>let toggleHintShow = 'Click to show';</script>
+      <script>let toggleHintHide = 'Click to hide';</script>
+      <script>let toggleOpenOnPrint = 'true';</script>
+      <script src="../../_static/togglebutton.js?v=b8b12719"></script>
+      <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
+    <script src="../../_static/js/theme.js"></script>
+    <link rel="index" title="Index" href="../../genindex/" />
+    <link rel="search" title="Search" href="../../search/" />
+    <link rel="next" title="Project processes" href="../project-process/" />
+    <link rel="prev" title="System administration" href="../sysadmin/" /> 
+</head>
+
+<body class="wy-body-for-nav"> 
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search" >
+
+          
+          
+          <a href="../../" class="icon icon-home">
+            Aalto RSE training
+          </a>
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="../../search/" method="get">
+    <input type="text" name="q" placeholder="Search docs" aria-label="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+        </div><div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+              <ul>
+<li class="toctree-l1"><a class="reference internal" href="../../what-is-a-rse/">What is a RSE at ASC?</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">Roles</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../../roles/">Roles intro</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../roles/project-work/">Project worker</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../roles/garage/">Garage supporter</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../roles/teacher/">Teacher</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../roles/planner/">Project planner</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../roles/technical-mentor/">Technical mentor</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../roles/unit-liaison/">Unit liaison</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../roles/team-supervisor/">Team supervisor</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../roles/exercise-list/">Exercise list</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">Topical reference</span></p>
+<ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="../what-is-aalto/">What is Aalto University?</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../it-in-aalto/">IT in Aalto</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../research-services-at-aalto/">Research services at Aalto</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tech/">Tech stuff</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../data-management/">Data management</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../data-storage/">Data storage systems</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../ethics/">Ethics</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../security/">Security</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../sysadmin/">System administration</a></li>
+<li class="toctree-l1 current"><a class="current reference internal" href="#">Communications</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="#key-rules">Key rules</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#garage-support">Garage support</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#projects">Projects</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#meetings">Meetings</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#reports-and-writing">Reports and writing</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#working-together">Working together</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#bottom-line-up-front">Bottom line up front</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#other-notes">Other notes</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="../project-process/">Project processes</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">ASC handbook</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../../asc-handbook/">ASC handbook</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../asc-handbook/rse-reporting/">RSE reporting</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../asc-handbook/ref/">Checklists, reference, and material</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">RSE seminar series</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../../seminars/">RSE seminar series</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../seminars/archive/">Archive</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../seminars/archive-2020/">Archive 2021-2022</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">Other material</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../../12-session-plan/">12 session training plan</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../other-rse-training/">Other RSE training</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../site-map/">Site map</a></li>
+</ul>
+
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap"><nav class="wy-nav-top" aria-label="Mobile navigation menu" >
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="../../">Aalto RSE training</a>
+      </nav>
+
+      <div class="wy-nav-content">
+        <div class="rst-content style-external-links">
+          <div role="navigation" aria-label="Page navigation">
+  <ul class="wy-breadcrumbs">
+      <li><a href="../../" class="icon icon-home" aria-label="Home"></a></li>
+      <li class="breadcrumb-item active">Communications</li>
+      <li class="wy-breadcrumbs-aside">
+              <a href="https://github.com/AaltoSciComp/rse-training/blob/main/content/topics/communication.rst" class="fa fa-github"> Edit on GitHub</a>
+      </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+             
+  <section id="communications">
+<h1>Communications<a class="headerlink" href="#communications" title="Link to this heading"></a></h1>
+<p>As Research Engineers, we work closely with other scientists, and this
+requires a high skill in communication.  This is one of the things
+which most of our new staff get surprised about.  Compared to being a
+academic researcher, you must be prepared to work with customers who
+have very different focuses than you.</p>
+<div class="admonition-about-this-page admonition">
+<p class="admonition-title">About this page</p>
+<p>I don’t seriously think that anything I can tell you that you can’t
+better learn elsewhere.  I don’t think this can be complete or a
+proper lesson.  There are so many unique communication styles and
+unique projects, you need to figure out what to do yourself, via a
+lot of trial and error and learning from others.  I hope can get
+you thinking (and maybe we can make it better), but always keep
+thinking, learning from others, and improving things.</p>
+<p>Specific guidance for certain types of situations is found under
+<a class="reference internal" href="../../roles/"><span class="doc">the roles section</span></a>.</p>
+</div>
+<section id="key-rules">
+<h2>Key rules<a class="headerlink" href="#key-rules" title="Link to this heading"></a></h2>
+<ul class="simple">
+<li><p><strong>Think defensively.</strong> We are the professionals and thus it is our
+responsibility to think about how you can be misinterpreted and
+preemptively prevent that.</p></li>
+<li><p><strong>Right level of detail.</strong> Most of our customers don’t need to go as
+in-depth to technical things as we do.  You need to present what
+they need to know.</p>
+<ul>
+<li><p>RD: in Garage I always start by gently asking “what’s your
+position and department? [and history]” to understand where they
+are coming from.</p></li>
+</ul>
+</li>
+<li><p><strong>Be brief.</strong> Get to the point fast enough to be relevant (see
+above).  People have much less time to listen to you than you have
+thoughts.  You need to prepare your message well.</p>
+<ul>
+<li><p>Of course, details are often needed, and you need to structure
+your presentation where you get to point fast for most people, and
+can go deeper {if needed, with others}.</p></li>
+</ul>
+</li>
+<li><p><strong>Don’t go alone.</strong> If you have a colleague there, you can work
+together (just like co-teaching).  Two brains helps to detect
+mis-understandings earlier and people can think of different levels.</p></li>
+</ul>
+<p>Also think of if you need to communicate strategically (broad shared
+mental models and ideas) or tactically (how are we working together to
+do something).  Different people need a different view on the same
+project (e.g. professor vs their student you are working with).  You
+will need to tailor the message to each.</p>
+</section>
+<section id="garage-support">
+<h2>Garage support<a class="headerlink" href="#garage-support" title="Link to this heading"></a></h2>
+<p>When you are doing small garage-type support, you need to figure out
+needs quickly and make a quick impact.  You have less time to get to
+know the person and project, and perhaps less likely to already be
+familiar with the topic.</p>
+<p>Keep in mind the “other side” of the “formulate your question” guide
+for customers in <a class="reference external" href="https://scicomp.aalto.fi/help/" title="(in Aalto Scientific Computing)"><span>Help</span></a>.  Asking these is part of being
+defensive.  We tell our users to tell us the following, so make sure
+you think if you need to ask these:</p>
+<ul class="simple">
+<li><p><strong>Has it ever worked?</strong> (If so, what has changed?)</p></li>
+<li><p><strong>What are you trying to accomplish?</strong> (Your ultimate goal, not
+current technical obstacle.)</p></li>
+<li><p><strong>What did you do?</strong> (Be specific enough to be reproducible - copy
+and paste exact commands you run, exact output messages, scripts,
+inputs, etc.)</p></li>
+<li><p><strong>What do you need?</strong> Do you need a complete solution, pointers to
+get started, or should we say if it will take too long and we
+recommend you think of other solutions first?</p></li>
+</ul>
+<p>It is far too easy to quickly do something, and then realize you did
+the wrong thing.</p>
+<p>See also:</p>
+<ul class="simple">
+<li><p><a class="reference internal" href="../../roles/garage/"><span class="doc">Garage supporter</span></a>: All the things under “Garage support”,
+including the references there.</p></li>
+<li><p><a class="reference internal" href="../../seminars/archive-2020/user-support-responses/"><span class="doc">How to actually respond to user support requests?</span></a>: guide for
+answering users, notes from an old un-presented seminar.  This is
+rkdarst’s lore.</p></li>
+</ul>
+</section>
+<section id="projects">
+<h2>Projects<a class="headerlink" href="#projects" title="Link to this heading"></a></h2>
+<p>Projects have unique communication needs in that they are long-term
+and you will go much more in depth.  There are very many more ways for
+something to go off the rails and the team members to get de-synced.</p>
+<p>Just think, for example, that you need to communicate a shared vision
+through all the following stages.  At any stage, if the vision
+de-syncs, thing can go very far off the rails:</p>
+<ul class="simple">
+<li><p>The initial idea</p></li>
+<li><p>Decision if the idea is worth pursuing</p></li>
+<li><p>Formation of a plan</p></li>
+<li><p>Execution of the plan</p></li>
+<li><p>Finishing the plan (or deciding what is finished enough)</p></li>
+<li><p>Reviewing how it went</p></li>
+</ul>
+<p>These steps may happen in a project with yourself, within ASC, with
+customers, or with the broader community.  Everyone is busy and most
+people can’t go as deep into topics as you can, so you need to be able
+to summarize and present the right information to the right person.</p>
+</section>
+<section id="meetings">
+<h2>Meetings<a class="headerlink" href="#meetings" title="Link to this heading"></a></h2>
+<p>Meetings are the time we talk with customers, and while
+hacking/working-together meetings can be ad-hoc, when there are many
+people involved (for example the PIs or it’s starting a project), they
+need to be smooth.  I won’t pretend to say the best way to do
+meetings, since there are so many unique needs, but it is something
+you should think about and prepare fore.</p>
+<p><a class="reference external" href="https://www.trngcmd.marines.mil/Portals/207/Docs/TBS/W3S0005%20-%20MILITARY%20BRIEFING.pdf">This document on military briefings</a>
+(rkdarst found when searching how to do briefings for a game) was a
+somewhat useful classification.  It is way too formal for us, but does
+provide some useful guidelines in a non-nonsense setting where people
+have to practice and do it well.  I think it’s good to think about the
+different purposes a meeting may fill, and make sure the structure is
+tuned properly:</p>
+<ul class="simple">
+<li><p>Always start with what the purpose and structure of the meeting is.
+Ask if there are initial questions and if agenda seems OK.</p></li>
+<li><p>In reality, many of our meetings are a combination of the below
+types, so keep the overall structure and structure of each part
+clear.</p></li>
+<li><p><strong>Information briefing:</strong> You are presenting information and the
+goal is listener compensation.</p>
+<ul>
+<li><p>Keep it to the point, but the goal is for learners to see the
+whole picture.  Start with the overall map of the info and end
+with a summary of the take-aways someone should remember the
+next day.</p></li>
+</ul>
+</li>
+<li><p><strong>Decision briefing:</strong> You are seeing a decision from those
+attending (who is less involved than you).</p>
+<ul>
+<li><p>Present several alternatives and your recommendations (remember,
+you are probably the expert - don’t expect the audience to come up
+with solutions if it’s in your domain).</p></li>
+<li><p>Realize that you know things that others can’t and won’t know, so
+you need to adjust your presentation so they can understand at a
+relevant depth (trade-offs relevant to them) to make the decision.
+As in, you do first filtering to figure out what they should
+consider, then they think about that.</p></li>
+<li><p>Keep it to the point, but it’s possible a decision can be made
+even partway through without the full details.  It’s also
+possible questions will take you deeper into some of the
+options.</p></li>
+<li><p>Make the decision clear and write it down.</p></li>
+</ul>
+</li>
+<li><p><strong>Staff briefing:</strong> This is the term used for recurrent “status
+update” meetings.</p>
+<ul>
+<li><p>Keep them short and don’t reproduce what could be read
+independently.  Tailor for the audience and what is most important
+to discuss.</p></li>
+<li><p>Can easily become boring and a waste of time if you can’t focus on
+what needs to be synced.</p></li>
+</ul>
+</li>
+<li><p><strong>Mission briefing:</strong> You are about to do something together.</p>
+<ul>
+<li><p>More focused on coordination, much more technical.  May have fewer
+people, or you may release the PIs after the initial intro and
+framing while others do hacking (if PIs aren’t involved so much
+there).</p></li>
+</ul>
+</li>
+<li><p>We are much less formal than all of these, and many of our meetings
+have different types all mixed together, but there probably some
+worth to considering these points, writing to them, and being
+explicit about it.</p></li>
+<li><p>I think almost every meeting should have a live notes document (for
+example the project template google doc) which is set up at the
+beginning, screen-shared, and used to take notes.  Share the link
+with everyone (if you use the same doc repeatedly, it’s easy next
+time).  Yes, this takes some time but shows that we are actively
+listening.  It also allows decisions and plans to be immediately
+recorded.</p></li>
+</ul>
+<p>Meetings are a good time to bring another ASC team member, or use them
+to look over your materials.  If you can’t explain it to an ASC team
+member, do you have any hope for customers?  Does an ASC team member
+help to take notes or maintain a larger strategic overview?</p>
+</section>
+<section id="reports-and-writing">
+<h2>Reports and writing<a class="headerlink" href="#reports-and-writing" title="Link to this heading"></a></h2>
+<p>Most of us come from an academic background and have plenty of
+experience writing.  Just like many of the things above, there is a
+difference in writing as research engineers: academic writing is made
+for other academics deep in your field (show your deep knowledge to
+get cited), while most of our writing is for people who are not as
+deep in our field and we need to adjust the way we think and write.
+(Same as everything above, right?)</p>
+</section>
+<section id="working-together">
+<h2>Working together<a class="headerlink" href="#working-together" title="Link to this heading"></a></h2>
+<p>Try not to be alone when there is any doubt of getting the message
+across as simply as possible.  One thing I have found is that, even
+before preparing writing or a presentation, talk with someone about
+what the main points will be - what is my message actually going to
+be?  Then expand some, then talk again, etc.  Work backwards this way
+with others instead of making too much and trying to figure out what
+to remove.  Often the “what is my message?” that is the hard part of
+planning communication, not “how do I write/say it?”.</p>
+<p>Be involved early.  It is much easier to help guide the main messages
+early, rather than try to fix them later after a lot of work is done.
+If one gives advice late, it often just becomes minor changes and not
+helping with the main message-setting.  Insist on being involved
+early.</p>
+</section>
+<section id="bottom-line-up-front">
+<h2>Bottom line up front<a class="headerlink" href="#bottom-line-up-front" title="Link to this heading"></a></h2>
+<p>I can’t stop thinking about the concept of <a class="reference external" href="https://en.wikipedia.org/wiki/BLUF_(communication)">Bottom line up front
+(BLUF) communications</a>, and similarly
+the <a class="reference external" href="https://en.wikipedia.org/wiki/Inverted_pyramid_(journalism)">inverted pyramid of journalism</a>.  In
+both of these, the point is to convey the most important information
+first, not slowly justify the conclusions.  For busy customers, this
+is useful.</p>
+<p>The basic idea is getting the point (recommendation, conclusion,
+request, …) first, and then supporting it.  With this strategy,
+someone can stop reading as soon as they feel have enough information
+to do whatever they need to do.  If one is receiving a request, they
+can know what they are asked immediately and stop reading (or begin
+skimming) once they have enough information to make a decision.</p>
+<p>The typical academic writing style is the opposite, where one starts
+with background and slowly derives all conclusions, where each point
+is in theory justified by previous text.  (No, an abstract doesn’t
+make it BLUF.)  This either requires a huge time investment to read or
+requires the reader to hunt for what the main point they need to know
+is.</p>
+<p>BLUF can be applied to emails, presentations, discussions, etc.  It
+can take time to get used to, but can greatly improve response rates.
+It saves customers time and increases our efficiency.  It is probably
+not applicable everywhere, but I recommend everyone to consider if
+every email/presentation/etc. they do could benefit from BLUF.</p>
+</section>
+<section id="other-notes">
+<h2>Other notes<a class="headerlink" href="#other-notes" title="Link to this heading"></a></h2>
+<ul class="simple">
+<li><p>Communication is also about thinking.  You need to figure out what
+the real issue is (by communicating) before you can communicate to
+solve it.</p></li>
+<li><p>Our work is often meeting of minds of two different specialties,
+where both sides don’t need to go deep into their things.  What you
+need to think about, others may not need to.  Managing this
+difference is very important.</p></li>
+<li><p>Conveying information succinctly (briefing).  Most customers don’t
+need an academic talk on what we are doing.  They need a staff
+briefing to figure out what they need to know.</p></li>
+<li><p>For a lot of this, we talk about work with customers.  It’s also
+true within our team.  We need to distilling down to the right
+important things that are needed to share information and make
+decisions.  Even within the team, we have different roles, and not
+everyone can or should be the same depth into everything.</p></li>
+<li><p>Leaders finding the right information and converging to a decision
+in the right timeframe.</p></li>
+<li><p>My (rkdarst’s) estimate is it might take about two years of being on
+our team for someone to get good at this.  Take it slow, be prepared
+for frustration, and take colleagues with you to support.  Talk
+about what goes well and not so well.</p></li>
+</ul>
+</section>
+</section>
+
+
+           </div>
+          </div>
+          <footer>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>&#169; Copyright 2026, The contributors.</p>
+  </div>
+
+  Built with <a href="https://www.sphinx-doc.org/">Sphinx</a> using a
+    <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a>
+    provided by <a href="https://readthedocs.org">Read the Docs</a>.
+   
+
+</footer>
+        </div>
+      </div>
+    </section>
+  </div>
+  <script>
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script> 
+
+</body>
+</html>
