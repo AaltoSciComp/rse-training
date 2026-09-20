@@ -83,9 +83,10 @@ When is something a "project" and not "support"?
 The boundary may not be clear here and you can make a judgment call.
 
 How much to subdivide projects, or use one tracking project for many
-small things?  That is kind of up to you, but in general, fewer is
-better if it still represents the unit/funding source and looks good
-on the reports.
+small things?  Don't make more projects just to look busy - you don't
+need to.  You can instead make a tracking issue for a theme, if you
+need to report somehow (Examples: ``XXX group retainer``, ``MLops
+support``, ``Monitor GPU efficiency and contact users``).
 
 
 .. _rse-projects:
@@ -105,9 +106,34 @@ out well enough to give someone an idea what the project is about/who
 is involved if you weren't available.  Think 3-5 minutes of work at
 maximum.  Add all relevant issue labels.
 
-(You can read out-of-date details and semantics of the labels and
-fields at https://github.com/AaltoRSE/rse-timetracking, but should
-probably not read it until it is improved.)
+.. admonition:: Required metadata for Gitlab issues
+
+   * **Title:** project name, give it some thought.  First three words are
+     a "short form" so make them count.
+   * **Basic description:** Some bullet points that give the general
+     idea.
+   * ``/contacts`` and ``/supervisor:`` Who are the day-to-day
+     contacts, and who is the supervisor.  Format: comma-separated
+     list of email addresses.
+   * ``/summary:`` A ~one sentence description of the project in
+     imperative tense, no confidential information, suitable for
+     reports to management (high-level impact). :inote:``
+     :inote:`[example] Created a tool to extract data from a web API
+     and set up automatic data pipeline for a two-year project`
+   * ``/estimate TIME-RECORD``: Estimate of amount of time.  It's
+     impossible to get a good estimate but get an order-of-magnitude.
+     :inote:`[time-record] N+unit.  Units are mo (month), w, d, h, m
+     (minutes).  Example: 1mo2w`
+   * Link to project planning doc.
+   * Labels
+
+     * ``Status::*``: Current lifecycle state of a project.  Required.
+     * ``Funding:*``: Multi-select tags indicating funding source.
+       Select all that apply.  Required.
+     * ``Unit::*``: Primary unit of project.  Select only one.
+       Required.
+     * ``Customer:*``: Important customers whose projects should be
+       tracked separately for reportingp nurposes.
 
 
 .. _rse-time-planner:

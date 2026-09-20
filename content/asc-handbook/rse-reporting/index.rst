@@ -21,6 +21,7 @@ only roughly tracked.
 
    support
    projects
+   events
    end-of-month
    old-project-tracking
    prioritization

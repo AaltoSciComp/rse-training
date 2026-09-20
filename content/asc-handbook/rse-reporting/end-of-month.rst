@@ -3,7 +3,9 @@ End of month checklist
 
 * Halli
 
-  * If you need to report worktime in Halli, do so and submit it.
+  * If you need to report worktime in Halli, do so and submit it.  If
+    you have external projects, don't report the same amount every
+    day.
 
 * RSE scheduling spreadsheet (:ref:`ref <rse-time-planner>`)
   (Google drive search: "RSE time planning")
@@ -28,8 +30,8 @@ End of month checklist
 
   * Update labels if needed. (for example ``Status:*``, ``Funding:*``)
 
-* Events
+* Events (:doc:`events`)
 
   * If you have been to an event representing ASC (outreach, group
-    meeting, workshop, discussion, teaching), add to events
-    spreadsheet.  TODO: where is this?
+    meeting, workshop, seminar, discussion, teaching, supporting other
+    teaching, supporting hackathon), add to events spreadsheet.
