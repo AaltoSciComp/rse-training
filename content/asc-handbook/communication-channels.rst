@@ -167,15 +167,16 @@ systems, to make it easy to tell who is communicating at a glance.
 any distinct graphical representation can work.*  You can also choose
 to have no picture.
 
-Consider synchronizing the following: Zulipchat, Github, Aalto Gitlab,
+Consider synchronizing the following: Zulipchat, Aalto Gitlab, Github,
 Zoom, Outlook/Teams, etc.
 
-rkdarst can take high-quality profile pictures if you ask.  These can
-be taken and used for any purposes and do *not* necessarily have to
-become the pictures of chat, Github, etc.  These pictures could be
-used for your personal sites, CVs, etc.
+rkdarst can take high-quality profile pictures if you ask.  (These can
+be taken and used for other professional purposes/CVs/etc. and do *not*
+necessarily have to become the pictures of chat, Github, etc).
 
 If you don't want real pictures, some geometric shapes you make in a
 image editor, photo of any object, or online sites can make something.
 You could also download the best default auto-generated
-Gitlab/Github/Chat picture and use it for every other site.
+Gitlab/Github/Chat picture and use it for every other site.  You can
+[generate random images at this
+site](https://rkdarst.github.io/random-avatar/) and others.
