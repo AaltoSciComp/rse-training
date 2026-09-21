@@ -129,7 +129,10 @@ maximum.  Add all relevant issue labels.
 
      * ``Status::*``: Current lifecycle state of a project.  Required.
      * ``Funding:*``: Multi-select tags indicating funding source.
-       Select all that apply.  Required.
+       Select all that apply :inote:`[All?] You don't have to include
+       basic funding for minor consulting and prep work.  It's OK to
+       list only the main one if it dominates.  LAIF should be
+       mentioned if it's significant.`.  Required.
      * ``Unit::*``: Primary unit of project.  Select only one.
        Required.
      * ``Customer:*``: Important customers whose projects should be
