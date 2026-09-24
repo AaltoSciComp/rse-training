@@ -30,6 +30,10 @@ Key rules
   responsibility to think about how you can be misinterpreted and
   preemptively prevent that.
 
+- **Communicate frequently.** Without communication, others won't know
+  what you are doing and won't be able to confirm it's on the right
+  track.  (Compare with below, though.)
+
 - **Right level of detail.** Most of our customers don't need to go as
   in-depth to technical things as we do.  You need to present what
   they need to know.
