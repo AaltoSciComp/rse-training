@@ -1,9 +1,7 @@
-:orphan:
+Archive of Seminars
+===================
 
-Archive 2021-2022
-=================
-
-**Previous page title: FCCI Tech (aka the SciComp Tech series)**
+**Previous page title: FCCI Tech (a.k.a the SciComp Tech series)**
 
 **This is the archive of the old version of the seminar serious, focus
 on Aalto internal people and practices.  It's here in its original
@@ -11,7 +9,7 @@ form.  The old link was** ``https://scicomp.aalto.fi/tech/``.
 
 .. admonition:: Upcoming talks
 
-   (none right now)
+   Look at :doc:`main page <index>` for upcoming talks.
 
 This section is about how our team works: both the raw infrastructure
 but also how our team is organized socially.  The target ranges from
@@ -50,12 +48,8 @@ to a broad audience.
 .. toctree::
    :maxdepth: 1
 
-   user-support
    Diversity vs services (external) <https://docs.google.com/presentation/d/1pVjFnxGzfy0DTPuc1XLQDFg0-44GUWwfSMxe5vVg-Lc/edit>
-   sphinx-docs
    The future of teaching <https://hackmd.io/KRqQirJ_Rn2SHcE-t1iAUg?view>
-   online-work-and-support
-   user-support-responses
    How we did Kickstart 2021 <https://rkdarst.github.io/presentation-kickstart/>
    RSE service status 2021 <https://docs.google.com/presentation/d/1Ti4TvjAilnElk9ITBZVsMnR0g7pfgPg8t5HHe2YOQs4>
    Triton software stack (external) <https://www.youtube.com/watch?v=2lj4JqJWzz8&list=PLZLVmS9rf3nN1Rj-TAqFEzFM22Y1kJmvn>
@@ -64,7 +58,7 @@ to a broad audience.
    Introduction to kubernetes deployment <https://hackmd.io/@AaltoSciComp/SyAgcmTQF>
    jupyter.cs <https://hackmd.io/TCPjGdR5Q7WoLbzlvsPHUA>
    Simple kubernetes deployment <https://hackmd.io/@AaltoSciComp/kubernetes-deployment-demo>
-
+   AI agent coding without sending stuff to foreign clouds <https://simo-tuomisto.github.io/understanding-ai-landscape-lecture/#1>
 
 
 Proposed/requested future topics
@@ -75,11 +69,11 @@ Proposed/requested future topics
 - Online courses and CodeRefinery, Richard Darst
 - Online work and support, Richard Darst
 
-  - :doc:`online-work-and-support`
+  - :doc:`../archive-2020/online-work-and-support`
 
 - Respectfully and efficiently handling user support requests, Richard Darst
 
-  - :doc:`user-support-responses`
+  - :doc:`../archive-2020/user-support-responses`
 
 - Science-IT data management: policies and procedures
 - Science-IT data management: storage systems and tech setup
@@ -92,6 +86,9 @@ Past seminars
 -------------
 
 Events are listed below in chronological order.
+
+2021
+^^^^
 
 - **Triton hardware**, Ivan Degtyarenko, Wed 3.3 2021, 10:00
 
@@ -114,7 +111,7 @@ Events are listed below in chronological order.
 
   + User support made easy: different support level by Science IT,
     docs, issue tracker, garage, etc
-  + :doc:`Presentation <user-support>`
+  + :doc:`Presentation <../archive-2020/user-support>`
   + `Video <https://youtu.be/P1ttGhPGuN0&list=PLZLVmS9rf3nN1Rj-TAqFEzFM22Y1kJmvn>`__
 
 - **Triton software stack**, Simo Tuomisto, Fri 9.4 2021, 10:15-11:15
@@ -143,7 +140,7 @@ Events are listed below in chronological order.
 
   + Open and accessible documentation using Sphinx, RST/MyST, and
     Readthedocs: the story behind scicomp.aalto.fi.
-  + :doc:`Presentation <sphinx-docs>`
+  + :doc:`Presentation <../archive-2020/sphinx-docs>`
   + `Video <https://youtu.be/X6OzCSiS_VU&list=PLZLVmS9rf3nN1Rj-TAqFEzFM22Y1kJmvn>`__
 
 - **ClusterStor**, Andreas Muller (HPE), Tue 18.5 2021, 12:00
@@ -214,6 +211,9 @@ Events are listed below in chronological order.
 
   * NOTE: the second talk on the same Fri 17.12
 
+2023
+^^^^
+
 - **Simple Kubernetes deployment** by Richard Darst, Fri 3 Nov 2023
 
   * If you have a containerized service, how can you easily deploy it
@@ -224,11 +224,22 @@ Events are listed below in chronological order.
 
 - **Demo: Publishing a Python Package** by Jarno Rantaharju, Fri Jan 26th 2024
 
- * Demonstration of open source software publishing. I will take a part of an
-   existing Python package and spin it of as a small stand-alone package. We
-   will discuss what is needed for a software publication and recommended
-   practices.
- * `Notes <https://hackmd.io/@AaltoSciComp/python-package-publication-demo>`__
+  * Demonstration of open source software publishing. I will take a part of an
+    existing Python package and spin it of as a small stand-alone package. We
+    will discuss what is needed for a software publication and recommended
+    practices.
+  * `Notes <https://hackmd.io/@AaltoSciComp/python-package-publication-demo>`__
+
+2026
+^^^^
+
+- **AI agent coding without sending stuff to foreign clouds**, Simo Tuomisto / Hossein Firooz, Thu 11.9 2026
+
+  * AI-assisted coding tools like Codex and Claude-code are all over the place. But what if you want to use these tools and don't send all your data to these companies?
+  * In this short talk, we will start with the basics of these tools, and what makes them powerful. We will cover open-source harnesses, what are skills and how to use them, how to use plugins and / or write them, what are MCPs, how these tools are connected to the LLMs, and lastly, how to connect all of them to use in your workflow.
+  * We will focus on open source tools and open weight models.
+  * Audience: Anyone who writes code and wants to get faster with the help of AI-assistance.
+  * `Slides <https://simo-tuomisto.github.io/understanding-ai-landscape-lecture/#1>`__
 
 ..
   When you add material to this list, also add it to the "Materials

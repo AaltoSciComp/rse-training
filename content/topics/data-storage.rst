@@ -4,7 +4,8 @@ Data storage systems
 **This is still incomplete and pushed halfway through editing.**
 
 This page will explain the various data storage systems we have (or
-maybe just support the user docs at :doc:`data/index`).
+maybe just support the user docs at `scicomp.aalto.fi
+<https://scicomp.aalto.fi/data/>`__).
 
 
 Background
@@ -14,7 +15,8 @@ Typical people usually think of storage as part of a computer.  At our
 scale, storage is often a different system from the computing system,
 and it can be *difficult* for a typical user to keep track of this.
 There are some pictures that try to visualize remote mounting vs
-copying data in :doc:`triton/tut/remote-data`.
+copying data in the `remote data documentation
+<https://scicomp.aalto.fi/triton/tut/remote-data.html>`__.
 
 A place in the **filesystem** where a storage system is available is
 called a **mount** point, and **mounting** is the process of making it
@@ -66,24 +68,33 @@ rkdarst) for making things cleardiscussion is below (edit or make comments):
    * - /m/dept/project/X
      - Department project
      - Project, {CS,NBE,...} project, Department teamwork
+     -
+     -
    * - /m/dept/archive/X
      - Department archive
      - Archive, {CS,NBE,...} archive, Department teamwork
+     -
+     -
    * - Triton /scratch/dept/project/
      - Triton project
      - Triton scratch
      - "scratch"
+     -
    * - Triton
        /scratch/work/username/
      - Triton personal
      - Triton work
      - "work"
+     -
    * - Triton homes
        /home/username/
      - Triton home
      - "home"
+     -
+     -
    * - Teamwork (Aalto managed)
      - Teamwork; Aalto teamwork; "Project"
+     -
      -
      -
    * - Aalto home directories

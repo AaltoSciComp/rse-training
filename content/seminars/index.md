@@ -5,15 +5,13 @@ others are welcome to attend.
 
 :::{admonition} Next seminar
 
-**2026 September 11: AI agent coding without sending stuff to foreign clouds**
+**2026 October 23: Yet another talk on Ethics, Privacy, and Complaince**
 
-AI-assisted coding tools like Codex (from OpenAI) and Claude (from Anthropic) are all over the place. But what if you want to use these tools and don't send all your data to these companies?
+In our team, when anything involves ethics or legal stuff in a project (personal data, etc) we have a saying "Ask Enrico". But it would be useful if all RSEs had an idea of what is expected ethically and legally when doing a project.
 
-In this short talk, we will start with the basics of these tools, and what makes them powerful. We will cover open-source harnesses, what are skills and how to use them, how to use plugins and / or write them, what are MCPs, how these tools are connected to the LLMs, and lastly, how to connect all of them to use in your workflow.
+This is not the standard PhD lecture on ethics in research that talks about the normal cases. This is the complexities behind the scene, to let an experienced research engineer involved in project planning adapt a project plan to meet these requirements as easily as possible, and to let customers know any residual risk of problems with the related complaince. It should reduce the amount of "Ask Enrico" that happens early in a project, and leave it for only the harder cases. It may be a bit Aalto-specific, but the general ideas should be applicable to any research organization.
 
-We will focus on open source tools and open weight models.
-
-Audience: Anyone who writes code and wants to get faster with the help of AI-assistance.
+Audience: Anyone who is working with sensitive / personal / confidential data.
 :::
 
 * Location: LAIF Hub Otaniemi and online ({doc}`Garage zoom <help/garage>`)
@@ -23,14 +21,14 @@ Audience: Anyone who writes code and wants to get faster with the help of AI-ass
 
 ## Upcoming
 
-*Early stage plan - just to give you an idea of what might happen:*
-
-* 11 September: AI agent coding locally (no foreign clouds).
-* 16 October: Data protection and privacy.
-* 20 Nov: Container tricks and defending against supply chain attacks.
-* 11 December: Local LLM infrastructure.
+* 23 October, 2026: Yet another talk on Ethics, Privacy, and Complaince.
+* 20 Nov, 2026: Container tricks and defending against supply chain attacks.
+* 11 December, 2026: Local LLM infrastructure and k8s.
 
 
+## Past Seminars
+
+All material from past seminars is available in the {doc}`seminar archive <archive/index>`.
 
 ## About
 

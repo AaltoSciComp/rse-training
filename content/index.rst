@@ -82,12 +82,11 @@ The ASC handbook is our own team's internal practices - basically a part
 of onboarding for new people.
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 3
    :caption: RSE seminar series
 
    seminars/index
-   seminars/archive
-   seminars/archive-2020/index
+   seminars/archive/index
 
 A seminar series to build RSE skills.
 
