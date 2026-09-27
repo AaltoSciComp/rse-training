@@ -105,6 +105,9 @@ Figures and graphics
   <https://github.com/AaltoSciComp/aaltoscicomp-graphics/tree/master/figures>`__
   has lots of figures that explain our work.  Good for presentations.
 
+* `ASC background generator
+  <https://eglerean.github.io/asc_background_generator/>`__
+
 * aaltoscicomp-marketing.git (internal repo, search chat) has photos
   (people, hardware, events, projects).
 
