@@ -52,9 +52,6 @@ one's onboarding plan).
    :caption: Topical reference
 
    topics/index
-   topics/what-is-aalto
-   topics/it-in-aalto
-   topics/research-services-at-aalto
    topics/tech
    topics/data-management
    topics/data-storage
@@ -69,6 +66,19 @@ It is a collection of interesting links and some original material.
 It's also not intended to be read straight through but instead be a
 general reference for what you may need to know and a place to refer
 to later.  Your mentor will tell you what to focus on.
+
+
+.. toctree::
+   :maxdepth: 1
+   :caption: Topical reference (Aalto specific)
+
+   aalto/what-is-aalto
+   aalto/it-in-aalto
+   aalto/research-services-at-aalto
+
+Like above, but explicitly Aalto-focused.  Some pages may move between
+the sections if the content gets adapted.
+
 
 .. toctree::
    :maxdepth: 1
