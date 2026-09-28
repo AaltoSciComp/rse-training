@@ -52,6 +52,7 @@ one's onboarding plan).
    :caption: Topical reference
 
    topics/index
+   topics/psychology-of-support
    topics/tech
    topics/data-management
    topics/data-storage
