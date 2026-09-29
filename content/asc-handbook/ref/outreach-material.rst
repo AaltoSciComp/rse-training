@@ -87,6 +87,9 @@ RSE presentations can be found (team members only) under Shared drives
 good to check there to see if there are updates or more specific ones
 relevant to your needs:
 
+* `Come talk to us! <https://docs.google.com/presentation/d/18FFA5_tv4nnIBKBiy8MVKIu_eGynkcjjRSe33SDOits>`__ -
+  a 5 minute promotional message
+
 * `Aalto RSE for researchers
   <https://docs.google.com/presentation/d/1t33sNafYre1RVplc2mGnGPCuHcuV-cZmHuCDImHRn3g>`__ -
   our main message, focused on "why should you ask someone about
