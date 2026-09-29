@@ -31,13 +31,16 @@ some attention to why someone should ask us, how research is much more
 involved than before and we don't expect everyone to be an expert in
 everything about computing and data.  It's OK to ask for help.
 
-We recommend not focusing on "Research Software Engineer" or "RSE".
-These terms aren't well known to others (though they are a good brand
-name towards Aalto management and are well-known there).  Instead,
-focus on being the "Triton team", "Aalto Scientific Computing", or
-"Science-IT", but now we do even more than before.
+We recommend not leading with or focusing on "Research Software
+Engineer" or "RSE".  These terms aren't well known to others (though
+they are a good brand name towards Aalto management and are well-known
+there).  Instead, focus on being the "Triton team", "Aalto Scientific
+Computing", or "Science-IT" (all well-known names), and the fact that
+we do even more than you might remember.  Then you can say our
+hands-on support has a name, "RSE".
 
-When talking to management, we are "Science-IT", not "ASC".
+When talking to management, we are "Science-IT" (the official project
+name), *not* "ASC" (something we invented).
 
 
 
