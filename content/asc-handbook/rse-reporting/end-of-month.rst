@@ -30,8 +30,10 @@ End of month checklist
 
   * Update labels if needed. (for example ``Status:*``, ``Funding:*``)
 
-* Events (:doc:`events`)
+* Events and other activities (:doc:`events`)
 
   * If you have been to an event representing ASC (outreach, group
     meeting, workshop, seminar, discussion, teaching, supporting other
-    teaching, supporting hackathon), add to events spreadsheet.
+    teaching, supporting hackathon), add to the correct list.
+
+  * See :doc:`events` for a flowchart of where to add each activities.
