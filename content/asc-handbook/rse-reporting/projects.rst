@@ -117,9 +117,10 @@ maximum.  Add all relevant issue labels.
      list of email addresses.
    * ``/summary:`` A ~one sentence description of the project in
      imperative tense, no confidential information, suitable for
-     reports to management (high-level impact).  :inote:`[example]
-     Created a tool to extract data from a web API and set up
-     automatic data pipeline for a two-year project`
+     reports to management (high-level impact).  Not the same as our
+     internal description.  :inote:`[example] Created a tool to
+     extract data from a web API and set up automatic data pipeline
+     for a two-year project.`
    * ``/estimate TIME-RECORD``: Estimate of amount of time.  It's
      impossible to get a good estimate but get an order-of-magnitude.
      :inote:`[time-record] N+unit.  Units are mo (month), w, d, h, m

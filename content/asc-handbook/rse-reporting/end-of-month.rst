@@ -1,13 +1,16 @@
 End of month checklist
 ======================
 
-* Halli
+* **Halli**
 
   * If you need to report worktime in Halli, do so and submit it.  If
     you have external projects, don't report the same amount every
     day.
 
-* RSE scheduling spreadsheet (:ref:`ref <rse-time-planner>`)
+  * As of 2026 September, avoid reporting external projects with the
+    same amount each day.
+
+* **RSE time planning spreadsheet** (:ref:`ref <rse-time-planner>`)
   (Google drive search: "RSE time planning")
 
   * Review and update the time allocation for the past month and ensure
@@ -18,22 +21,25 @@ End of month checklist
     Gitlab repository.  (Not every row has to be a project there, so
     for example ``vacation`` can just stand alone).
 
-  * Un-bold the cell once it is updated :inote:`[bolding] someone may
-    bold them on the last day of the month to indicate "not yet updated"`.
+  * Un-bold the past month's cell once it is updated :inote:`[bolding]
+    Bold font mean "not yet updated" and someone will bold the month's
+    cells when the Halli reminder is sent.`.
 
-* rse-projects issue tracker (:ref:`ref <rse-projects>`) (in AaltoRSE
+* **rse-projects issue tracker** (:ref:`ref <rse-projects>`) (in AaltoRSE
   Gitlab):
 
-  * Add any missing projects and give any updates that may be useful
-    for those looking back on it.  You do not have to give updates on
-    everything you do.
+  * Add any missing projects.
 
-  * Update labels if needed. (for example ``Status:*``, ``Funding:*``)
+  * Add any updates that may be useful for those looking back on it.
+    You do not have to give day-by-day or month-by-month updates.
 
-* Events and other activities (:doc:`events`)
+  * Update labels if needed. (Common ones that need updates include
+    ``Status:*``, ``Funding:*``)
+
+* **Events and other activities** (:doc:`events`)
 
   * If you have been to an event representing ASC (outreach, group
     meeting, workshop, seminar, discussion, teaching, supporting other
     teaching, supporting hackathon), add to the correct list.
 
-  * See :doc:`events` for a flowchart of where to add each activities.
+  * See :doc:`events` for a flowchart of where to add things.
