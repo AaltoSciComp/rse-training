@@ -15,8 +15,14 @@ for supervisors).
 There is a system called **Halli**, which must be used to report
 project funding.  You will get individualized instructions for this,
 because it varies by person.  For RSEs, when you make a Halli report
-at the end of the month, also update the timetracking spreadsheet, see
-:doc:`rse-reporting/projects`.
+at the end of the month (or the last day you work, if you are on
+vacation at the end of the month) and also update the timetracking
+spreadsheet, see :doc:`rse-reporting/projects`.
+
+If you don't complete Halli on time, you will still get paid but there
+is a *lot* of manual work by us and Finance to fix it.  Submit it
+ASAP, and please don't forget to do it on your last working day of a
+month (otherwise it is also manual effort from us and Finance).
 
 Reimbursements are done in the **Neo** system.  It is easiest to
 prepare all your material and work with someone who knows it to do it.
