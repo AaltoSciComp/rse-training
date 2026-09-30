@@ -96,10 +96,10 @@ The *regular working hours* system is optimized for a steady-state,
 not for people joining.  You won't get any holidays in the first year
 or so, and they start appearing the following spring.  You can ask for
 unpaid leave, but don't take too much in any given month (ask around
-for the amount), or it can affect your next year's vacation
-allocation.  This isn't a problem in the total working hours system.
-If you read this early enough, try to negotiate any necessary holidays
-before starting.
+for the threshold, I don't know offhand), or it can affect your next
+year's vacation allocation.  This isn't a problem in the total working
+hours system.  If you read this early enough, try to negotiate any
+necessary holidays before starting.
 
 You "have to" (according to Finnish law) take two continuous weeks of
 vacation in the summer.
@@ -125,3 +125,8 @@ other countries does.  Occupational health care is like a shortcut for
 basic things which is free for you.  For large enough issues, you'll
 need to go the main public health care (or private health care).
 `Info <https://www.aalto.fi/en/services/occupational-health-care>`__
+
+Remote work abroad
+~~~~~~~~~~~~~~~~~~
+
+See the above about remote work outside of Finland.
