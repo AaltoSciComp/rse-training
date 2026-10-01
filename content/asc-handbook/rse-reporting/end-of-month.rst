@@ -22,8 +22,9 @@ End of month checklist
     for example ``vacation`` can just stand alone).
 
   * Un-bold the past month's cell once it is updated :inote:`[bolding]
-    Bold font mean "not yet updated" and someone will bold the month's
-    cells when the Halli reminder is sent.`.
+    Bold font mean "needs updating now" and someone will bold the
+    month's cells when the Halli reminder is sent, or there is some
+    reason to think it needs updating now.`.
 
 * **rse-projects issue tracker** (:ref:`ref <rse-projects>`) (in AaltoRSE
   Gitlab):
