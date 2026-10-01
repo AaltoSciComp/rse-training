@@ -43,6 +43,10 @@ The task / instructions
 
 3. Discuss how this applies to us teaching technology to others.
 
+   * Did you feel overwhelmed?
+   * Do you think some of our customers/garage visitors feel like you
+     felt?
+   * How do we avoid the feeling of being overwhelmed?
 
 
 Preparation by the game teachers
@@ -161,6 +165,8 @@ additions), the middle column is a connection to SciComp teaching.
 
 Evaluation checklist
 --------------------
+
+*There are other discussion questions in the instructions above.*
 
 Reserve enough time to feedback to the teacher based on the criteria
 above.  Don't practice just giving feedback, but giving constructive
