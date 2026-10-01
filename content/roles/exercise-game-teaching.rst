@@ -1,31 +1,31 @@
 :orphan:
 
-Exercise: game teaching
-=======================
+Exercise: board game teaching practice
+======================================
 
-*This is an expansion of the gaming exercise in* :doc:`teacher`.
+*This is the details of the gaming exercise in* :doc:`teacher`.
 
 I (rkdarst) think there is a lot of analogies to teaching games and
 teaching technology.  Both are complex systems with many interlocking
 parts, and it can seem hard to get started until you know everything.
-Yet, somehow things must be linearized for teaching.  In this
-exercise, we will have some fun playing board games while reflecting
-on our teaching.
+Both have many abstraction layers that connect together and you can
+easily overwhelm the learner.  Yet, somehow things must be linearized
+for teaching.  In this exercise, we will have some fun playing board
+games while reflecting on our teaching.
 
 
 
 The task / instructions
 -----------------------
 
-
 1. Choose board games and divide into groups appropriate for the
-   games.  In each group, there should be ~1-2 people who knows the
-   game, and it's new to the rest (this is flexible)
+   games.  In each group, there should be one (or possibly two) people
+   who knows the game, and it's new to the rest (this is flexible).
 
-2. The teachers teach others the game.  The learners pay close attention to the
-   way the game is being taught (perhaps taking notes; without
-   interrupting the teaching too much).
-   that lists the points from the material to assist in note-taking.
+2. The teachers teach others the game.  The learners pay close
+   attention to the way the game is being taught (perhaps taking
+   notes; without interrupting the teaching too much).  Learners can
+   also read the list below to see what to look for.
 
    Special notes:
 
@@ -33,7 +33,7 @@ The task / instructions
      get stuck on small things.
 
 3. When time is up, everyone discusses how the explanation went (use
-   the evaluation in the last section on this page):
+   the evaluation rubric from the last section on this page):
 
    * What went well and didn't go well?
    * How would you improve it next time?
@@ -41,38 +41,42 @@ The task / instructions
      find a way to say what you think nicely but directly, even if
      it's not comfortable.
 
-3. Discuss how this applies to our teaching technology.
+3. Discuss how this applies to us teaching technology to others.
 
 
 
-Preparation
------------
+Preparation by the game teachers
+--------------------------------
 
-**Game teachers**: Watch `How to teach board games like a pro
+*This must be done at least a few hours in advance.*
+
+**Game learners**: You may watch/read the things above, but you don't
+need to.  You can browse the table below to see a summary.
+
+**Game teachers**: Read the evaluation checklist below, or `How to teach board games like a pro
 <https://www.youtube.com/watch?v=P5fjDaFuft8>`__.  Optionally, `watch
 the CodeRefinery teaching motivation version
 <https://www.youtube.com/watch?v=61Cdi4Eje2Y>`__ (or `read it
 <https://coderefinery.github.io/train-the-trainer/preparation/>`__).
-Take a game you have and prepare to teach it using these strategies.
-You can use the strategy.
+Take a game you have and prepare to teach it, using the best practices
+from this information.
 
-The 1-2 teachers make a teaching plan in accordance with the
-lessons in the info.  (you don't have to teach the whole game, or
-do a complete play-through.)  Treat it is our SciComp teaching:
-not the full picture, but enough to get someone interested and
-get started.  (Look at the schedule to see how much teaching time you
-have, and adjust to that.)
-
-**Game learners**: You may watch/read the things above, but you don't
-need to.  You can browse the table below to see a summary.
+The teachers should make a teaching plan in accordance with the
+lessons in the info (Not too detailed, but some notes on how you
+linearize the process).  *You do not have to teach the whole game or
+do a complete play-through - for example, try to teach what you can in
+30 minutes, and have 15 minutes for discussion*.  Treat it is our
+SciComp teaching: you don't have time to teach the full topic, but you
+can probably get someone started and interested.  (Look at the
+schedule to see how much teaching time you have, and adjust to that.)
 
 
 
 Teaching strategy reference
 ---------------------------
 
-The left column is from the video (things in parentheses are
-my additions).
+The left column is from the video (things in parentheses are my
+additions), the middle column is a connection to SciComp teaching.
 
 .. list-table::
    :header-rows: 1
@@ -96,7 +100,7 @@ my additions).
    * - It's a performance; consider rehearsing.  Decide the path you
        will take through the rules.
      - Make a practice (also similar to how learner's environments
-       will be)
+       will be).  Decide what you do and don't teach.
      - I especially try to rehearse the first five and last five
        minutes.
    * - n/a
@@ -114,8 +118,8 @@ my additions).
        explained later.
      - It's a fine balance between questions and derailing.
    * - (Very careful about jargon.  Players see and think cubes, not
-       diseases.  I try to say the physical thing and in-game name
-       when explaining)
+       diseases.  I try to say the physical thing ("cube") and in-game
+       name ("disease", so "disease cubes") when explaining.)
      - Spread the jargon teaching throughout the explanation and
        give reminders when you use recently-introduced jargon.
      - Can you make some sort of reference card?
@@ -158,10 +162,13 @@ my additions).
 Evaluation checklist
 --------------------
 
-Save some time and give feedback to the teacher based on the criteria
-above.  Some of the most important points are below, also in `the
-printable grading sheet
+Reserve enough time to feedback to the teacher based on the criteria
+above.  Don't practice just giving feedback, but giving constructive
+criticism that might be a bit uncomfortable in real life.  Some of the
+most important points are below, also in `the printable grading sheet
 <https://docs.google.com/document/d/1n-QsTTMfxnvDoo1op77NPOWzjDCDZthVKKtUcPkJ5-g/edit>`__.
+Then, discuss how well the feedback process worked.
+
 
 **Make sure you know the game well enough to teach it**
 Different from knowing the game well - know what is important and not important to focus on.
