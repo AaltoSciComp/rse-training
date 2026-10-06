@@ -12,11 +12,13 @@ In our team, when anything involves ethics or legal stuff in a project (personal
 This is not the standard PhD lecture on ethics in research that talks about the normal cases. This is the complexities behind the scene, to let an experienced research engineer involved in project planning adapt a project plan to meet these requirements as easily as possible, and to let customers know any residual risk of problems with the related complaince. It should reduce the amount of "Ask Enrico" that happens early in a project, and leave it for only the harder cases. It may be a bit Aalto-specific, but the general ideas should be applicable to any research organization.
 
 Audience: Anyone who is working with sensitive / personal / confidential data.
-:::
 
-* Location: LAIF Hub Otaniemi and online ({doc}`Garage zoom <help/garage>`)
+* Location: Aalto campus, exact location TBD and online ({doc}`Garage
+  zoom <help/garage>`)
 * Time: 10:00-11:00, arrive as early as 9:30 for networking, stay
   later for further discussion and lunch
+:::
+
 
 
 ## Upcoming
