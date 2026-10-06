@@ -125,7 +125,7 @@ Lower priority reading:
 Exercises
 ---------
 
-.. exercise:: What-is-rse-1: General explanation
+.. exercise:: What-is-RSE-1: General explanation
 
    Goal: Practice the general technical explanation of what we do.
 
@@ -150,7 +150,7 @@ Exercises
    different selling points you focused on.
 
 
-.. exercise:: What-is-RSE-2: General audience explanation
+.. exercise:: What-is-RSE-3: Explanation to a non-technical audience
 
    Goal: Practice interacting with people who have no idea of research
    or academics.

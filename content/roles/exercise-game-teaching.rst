@@ -41,7 +41,7 @@ The task / instructions
      find a way to say what you think nicely but directly, even if
      it's not comfortable.
 
-3. Discuss how this applies to us teaching technology to others.
+4. Discuss how this applies to us teaching technology to others.
 
    * Did you feel overwhelmed?
    * Do you think some of our customers/garage visitors feel like you
