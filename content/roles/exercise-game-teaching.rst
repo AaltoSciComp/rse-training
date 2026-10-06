@@ -91,63 +91,65 @@ additions), the middle column is a connection to SciComp teaching.
    * - (Know your audience)
      - <-- same
      - Different audiences need different things taught.
-   * - Know the game well enough to teach it
+   * - **Know the game well enough to teach it.  Know what not to teach
+       for the first round.**
      - For tech, also know what not to teach - not everyone needs to
        know the same things.
      -
    * - Let people fiddle, it isn't a lecture.
      - Let people try things out themselves.
      - "Teach while doing".
-   * - Before the rules: "Who, how, and why?" (the game's theme)
-     - Explain the big picture of what and why to give context.
+   * - **Before the rules: "Who, how, and why?" (the game's theme)**
+     - **Explain the big picture of what and why to give context.**
      - People are here to do something, not learn the rules.
    * - It's a performance; consider rehearsing.  Decide the path you
        will take through the rules.
-     - Make a practice (also similar to how learner's environments
-       will be).  Decide what you do and don't teach.
+     - Make a practice (also in the same environment as a learner
+       would have).  Decide what you do and don't teach.
      - I especially try to rehearse the first five and last five
        minutes.
-   * - n/a
-     - Make a good initial setup, with good examples that are
-       straightforward and without pitfalls.
-     - In games, consider making a specific setup (not random) to
-       demonstrate things in a good order.
-
-   * - Always use your friends in examples.  Use their names in examples.
-     - Use examples as realistic as possible.
+   * - **(Consider making a specific setup (not random) to demonstrate
+       things in the order you want.)**
+     - **Make a good initial setup, with good examples that are
+       straightforward and without pitfalls.**
+     - Randomness isn't necessary in the teaching
+   * - **Always use your friends in examples.  Use their names.**
+     - **Use examples as specific and realistic as possible.**
      -
-   * - Make sure you encourage questions (you can postpone answering
-       until later).
+   * - Make sure you encourage questions (but postpone answering
+       until later, if it's appropriate).
      - Encourage questions, but realize what is advanced and should be
        explained later.
      - It's a fine balance between questions and derailing.
-   * - (Very careful about jargon.  Players see and think cubes, not
-       diseases.  I try to say the physical thing ("cube") and in-game
-       name ("disease", so "disease cubes") when explaining.)
-     - Spread the jargon teaching throughout the explanation and
-       give reminders when you use recently-introduced jargon.
+   * - **(Very careful about jargon.  Example: Players see and think
+       cubes, not diseases.  I try to say the physical thing ("cube")
+       and in-game name ("disease", so "disease cubes") when
+       explaining.)**
+     - **Spread the jargon teaching throughout the explanation and
+       give reminders when you use recently-introduced jargon.**
      - Can you make some sort of reference card?
-   * - Employ a flight attendant (helper) and avoid multiple teachers.
-     - Co-teachers.
-     - One captain on the ship.  Decide the captain and let them
+   * - **Employ a flight attendant (helper) and avoid multiple teachers.**
+     - **Co-teachers, but one person in charge.**
+     - **One captain on the ship.**  Decide the captain and let them
        handle the flow of what is taught in what order.  Others
        support.
    * - Careful how you play the game, too (if you win, you lose the
-       teaching).
+       teaching).**
      - You can simplify for the audience.  If you teach exactly what
        you would do, maybe it's too much for your learners to use
        *anything*.
      -
-   * - Take the lead on asking if a dummy round is necessary.  Dummy
-       rounds with open information are OK.
-     - I always do a demo first, before expecting someone else to do
-       it alone.
-     - For example, if in garage I need someone to do something from
-       the command line and they clearly have little experience, I
-       will demo or screenshare before I ask them to try themselves.
-   * - (Experienced people go first.  Order players from most to least
-       experienced and try to use a round as a demo.)
-     - ^ similar
+   * - **Run a dummy round is necessary (trial run, reset for the real
+       game).  Dummy rounds with open information are OK.**
+     - **I always do a demo first, before expecting someone else to do
+       it alone (even if I am telling them what to type).**
+     - Nothing is as good as seeing the real thing.  For example, if
+       in garage I need someone to do something from the command line
+       and they clearly have little experience, I will demo or
+       screenshare before I ask them to try themselves.
+   * - **(Experienced people go first.  Order players from most to least
+       experienced and try to use a round as a demo.)**
+     - **^ similar**
      - The teacher may still need to control what gets explained (and
        not) at what times.
    * - The secret superpower of simple games (Start with simpler games
@@ -155,11 +157,13 @@ additions), the middle column is a connection to SciComp teaching.
      - Make simple examples to start off.
      - Another instance of "teach what people need to learn, not what
        you would do".
-   * - (Teaching isn't just the lesson, it's also mentoring during the game.)
-     - You (or someone) needs to be around later on to mentor.
-     - I try to start off a game teaching, and as the game goes on,
-       let people do more and switch to mentoring.  The entire first
-       game can be the lesson, even if it makes it not a realistic game.
+   * - **(Teaching isn't just the lesson, it's also mentoring during
+       the game.)**
+     - **You (or someone) needs to be around later on to mentor.**
+     - I try to start off by teaching, but I don't need to explain
+       everything.  I fill in other aspects by mentoring or mid-game
+       lessons.  The entire first game can be the lesson, even if it
+       makes it not a realistic game.
 
 
 
