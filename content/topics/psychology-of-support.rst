@@ -45,10 +45,10 @@ There are some very good points in there, like:
   layers are needed to understand what one sees.
 * However, some things don't fully apply to us.  For example, there
   *are* times that we will fully take over a project and the customer
-  *doesn't need to know how to do it :inote:`which goes beyond the
-  *scope of "how to help someone use a computer", which is why it's
-  *not there`.  In these cases, we do take over, but we need to make
-  *sure the customer is empowered enough to be a part of the project
+  *doesn't need to know how to do it* :inote:`which goes beyond the
+  scope of "how to help someone use a computer", which is why it's
+  not there`.  In these cases, we do take over, but we need to *make
+  sure the customer is empowered* enough to be a part of the project
   and meaningfully understand and control it.
 
 
