@@ -72,10 +72,12 @@ to later.  Your mentor will tell you what to focus on.
 .. toctree::
    :maxdepth: 1
    :caption: Topical reference (Aalto specific)
+   :glob:
 
    aalto/what-is-aalto
    aalto/it-in-aalto
    aalto/research-services-at-aalto
+   internal/index
 
 Like above, but explicitly Aalto-focused.  Some pages may move between
 the sections if the content gets adapted.

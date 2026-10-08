@@ -1,0 +1,3 @@
+[submodule "rse-training-internal"]
+	path = rse-training-internal
+	url = git@version.aalto.fi:AaltoRSE/rse-training-internal.git
