@@ -13,7 +13,7 @@ This is not the standard PhD lecture on ethics in research that talks about the 
 
 Audience: Anyone who is working with sensitive / personal / confidential data.
 
-* Location: Aalto campus, exact location TBD and online ({doc}`Garage
+* Location: Aalto campus, TU7, Maarintie 8, and online ({doc}`Garage
   zoom <help/garage>`)
 * Time: 10:00-11:00, arrive as early as 9:30 for networking, stay
   later for further discussion and lunch
