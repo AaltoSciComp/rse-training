@@ -17,16 +17,18 @@ that things can go wrong.
 
 Terminology:
 
-project
-   Anything large enough to need tracking and structure.  Has a thing
-   in
+Project
+   Anything large enough to need tracking and structure.  Has an issue
+   in RSE project tracker. Rule of thumb for the size is anything that requires 
+   more than a couple of hours of work.
 
-garage support Any small things we do that don't require extensive
+Garage support 
+   Any small things we do that don't require extensive
    tracking on our side.  Something where we mainly answer requests
    and is pushed forward by the customer coming to talk to us.  May or
    may not actually come through garage.
-
-project (informal)
+  
+Project (informal)
    Confusingly, can sometimes mean both "project" and "garage
    support".
 
