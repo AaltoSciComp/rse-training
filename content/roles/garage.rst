@@ -167,7 +167,62 @@ Exercises
    garage.  Discuss the similarities and differences.
 
 
-.. exercise:: Garage-5: Roleplay someone in over their head
+.. exercise:: Garage-5: Roleplay someone unhappy
+
+  Goal: practice a frustrating situation where the customer is unhappy.
+   This exercise focuses on handling situations where the customer is 
+   visibly upset or dissatisfied. There are two steps to this exercise: 
+   first, understand the customer's frustration and handle it appropriately,
+   and second, figure out why the customer was unhappy in the first place.
+
+   To tackle the first task, focus on understanding the customer's frustration 
+   and handling it appropriately. Try to remain calm and empathetic, acknowledge
+   you understand their frustration, and our team is here to help them find a solution.
+   Try not to take anything personally or getting defensive. Instead, focus on the customer's 
+   needs and how you can assist them effectively. Ourgoal is to help the customer
+   feel heard and supported, even if the situation is challenging. In some cases,
+   handing the case to another team member or supervisor may be necessary to ensure the 
+   customer receives the help they need, and that the issue is solved effectively.
+
+   After addressing the customer's immediate frustration, move on to the second task: 
+   figuring out why the customer was unhappy in the first place. This involves analyzing 
+   the situation, identifying any underlying issues, and determining what could have been 
+   done differently to prevent the frustration. Having a third eye on the situation, 
+   such as a supervisor or another team member, can provide valuable perspective and help 
+   identify solutions that may not be immediately apparent.
+
+   In this exercise, you will practice both understanding and addressing the 
+   customer's immediate frustration, as well as analyzing the situation to identify 
+   underlying issues and potential improvements.
+   Try to find ways to help the customer feel supported and to identify potential 
+   next steps for them. (Note: if this happens and it needs to be
+   escalated to the supervisor, contact one of the team leaders.)
+
+   Your partner: Roleplay unhappy customer with an attitude.
+
+   You: Roleplay communication with the customer. Try to remain calm and supportive.
+   Try listening actively to the customer's concerns and responding thoughtfully.
+   Remember to maintain a professional behavior and avoid escalating the situation further.
+   Ask another colleague or supervisor for guidance for help.
+
+   After the roleplay, reflect on the interaction. Consider what went well, 
+   what could have been improved, and most importantly, why do you think the customer was frustrated?
+   How can we prevent similar frustrations in the future?
+
+   Example cases:
+
+   * The customer is frustrated because despite the long job queue, their jobs are canceled 
+     due to low utilization of resources. Try to explain the Triton policy clearly and help the 
+     customer understand the reasoning behind it.
+
+   * A customer is in garage asking questions, but they get upset and defensive as
+     someone in the team says their current approach to solving the problem is wrong or incorrect.
+     Try to remain calm and supportive, and focus on guiding the customer towards a better 
+     understanding rather than engaging in an argument. Changing tone and listening actively can 
+     help de-escalate the situation.
+
+
+.. exercise:: Garage-6: Roleplay someone in over their head
 
    Goal: practice a frustrating situation where it seems, no matter
    what you do, you won't be able to help the customer.  Find a way to
@@ -195,8 +250,8 @@ Exercises
      days with the same customer now.  You think there may be some
      deeper problem and their supervisor needs to get involved.
 
-
-.. exercise:: Garage-6: Roleplay answering some recurrent students
+  
+.. exercise:: Garage-7: Roleplay answering some recurrent students
 
    Goal: practice telling students (or someone) that they need to use
    someone else as their primary support channel.  Discuss what we do
@@ -224,7 +279,7 @@ Exercises
    large.)
 
 
-.. exercise:: Garage-7: Explain some topic in progressively more depth
+.. exercise:: Garage-8: Explain some topic in progressively more depth
 
    Roleplay: you have a garage customer, and you are not sure how
    in-depth they understand some topic.  Explain the topic
