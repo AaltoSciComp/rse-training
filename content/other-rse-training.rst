@@ -21,3 +21,4 @@ used as RSE training programs.
   * https://research-it.manchester.ac.uk/news/2024/02/16/agile-methods-for-rses/
 
 * https://discourse-network.github.io/
+* https://directframework.com/
