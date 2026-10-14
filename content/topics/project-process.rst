@@ -58,30 +58,33 @@ Idea / concept meeting
 ----------------------
 
 The idea/concept meeting is the initial discussion where the project idea 
-is presented and explored. First point of contact is not necessarily the 
-project manager, but rather anyone who can provide initial guidance and context.
+is discussed. First point of contact is not necessarily the 
+project manager, but rather anyone who can provide initial guidance and context
+on what we do and how we operate.
 
-Having this initial discussion in garage is recommended. Having a senior team member 
-present can provide valuable insights and help guide the conversation effectively.
+Having this initial discussion in garage is recommended. However the main purpose here
+is to gather initial information on the project, understand the context, and present
+what RSEs can offer.
+
 The main goals of this meeting are to:
 
 * Understand the problem or opportunity.
-* Ask about the deadline and any time constraints.
-* Identify potential solutions or approaches.
-* Assess feasibility and resources required.
-* Align on high-level goals and objectives.
+* Learn more about the customer, and their research.
+* Getting contact information to follow-up on the project.
+
 These points could be noted in RSE project tracker as a draft for future reference.
 
-This meeting helps determine whether the project should proceed to the planning phase.
-After this meeting, take some time to investigate the feasibility, gather 
-additional information, and refine the project idea before moving on to 
-the planning phase.
-
+This first point of contact helps establish the initial understanding of a potential project 
+and sets the stage for further planning and discussions. Discussing the main point in 
+RSE weekly meeting is a great way to keep the team informed.
 
 Kick-off meeting
 ----------------
 
-The kick-off meeting marks the official start of the project. The main goals are to:
+The kick-off meeting marks the official start of the project. Make sure the customer 
+supervisor is on board. It is also recommended to have the team leader or a senior RSE
+involved in this meeting as well.
+The main goals are to:
 
 * Introduce the project team and stakeholders.
 * Review the project objectives, scope, and deliverables.
@@ -102,6 +105,12 @@ of the project. The main goals are to:
 * Identify potential risks and mitigation strategies.
 * Plan the technical tasks and allocate resources.
 * Establish development and testing procedures.
+
+Without a good plan, work can become disorganized. Taking the time to plan thoroughly 
+is crucial for the success of the project. Consulting with team members and 
+stakeholders is important to ensure that all perspectives are considered.
+Taking the time to discuss the plan with the customer and team leader helps 
+ensure that the plan is realistic and aligned with expectations.
 
 This phase ensures that the project has a clear technical roadmap and 
 that potential issues are addressed early. Listing the technical tasks and 
