@@ -17,19 +17,20 @@ that things can go wrong.
 
 Terminology:
 
-project
-   Anything large enough to need tracking and structure.  Has a thing
-   in
+Project
+   Anything large enough to need tracking and structure.  Has an issue
+   in RSE project tracker. Rule of thumb for the size is anything that requires 
+   more than a couple of hours of work.
 
-garage support Any small things we do that don't require extensive
+Garage support 
+   Any small things we do that don't require extensive
    tracking on our side.  Something where we mainly answer requests
    and is pushed forward by the customer coming to talk to us.  May or
    may not actually come through garage.
-
-project (informal)
+  
+Project (informal)
    Confusingly, can sometimes mean both "project" and "garage
    support".
-
 
 
 
@@ -41,6 +42,7 @@ collaborations can work well.  If not, there needs to be a structured
 flow to keep things on track - if not, beware of chaos.
 
 * Make sure that we and our customers have the same goals.
+* Define clear goals, objectives, deliverables, and deadlines.
 * Keep track of things long-term.
 * Record where our time goes, so that we can get good reports for our
   funders, so that we will continue to be well-funded in the future.
@@ -55,23 +57,141 @@ flow to keep things on track - if not, beware of chaos.
 Idea / concept meeting
 ----------------------
 
+The idea/concept meeting is the initial discussion where the project idea 
+is discussed. First point of contact is not necessarily the 
+project manager, but rather anyone who can provide initial guidance and context
+on what we do and how we operate.
+
+Having this initial discussion in garage is recommended. However the main purpose here
+is to gather initial information on the project, understand the context, and present
+what RSEs can offer.
+
+The main goals of this meeting are to:
+
+* Understand the problem or opportunity.
+* Learn more about the customer, and their research.
+* Getting contact information to follow-up on the project.
+
+These points could be noted in RSE project tracker as a draft for future reference.
+
+This first point of contact helps establish the initial understanding of a potential project 
+and sets the stage for further planning and discussions. Discussing the main point in 
+RSE weekly meeting is a great way to keep the team informed.
 
 Kick-off meeting
 ----------------
 
+The kick-off meeting marks the official start of the project. Make sure the customer 
+supervisor is on board. It is also recommended to have the team leader or a senior RSE
+involved in this meeting as well.
+
+The main goals are to:
+
+* Introduce the project team and stakeholders.
+* Review the project objectives, scope, and deliverables.
+* Discuss roles, responsibilities, and expectations.
+* Establish communication channels and reporting mechanisms.
+* Confirm the project timeline and key milestones.
+
+This meeting ensures that everyone is aligned and ready to begin the project work. 
 
 
 Technical planning
 -------------------
 
+The technical planning phase involves detailed planning of the technical aspects 
+of the project. 
 
-Communication and work during
------------------------------
+The main goals are to:
+
+* Define the technical requirements and specifications.
+* Identify potential risks and mitigation strategies.
+* Plan the technical tasks and allocate resources.
+* Establish development and testing procedures.
+
+Without a good plan, work can become disorganized. Taking the time to plan thoroughly 
+is crucial for the success of the project. Consulting with team members and 
+stakeholders is important to ensure that all perspectives are considered.
+Taking the time to discuss the plan with the customer and team leader helps 
+ensure that the plan is realistic and aligned with expectations.
+
+This phase ensures that the project has a clear technical roadmap and 
+that potential issues are addressed early. Listing the technical tasks and 
+technologies and their dependencies helps in tracking progress and managing 
+resources effectively.
+
+Each project will have two RSEs assigned to it, responsible for different aspects 
+of the technical work. The work distribution is not necessarily equal and should 
+be based on expertise and project needs.
+
+
+Communication and work during the project
+----------------------------------------
+
+Effective communication and collaboration are crucial throughout the project. 
+Using customer's preferred communication channel is highly recommended; as the primary
+stakeholders should be kept happy and informed through regular updates.
+Regular meetings are also recommended, and using status reports and collaborative 
+tools are essential to achieve these goals.
+
+To make sure you get help when needed, and identify issues in early stages, it is important 
+to discuss the project with your team and team leader too.
+
+The main goals are to:
+
+* Keep all stakeholders informed of progress and changes.
+* Facilitate collaboration among team members.
+* Address issues and risks promptly.
+* Ensure that project documentation is up-to-date.
+
+Regular meetings, status reports, and collaborative tools help maintain alignment 
+and transparency during the project.
 
 
 Wrap-up
 -------
 
+The wrap-up phase occurs at the end of the project. 
 
-Maintenance
------------
+The main goals are to:
+
+* Review project outcomes and deliverables.
+* Assess project performance against objectives.
+* Document lessons learned and best practices.
+* Report time and resource usage, and ask about /timesaved for the project.
+
+This phase ensures that the project is formally closed and that valuable insights 
+are captured for future projects.
+   
+
+Maintenance and support
+-----------------------
+
+The maintenance and support phase occurs after the project has been completed and delivered. 
+
+The main goals are to:
+
+* Address any issues or bugs that arise post-deployment.
+* Provide ongoing support to users and stakeholders.
+* Implement updates and improvements as needed.
+* Ensure the continued performance and reliability of the project.
+
+This phase ensures that the project remains functional and valuable over time, 
+and that any emerging needs are addressed.
+
+
+Dropped projects
+----------------
+
+Sometimes, projects may be discontinued or paused before completion. 
+As we are working with researchers, their focus may shift to another project 
+or area of research, leading to the discontinuation or pausing of the current project.
+If the project is discontinued or paused, it is important to properly document
+the reasons and any work completed:
+
+* Document any work completed and lessons learned.
+* Reallocate resources to other projects as needed.
+* Communicate the decision to all stakeholders and team leader
+
+This phase ensures that even discontinued projects are properly closed and 
+that valuable insights are captured for future initiatives.
