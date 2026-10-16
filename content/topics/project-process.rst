@@ -84,6 +84,7 @@ Kick-off meeting
 The kick-off meeting marks the official start of the project. Make sure the customer 
 supervisor is on board. It is also recommended to have the team leader or a senior RSE
 involved in this meeting as well.
+
 The main goals are to:
 
 * Introduce the project team and stakeholders.
@@ -99,7 +100,9 @@ Technical planning
 -------------------
 
 The technical planning phase involves detailed planning of the technical aspects 
-of the project. The main goals are to:
+of the project. 
+
+The main goals are to:
 
 * Define the technical requirements and specifications.
 * Identify potential risks and mitigation strategies.
@@ -116,6 +119,7 @@ This phase ensures that the project has a clear technical roadmap and
 that potential issues are addressed early. Listing the technical tasks and 
 technologies and their dependencies helps in tracking progress and managing 
 resources effectively.
+
 Each project will have two RSEs assigned to it, responsible for different aspects 
 of the technical work. The work distribution is not necessarily equal and should 
 be based on expertise and project needs.
@@ -147,7 +151,9 @@ and transparency during the project.
 Wrap-up
 -------
 
-The wrap-up phase occurs at the end of the project. The main goals are to:
+The wrap-up phase occurs at the end of the project. 
+
+The main goals are to:
 
 * Review project outcomes and deliverables.
 * Assess project performance against objectives.
@@ -162,6 +168,7 @@ Maintenance and support
 -----------------------
 
 The maintenance and support phase occurs after the project has been completed and delivered. 
+
 The main goals are to:
 
 * Address any issues or bugs that arise post-deployment.
