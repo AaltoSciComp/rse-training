@@ -37,9 +37,11 @@ Project (informal)
 Why project management?
 -----------------------
 
-If everyone is very well aligned in goals and ways of working,
-collaborations can work well.  If not, there needs to be a structured
-flow to keep things on track - if not, beware of chaos.
+If a project is completely clear to everyone from the start,
+collaboration without special management effort can work.  The farther
+things come from "routine", the more is needed - and the more
+structured it will tend to need to be.  If it doesn't exist, beware of
+chaos.
 
 * Make sure that we and our customers have the same goals.
 * Define clear goals, objectives, deliverables, and deadlines.
@@ -54,41 +56,105 @@ flow to keep things on track - if not, beware of chaos.
 * Provide sound financial tracking for projects that need it.
 
 
-Idea / concept meeting
-----------------------
+Summary
+-------
 
-The idea/concept meeting is the initial discussion where the project idea
-is discussed. First point of contact is not necessarily the
-project manager, but rather anyone who can provide initial guidance and context
-on what we do and how we operate.
 
-Having this initial discussion in garage is recommended. However the main purpose here
-is to gather initial information on the project, understand the context, and present
-what RSEs can offer.
+Outreach
+--------
 
-The main goals of this meeting are to:
+.. admonition:: Summary
 
-* Understand the problem or opportunity.
-* Learn more about the customer, and their research.
-* Getting contact information to follow-up on the project.
+   * Tell customers about what we do and help them understand how we
+     can help.
+   * You can give basic ideas, brainstorm, and think of ideas even
+     before there is a "project".
+   * Invite them to talk with us for more, but also...
+   * Take their contact info and follow up with them as appropriate
+     :inote:`for example after a few weeks - maybe even asking someone
+     else who has different knowledge to do come with you or do
+     it`.
 
-These points could be noted in RSE project tracker as a draft for future reference.
+We are often out talking to researchers to tell them about what we do.
+This is just the first introduction, so there is not yet a concrete
+project or anything to do, but if someone may have something, one
+should try to work on developing the idea.
 
-This first point of contact helps establish the initial understanding of a potential project
-and sets the stage for further planning and discussions. Discussing the main point in
-RSE weekly meeting is a great way to keep the team informed.
+You should:
 
-Kick-off meeting
-----------------
+* Talk and bounce initial ideas off of them.
 
-The kick-off meeting marks the official start of the project. Make sure the customer
-supervisor is on board. It is also recommended to have the team leader or a senior RSE
-involved in this meeting as well.
+(depending on the circumstances,) Make a note of their contact info,
+and either you or someone else follow up.  In the follow up you could:
+
+* Ask how things are going
+* Ask if they would like to meet to talk further (could be as simple
+  as lunch or chatting in the coffee room)
+
+Unless we are fully booked, try not to leave good potential customer
+with only a "come to garage" - yes, leave them with that, but also do
+some follow-up.
+
+
+
+..
+  The idea/concept meeting is the initial discussion where the project idea
+  is discussed. First point of contact is not necessarily the
+  project manager, but rather anyone who can provide initial guidance and context
+  on what we do and how we operate.
+
+  Having this initial discussion in garage is recommended. However the main purpose here
+  is to gather initial information on the project, understand the context, and present
+  what RSEs can offer.
+
+  The main goals of this meeting are to:
+
+  * Understand the problem or opportunity.
+  * Learn more about the customer, and their research.
+  * Getting contact information to follow-up on the project.
+
+  These points could be noted in RSE project tracker as a draft for future reference.
+
+  This first point of contact helps establish the initial understanding of a potential project
+  and sets the stage for further planning and discussions. Discussing the main point in
+  RSE weekly meeting is a great way to keep the team informed.
+
+
+
+Kick-off meeting (scope)
+------------------------
+
+.. admonition:: Summary
+
+   * Get all information needed to make the plan.
+   * Make sure everyone is on the same page (even those not taking
+     part in detailed planning or expectation)
+   * **Figure out the initial desired scope**, even if it will be
+     adjusted later.
+   * In the common case where the long-term plan can not be know, plan
+     for iterations.
+
+The kick-off meeting is the first real project step (though, it's not
+guaranteed to become a project from here).  This is the time to
+determine the overall viability of a project or not by understanding
+what is needed.  Make sure the customer's supervisor is on board, if
+relevant :inote:`Not relevant for small, "phd-projects".  More
+relevant when it is large, purpose is less clear, many people are
+involved, or it requires funding`. In all but the simplest cases, it
+is recommended to have the team leader or a senior RSE involved in
+this meeting as well.
+
+One main goal of this meeting is to figure out the scope, as in, what
+is desired to be included or not.  The customers usually has some
+vision of their needs, not necessarily the way of getting there or
+what exactly should be included.  So, one needs to work with them to
+figure out some initial ideas and what the scope *could* be.
 
 The main goals are to:
 
+* Get all the information you need early (no surprises later)
 * Introduce the project team and stakeholders.
-* Review the project objectives, scope, and deliverables.
+* Understand the project objectives, scope, and deliverables.
 * Discuss roles, responsibilities, and expectations.
 * Establish communication channels and reporting mechanisms.
 * Confirm the project timeline and key milestones.
@@ -96,11 +162,23 @@ The main goals are to:
 This meeting ensures that everyone is aligned and ready to begin the project work.
 
 
+
 Technical planning
--------------------
+------------------
+
+.. admonition:: Summary
+
+   * Take the time to go from the needs and general plan identified
+     above to a specific, implantable plan.
+   * This may require more help than just the RSEs in the previous
+     meeting.
+   * This stage can be iterative and customers should be a part of it
+     as much as needed.
+   * Ensure an OK from everyone before going on.
 
 The technical planning phase involves detailed planning of the technical aspects
-of the project.
+of the project.  This may, or may not, be at the same time as the
+kick-off (or it may start there and carry on later).
 
 The main goals are to:
 
