@@ -59,6 +59,18 @@ chaos.
 Summary
 -------
 
+.. admonition:: Summary
+
+   * There is a funnel from everyone we talk to, to those who actively
+     talk about a project, to those doing a project.  Help people down
+     that funnel by the actions on this page.
+   * Research is *not* like typical consulting projects in that the
+     outcome (or even achievable) is not as likely to be well-known
+     in advance.
+   * Our customers tend to have less experience doing projects and
+     working with us, so we need to take more care to manage them and
+     help them through their work
+
 
 Outreach
 --------
@@ -66,14 +78,16 @@ Outreach
 .. admonition:: Summary
 
    * Tell customers about what we do and help them understand how we
-     can help.
+     can help.  Check :doc:`/asc-handbook/ref/outreach-material` for
+     ideas.
    * You can give basic ideas, brainstorm, and think of ideas even
-     before there is a "project".
+     before there is a "project".  Remember it may be difficult for
+     them to understand what we can do.
    * Invite them to talk with us for more, but also...
-   * Take their contact info and follow up with them as appropriate
-     :inote:`for example after a few weeks - maybe even asking someone
-     else who has different knowledge to do come with you or do
-     it`.
+   * Take their contact info and follow up with them if appropriate
+     :inote:`for example after a few weeks so they can think about it
+     some - maybe even asking someone else who has different knowledge
+     to do come with you or do it`.
 
 We are often out talking to researchers to tell them about what we do.
 This is just the first introduction, so there is not yet a concrete
@@ -206,6 +220,14 @@ be based on expertise and project needs.
 Communication and work during the project
 -----------------------------------------
 
+.. admonition:: Summary
+
+   * Being research, the end goal was uncertain at the start and
+     likely is changing over time.
+   * You must keep the customers will-informed and part of the loop.
+   * If customers ever disappear, ask advice rather than continue
+     working on the wrong thing.
+
 Effective communication and collaboration are crucial throughout the project.
 Using customer's preferred communication channel is highly recommended; as the primary
 stakeholders should be kept happy and informed through regular updates.
@@ -229,6 +251,14 @@ and transparency during the project.
 Wrap-up
 -------
 
+.. admonition:: Summary
+
+   * Being research, projects have a way of going on forever.  Try to
+     have some end of your active phase (may need to be planned in
+     advance).
+   * Take the time to get some reflect and get statistics.
+   * It doesn't mean you stop all communication.
+
 The wrap-up phase occurs at the end of the project.
 
 The main goals are to:
@@ -244,6 +274,16 @@ are captured for future projects.
 
 Maintenance and support
 -----------------------
+
+.. admonition:: Summary
+
+   * Research goes on and projects blend in to each other.  You do not
+     have to completely stop support at the end.
+   * If ongoing maintenance is likely, discuss it from the start.
+   * Avoid doing a project where the customers are not able to manage
+     anything without you (unless that's the explicit goal) :inote:`In
+     other words, don't create something so complex that only you or
+     an expert RSE can understand it.  Make it suitable to the users.`
 
 The maintenance and support phase occurs after the project has been completed and delivered.
 
