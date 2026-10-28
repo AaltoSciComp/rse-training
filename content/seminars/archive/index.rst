@@ -244,3 +244,9 @@ Events are listed below in chronological order.
 ..
   When you add material to this list, also add it to the "Materials
   and links" section above.
+
+- **2026 October 23: Yet another talk on Ethics, Privacy, and Compliance**
+
+In our team, when anything involves ethics or legal stuff in a project (personal data, etc) we have a saying "Ask Enrico". But it would be useful if all RSEs had an idea of what is expected ethically and legally when doing a project.
+
+This is not the standard PhD lecture on ethics in research that talks about the normal cases. This is the complexities behind the scene, to let an experienced research engineer involved in project planning adapt a project plan to meet these requirements as easily as possible, and to let customers know any residual risk of problems with the related complaince. It should reduce the amount of "Ask Enrico" that happens early in a project, and leave it for only the harder cases. It may be a bit Aalto-specific, but the general ideas should be applicable to any research organization.

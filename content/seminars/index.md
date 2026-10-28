@@ -5,26 +5,33 @@ others are welcome to attend.
 
 :::{admonition} Next seminar
 
-**2026 October 23: Yet another talk on Ethics, Privacy, and Complaince**
+**Supply chain attacks in research software and how to mitigate
+them.**
 
-In our team, when anything involves ethics or legal stuff in a project (personal data, etc) we have a saying "Ask Enrico". But it would be useful if all RSEs had an idea of what is expected ethically and legally when doing a project.
+A software supply chain attack is when a security exploit is pulled in via
+dependencies.  Scientific code, often needing many dependencies and
+iterating quickly, written by busy people, and run on shared systems,
+is particularly vulnerable.
 
-This is not the standard PhD lecture on ethics in research that talks about the normal cases. This is the complexities behind the scene, to let an experienced research engineer involved in project planning adapt a project plan to meet these requirements as easily as possible, and to let customers know any residual risk of problems with the related complaince. It should reduce the amount of "Ask Enrico" that happens early in a project, and leave it for only the harder cases. It may be a bit Aalto-specific, but the general ideas should be applicable to any research organization.
+This talk will discuss the basics of these types of security problems,
+broad categories of how work can adapt, present at least one
+self-developed solution, and have time for others to present their
+solutions.
 
-Audience: Anyone who is working with sensitive / personal / confidential data.
-
-* Location: Aalto campus, TU7, Maarintie 8, and online ({doc}`Garage
-  zoom <help/garage>`)
+* Presenter: Richard Darst
+* Location: LAIF Hub Otaniemi (TUAS building, fourth floor) and online
+  ({doc}`Garage zoom <help/garage>`)
 * Time: 10:00-11:00, arrive as early as 9:30 for networking, stay
   later for further discussion and lunch
+
+Audience: Mainly those supporting researchers writing code, but
+researchers and others are welcome.
 :::
 
 
 
 ## Upcoming
 
-* 23 October, 2026: Yet another talk on Ethics, Privacy, and Complaince.
-* 20 Nov, 2026: Container tricks and defending against supply chain attacks.
 * 11 December, 2026: Local LLM infrastructure and k8s.
 
 
