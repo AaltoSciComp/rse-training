@@ -98,6 +98,9 @@ relevant to your needs:
 * `Aalto RSE for other RSE teams 2026
   <https://docs.google.com/presentation/d/17haWJEJapD4ZVW8bYdzt0MRC7oxapgeluaXWOu-pgA0>`__.
 
+* `Aalto RSE for Management Teams 2026
+  <https://p3d2.github.io/aalto-slides-template/decks/20261126_ASC_ppt/main.pdf>`__.
+
 * `Three slide introduction for unit leaders
   <https://aaltofi.sharepoint.com/:p:/s/SciComp--ITSCloudTeam/EdbJv90A2QtCg182W20tzeUBb_mWX-7W1Uu8dh62mN34-w?e=uCg9sA>`__
   (internal only)
