@@ -15,8 +15,8 @@ This site is still under construction and "wiki rules" are in effect:
 make improvements and iterate, someone will come later and clean it
 up.  I'm also happy if this is useful to others and there are
 suggestions to make it more useful outside Aalto - if there is a lot
-of outside interest, the Aalto specific stuff my be split out.
-Current editor: rkdarst.
+of outside interest, the Aalto specific stuff my be split out.  Please
+don't submit directly AI generated content.  Current editor: rkdarst.
 
 
 .. toctree::
