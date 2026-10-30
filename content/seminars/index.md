@@ -22,7 +22,7 @@ others to present their solutions.
 * Presenter: Richard Darst
 * Location: LAIF Hub Otaniemi (TUAS building, fourth floor) and online
   ({doc}`Garage zoom <help/garage>`)
-* Time: 10:00-11:00, arrive as early as 9:30 for networking, stay
+* Time: **November 20, 2026** at 10:00-11:00, arrive as early as 9:30 for networking, stay
   later for further discussion and lunch
 
 Audience: Mainly those supporting researchers writing code, but
