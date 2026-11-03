@@ -15,9 +15,9 @@ is particularly vulnerable.
 
 This talk will discuss the basics of these types of security problems,
 broad categories of how work can adapt, present at least one
-self-developed solution (`venv-apptainer
-<https://github.com/rkdarst/venv-apptainer>`__), and have time for
-others to present their solutions.
+self-developed solution ([venv-apptainer](
+(https://github.com/rkdarst/venv-apptainer)), and have time for
+others to present their solutions or thoughts.
 
 * Presenter: Richard Darst
 * Location: LAIF Hub Otaniemi (TUAS building, fourth floor) and online
