@@ -1,0 +1,19 @@
+/* override table width restrictions:
+   https://github.com/rtfd/sphinx_rtd_theme/issues/117 */
+.wy-table-responsive table td, .wy-table-responsive table th {
+    white-space: normal !important;
+}
+
+/* Left border bar for block quotes */
+.rst-content .document  blockquote {
+    border-left: 3px solid #ccc;
+    margin-left: .5em;
+    padding-left: .5em;
+}
+
+/* Better figure captions */
+.rst-content .document figcaption p {
+    font-size: 85%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
