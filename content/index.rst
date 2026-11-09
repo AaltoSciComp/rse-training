@@ -38,6 +38,7 @@ General background information.
    roles/planner
    roles/technical-mentor
    roles/unit-liaison
+   roles/team-leader
    roles/team-supervisor
    roles/exercise-list
 

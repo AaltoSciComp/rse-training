@@ -63,7 +63,11 @@ Role list
        about general RSE activities, attending unit meetings, and
        keeping an active search for projects.  Primary challenges
        include networking with diverse busy people.
-   * * :doc:`Team Supervisor <team-supervisor>`
+   * * :doc:`Team leader <team-leader>`
+     * Manage projects within a subteam, providing oversight that
+       projects go well and ensuring that projects and people have the
+       support they need.
+   * * :doc:`Team supervisor <team-supervisor>`
      * Manage HR and financial practicalities, especially including
        ultimate responsibility for mentoring and productivity of all
        team members and the team itself.
