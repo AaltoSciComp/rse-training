@@ -1,11 +1,11 @@
 Project processes
 =================
 
-This page describes in general what to consider when working on
-projects.  It is probably not that specific to Aalto RSE, and probably
-needs adjustment to any individual project.  Still, it is useful to
-have one place with good practices and a description of all the way
-that things can go wrong.
+This page describes in general our project flow, from outreach to
+complete, and what should be considered at each stage.  It is probably
+not that specific to Aalto RSE, and probably needs adjustment to any
+individual project.  Still, it is useful to have one place with good
+practices and a description of all the way that things can go wrong.
 
 .. seealso::
 
@@ -15,45 +15,27 @@ that things can go wrong.
   * For an old version of this page that should be copied here, see
     :doc:`project-process-old`.
 
-Terminology:
-
-Project
-   Anything large enough to need tracking and structure.  Has an issue
-   in RSE project tracker. Rule of thumb for the size is anything that requires
-   more than a couple of hours of work.
-
-Garage support
-   Any small things we do that don't require extensive
-   tracking on our side.  Something where we mainly answer requests
-   and is pushed forward by the customer coming to talk to us.  May or
-   may not actually come through garage.
-
-Project (informal)
-   Confusingly, can sometimes mean both "project" and "garage
-   support".
+Recall that a "project" for our team is something big enough to need
+tracking and planning (going beyond the question-answer of garage-type
+support).  (Don't forget that confusingly that sometimes people say
+"project" for anything they do, even if not tracked as a project).
 
 
 
-Why project management?
------------------------
+Why a project process?
+----------------------
 
-If a project is completely clear to everyone from the start,
-collaboration without special management effort can work.  The farther
-things come from "routine", the more is needed - and the more
-structured it will tend to need to be.  If it doesn't exist, beware of
-chaos.
+We are many people working together, and different people are involved
+in projects at different times.  It is good to be able to convey to
+each other what stage something is at, and what types of help may be
+needed at different times.
 
-* Make sure that we and our customers have the same goals.
-* Define clear goals, objectives, deliverables, and deadlines.
-* Keep track of things long-term.
-* Record where our time goes, so that we can get good reports for our
-  funders, so that we will continue to be well-funded in the future.
-* Avoid projects which we may not be successful at due to {undefined
-  goals, impossible goals, or generally not knowing what is going on}.
-* Prevent over-committing ourselves.
-* Show that our output work roughly corresponds to input funding (by
-  unit, and goals of those units).
-* Provide sound financial tracking for projects that need it.
+It also helps us to remember things at each step.
+
+However, it can be adjusted and changed depending on what each project
+needs, and shouldn't be blindly applied.  (However, appearing
+structured gives a good impression to customers.)
+
 
 
 Summary
@@ -135,8 +117,8 @@ some follow-up.
 
 
 
-Kick-off meeting (scope)
-------------------------
+Kick-off meeting (statement of need)
+------------------------------------
 
 .. admonition:: Summary
 
@@ -155,25 +137,27 @@ what is needed.  Make sure the customer's supervisor is on board, if
 relevant :inote:`Not relevant for small, "phd-projects".  More
 relevant when it is large, purpose is less clear, many people are
 involved, or it requires funding`. In all but the simplest cases, it
-is recommended to have the team leader or a senior RSE involved in
-this meeting as well.
+is recommended to have at least two people be involved here - at least
+one of whom is good at planning projects.
 
-One main goal of this meeting is to figure out the scope, as in, what
-is desired to be included or not.  The customers usually has some
-vision of their needs, not necessarily the way of getting there or
-what exactly should be included.  So, one needs to work with them to
-figure out some initial ideas and what the scope *could* be.
+One main goal of this meeting is to figure out what the customer wants
+("statement of need"), as in, what is desired to be included or not
+:inote:`[scope] you could call this the scope, but realize the
+customer may not know what they need yet, so it's hard to say it is
+*the* scope.`.  The customers usually has some vision of their needs,
+not necessarily the way of getting there or what exactly should be
+included.  So, one needs to work with them to figure out some initial
+ideas and what the scope *could* be.
 
 The main goals are to:
 
 * Get all the information you need early (no surprises later)
-* Introduce the project team and stakeholders.
-* Understand the project objectives, scope, and deliverables.
+* Understand what the project needs (or at least, what the customers
+  think they need) so that you can start making proposals.
 * Discuss roles, responsibilities, and expectations.
 * Establish communication channels and reporting mechanisms.
-* Confirm the project timeline and key milestones.
-
-This meeting ensures that everyone is aligned and ready to begin the project work.
+* Have at least an initial discussion about the risks.
+* Tell about the next steps.
 
 
 
@@ -182,30 +166,36 @@ Technical planning
 
 .. admonition:: Summary
 
-   * Take the time to go from the needs and general plan identified
-     above to a specific, implantable plan.
-   * This may require more help than just the RSEs in the previous
-     meeting.
+   * Take the time to go from the needs and general ideas identified
+     above to a specific, implantable plans.
+   * Don't necessarily go straight to one plan.  If it's complex,
+     present several options and trade-offs to the customer (with
+     recommendations).
    * This stage can be iterative and customers should be a part of it
      as much as needed.
+   * Bring in other help for certain topics as needed.
    * Ensure an OK from everyone before going on.
 
-The technical planning phase involves detailed planning of the technical aspects
-of the project.  This may, or may not, be at the same time as the
-kick-off (or it may start there and carry on later).
+The technical planning phase involves detailed planning of the
+technical aspects of the project.  This may, or may not, be at the
+same time as the kick-off (or it may start there and carry on later):
+for simple things you may go straight to the solution, for more
+complex it's better to think more.
 
 The main goals are to:
 
-* Define the technical requirements and specifications.
-* Identify potential risks and mitigation strategies.
-* Plan the technical tasks and allocate resources.
-* Establish development and testing procedures.
+* Go from the customer's need to (several possible) solutions.
+* Identify further potential risks and mitigation strategies.
+* Plan the technical tasks and ensure there are enough resources to do
+  it.
 
-Without a good plan, work can become disorganized. Taking the time to plan thoroughly
-is crucial for the success of the project. Consulting with team members and
-stakeholders is important to ensure that all perspectives are considered.
-Taking the time to discuss the plan with the customer and team leader helps
-ensure that the plan is realistic and aligned with expectations.
+
+Without a good plan, work can become disorganized. Taking the time to
+plan thoroughly is crucial for the success of the project. Consulting
+with team members and stakeholders is important to ensure that all
+perspectives are considered.  Taking the time to discuss the plan with
+the customer and team leader helps ensure that the plan is realistic
+and aligned with expectations.
 
 This phase ensures that the project has a clear technical roadmap and
 that potential issues are addressed early. Listing the technical tasks and
@@ -215,6 +205,7 @@ resources effectively.
 Each project will have two RSEs assigned to it, responsible for different aspects
 of the technical work. The work distribution is not necessarily equal and should
 be based on expertise and project needs.
+
 
 
 Communication and work during the project
