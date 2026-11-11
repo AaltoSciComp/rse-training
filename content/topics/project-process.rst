@@ -144,21 +144,26 @@ One main goal of this meeting is to figure out what the customer wants
 ("statement of need"), as in, what is desired to be included or not
 :inote:`[scope] you could call this the scope, but realize the
 customer may not know what they need yet, so it's hard to say it is
-*the* scope.`.  The customers usually has some vision of their needs,
-not necessarily the way of getting there or what exactly should be
-included.  So, one needs to work with them to figure out some initial
-ideas and what the scope *could* be.
+*the* scope.  Other engineers separate the Statement of Need (what
+customers think they need) from the Scope of Work (engineer-designed
+proposal for what to do).`.
+
+The customers usually has some vision of their needs, not necessarily
+the way of getting there or what exactly should be included.  So, one
+needs to work with them to figure out some initial ideas and what the
+scope *could* be.
 
 The main goals are to:
 
-* Get all the information you need early (no surprises later)
+* Get all the information you need (no surprises later).
 * Understand what the project needs (or at least, what the customers
   think they need) so that you can start making proposals.
 * Discuss roles, responsibilities, and expectations.
 * Establish communication channels and reporting mechanisms.
 * Have at least an initial discussion about the risks.
-* Tell about the next steps.
-
+* Tell the customer what to expect next.
+* Non-goal: make commitments before people know what they are
+  committing to.
 
 
 Technical planning
@@ -166,45 +171,70 @@ Technical planning
 
 .. admonition:: Summary
 
-   * Take the time to go from the needs and general ideas identified
-     above to a specific, implantable plans.
-   * Don't necessarily go straight to one plan.  If it's complex,
-     present several options and trade-offs to the customer (with
-     recommendations).
-   * This stage can be iterative and customers should be a part of it
-     as much as needed.
-   * Bring in other help for certain topics as needed.
+   * Take the time for background research to find the right plan
+     (look at their current work, other background research) and call
+     in other experts to give comments.
+   * Don't necessarily immediately decide and develop one plan.  There
+     are usually trade-offs, prepare several alternatives and discuss
+     with the customer - with your recommendation :inote:`This also
+     allows the customer to feel engaged.`.
+   * Planning can iterative.
    * Ensure an OK from everyone before going on.
 
 The technical planning phase involves detailed planning of the
-technical aspects of the project.  This may, or may not, be at the
-same time as the kick-off (or it may start there and carry on later):
-for simple things you may go straight to the solution, for more
-complex it's better to think more.
+technical aspects of the project.  In short, the customer has a broad
+idea (Statement of Need).  Now you try to refine it into the actual
+work to do.
+
+You may not be able to decide one exact path yourself, and you
+probably shouldn't try too hard at this either.  Instead, understand
+the problem and see if you can develop several reasonable
+representative solutions that you can present to the customer for
+decision.  You are the expert so you can make a recommendation:
+presenting the option helps to keep the customer engaged, feeling like
+they are a part of it, and also helps them to understand what kind of
+trade-offs there are.
+
+This may, or may not, be obvious from the start.  It may, or may not,
+be done at the same time as the kick-off.  It may or may not require a
+lot of background work before a plan is made.
+
+Being research, it may or may not be possible to make a real plan (who
+knows what actually can, or can't, work).  Don't over-plan.  The plan
+could be more about how the unknowns are approached, rather than
+exactly what will happen.  The uncertainty should be presented back to
+the customers as part of the plan.
+
+Projects should be planned so that no one is alone.  If someone
+might need mentoring, it should be there.  If someone should be around
+to teach new skills during the project, this should be planned.
 
 The main goals are to:
 
 * Go from the customer's need to (several possible) solutions.
+* Present these back to the customer for solution.
 * Identify further potential risks and mitigation strategies.
 * Plan the technical tasks and ensure there are enough resources to do
   it.
 
 
-Without a good plan, work can become disorganized. Taking the time to
-plan thoroughly is crucial for the success of the project. Consulting
-with team members and stakeholders is important to ensure that all
-perspectives are considered.  Taking the time to discuss the plan with
-the customer and team leader helps ensure that the plan is realistic
-and aligned with expectations.
 
-This phase ensures that the project has a clear technical roadmap and
-that potential issues are addressed early. Listing the technical tasks and
-technologies and their dependencies helps in tracking progress and managing
-resources effectively.
+Go or no-go decision
+--------------------
 
-Each project will have two RSEs assigned to it, responsible for different aspects
-of the technical work. The work distribution is not necessarily equal and should
-be based on expertise and project needs.
+A decision to do a project can only really be made after everything is
+known (both on our side and the customer's side).  Until that point,
+it's more like garage support (even if we have a project issue about
+it).  There should be something written, in proportion to how
+demanding the project is.
+
+As a side note here: when the future can't be predicted (as in, there
+are actual uncertainties that can't be planned out), don't try to
+force it.  Plan a phased project with different intermediate
+objectives and go/no-go decisions.
+
+Time should be reserved (time planning spreadsheet), expectations
+about time should be made clear.
 
 
 
@@ -214,29 +244,36 @@ Communication and work during the project
 .. admonition:: Summary
 
    * Being research, the end goal was uncertain at the start and
-     likely is changing over time.
+     likely is changing over time.  Keep active communication going.
    * You must keep the customers will-informed and part of the loop.
-   * If customers ever disappear, ask advice rather than continue
+   * If customers ever disappear, ask for help rather than continue
      working on the wrong thing.
 
-Effective communication and collaboration are crucial throughout the project.
-Using customer's preferred communication channel is highly recommended; as the primary
-stakeholders should be kept happy and informed through regular updates.
-Regular meetings are also recommended, and using status reports and collaborative
-tools are essential to achieve these goals.
+Effective communication and collaboration are crucial throughout the
+project.  Customers shouldn't expect that RSEs disappear and return
+with a final product, communication has to be planned from the start.
+Ideally, move to use whatever channels the customer prefers.
 
-To make sure you get help when needed, and identify issues in early stages, it is important
-to discuss the project with your team and team leader too.
+If nothing else, a message to customers each week about the status
+shows we are keeping things up to date.  The trail of messages implies
+professionalism and in case of questions, shows we were doing our
+part.  This is the minimum, ideally there are active meetings and the
+customer can use and give feedback continually.
+
+You shouldn't be alone - ask for help is needed, even broad
+discussions about what you are doing.  Part of our culture is
+:doc:`helping each other first </asc-handbook/values-and-culture>`,
+but you need to make the opportunities (your team leaders and mentors
+can only go so far to make this happen).
 
 The main goals are to:
 
-* Keep all stakeholders informed of progress and changes.
+* Do high-quality work
+* Communicate and keep all stakeholders informed of progress and changes.
 * Facilitate collaboration among team members.
 * Address issues and risks promptly.
 * Ensure that project documentation is up-to-date.
 
-Regular meetings, status reports, and collaborative tools help maintain alignment
-and transparency during the project.
 
 
 Wrap-up
@@ -247,20 +284,24 @@ Wrap-up
    * Being research, projects have a way of going on forever.  Try to
      have some end of your active phase (may need to be planned in
      advance).
-   * Take the time to get some reflect and get statistics.
-   * It doesn't mean you stop all communication.
+   * Take the time to get some reflect and make the final reports.
+   * It doesn't mean you stop all communication with the customers.
 
-The wrap-up phase occurs at the end of the project.
+The wrap-up phase occurs at the end of the project.  If you look at
+our issue tracker, you can probably see many ancient projects which
+haven't been wrapped up (and maybe not even started).  This isn't good
+for our tracking, and also not good since customers may not be getting
+any closure.
 
 The main goals are to:
 
-* Review project outcomes and deliverables.
-* Assess project performance against objectives.
+* Get to some point where you can stop thinking about the project.
+* Ensure the customer has gotten what they want out of it.
+* Use the reporting procedures to make sure our work is documented and
+  the impact will appear in our yearly report.
 * Document lessons learned and best practices.
 * Report time and resource usage, and ask about /timesaved for the project.
 
-This phase ensures that the project is formally closed and that valuable insights
-are captured for future projects.
 
 
 Maintenance and support
@@ -268,39 +309,71 @@ Maintenance and support
 
 .. admonition:: Summary
 
-   * Research goes on and projects blend in to each other.  You do not
-     have to completely stop support at the end.
+   * Research goes on and projects have a way of blend in to each
+     other.  This means we are often called to do ongoing maintenance
+     of finished work.
+   * You can say the policy is "Once funding or planned time runs out,
+     we can't promise time, but we will best-effort help you via
+     garage-level support."
    * If ongoing maintenance is likely, discuss it from the start.
    * Avoid doing a project where the customers are not able to manage
      anything without you (unless that's the explicit goal) :inote:`In
      other words, don't create something so complex that only you or
      an expert RSE can understand it.  Make it suitable to the users.`
 
-The maintenance and support phase occurs after the project has been completed and delivered.
+The maintenance and support phase occurs after the project has been
+completed and delivered.  One of our advantages is that we don't
+disappear like a commercial consultant would, but this has to be
+balanced with "projects can go on forever" from above.
 
-The main goals are to:
+Discuss long-term maintenance from the earliest phases.  Are you
+designing something which can't easily be maintained by the customers?
+Is there a chance that, once they see it, they can learn how to
+maintain (+ use + update) themselves?  Do you need to budget a
+long-term retainer to keep their work viable?  These are all hard
+questions that researchers aren't use to thinking about.
 
-* Address any issues or bugs that arise post-deployment.
-* Provide ongoing support to users and stakeholders.
-* Implement updates and improvements as needed.
-* Ensure the continued performance and reliability of the project.
+Most important from our side: we should avoid getting so burdened with
+unfunded old work, that we don't have time to do any new work.  (If
+the work has ongoing funding for maintenance, then it's current and
+it's OK to maintain long-term.)
 
-This phase ensures that the project remains functional and valuable over time,
-and that any emerging needs are addressed.
+The ongoing maintenance could include anything from:
+
+* Provide support so that the customers can do maintenance on their
+  own.
+* Provide active maintenance for things that go wrong (bugs, necessary
+  upgrades).
+* Do minor new development as needed to support new things.
+* Scientific support for publication or new grants.
 
 
 Dropped projects
 ----------------
 
-Sometimes, projects may be discontinued or paused before completion.
-As we are working with researchers, their focus may shift to another project
-or area of research, leading to the discontinuation or pausing of the current project.
-If the project is discontinued or paused, it is important to properly document
-the reasons and any work completed:
+.. admonition:: Summary
 
+   * Realize when projects are dropped without a completion.
+   * We should communicate with customers so it's clear what
+     expectations are.
+
+
+Sometimes, projects may be discontinued or paused before completion -
+sometimes even without being announced (the customers just stop
+responding actively).  This often happens in research, but when we are
+involved, it needs to be communicated well.  The "mostly dropped but
+someone thinks it is still going on" stage is especially dangerous,
+due to mis-matched expectations.
+
+When projects are not funded (or more precisely, funded by someone
+else or basic funding), the one dropping the project doesn't lose
+anything.  This makes it especially risky for us, because we spend
+someone's money but can't show results.  Part of this can be justified
+as supporting research, but it's worth discussing with the customer.
+
+If the project is discontinued or paused, it is important to properly
+document the reasons and any work completed:
+
+* Make it clear that we won't continue working on a project.
 * Document any work completed and lessons learned.
-* Reallocate resources to other projects as needed.
-* Communicate the decision to all stakeholders and team leader
-
-This phase ensures that even discontinued projects are properly closed and
-that valuable insights are captured for future initiatives.
+* Reallocate planned time to other projects as needed.
