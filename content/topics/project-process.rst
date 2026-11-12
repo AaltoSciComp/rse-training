@@ -251,7 +251,8 @@ Go or no-go decision
 
    * Don't forget to present all information to make a formal-enough
      decision to do the project or not.
-   * **It is OK to say "no" or suggest others to do the project.**
+   * **It is OK to say "no", suggest others to do the project, instead
+     of us, or suggest other solutions.**
    * Re-iterate expectations, who does what, and risks.
    * Make sure things are written down (somewhere) for future
      reference.
