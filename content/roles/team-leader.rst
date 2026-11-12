@@ -26,6 +26,11 @@ Main challenges / pitfalls
 Expectations / checklists
 -------------------------
 
+* Ensure the best team assembles for each project, that has all the
+  necessary roles depending on the project (project planner, project
+  manager, domain expert, worker, etc. :inote:`of course there can be
+  many overlaps of these and not every project needs each role
+  specifically defined.`)
 * Know what projects are going on well enough to know if any of them
   needed help or were going off-track and need an intervention.
 * Know what people are working on and ensure that the people are OK.
