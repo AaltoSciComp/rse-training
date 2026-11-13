@@ -140,8 +140,9 @@ Kick-off meeting (statement of need)
    * Get all information needed to make the plan.
    * Make sure everyone is on the same page (even those not taking
      part in detailed planning or expectation)
-   * **Figure out the customer's need** and what it means to be done,
-     even if it will be adjusted later.
+   * **Figure out the customer's problem** :inote:`not only focusing
+     on a proposed solution` and what it means to be done, even if it
+     will be adjusted later.
    * In the common case where the long-term plan cannot be know, plan
      for iterations.
    * You can use the `project template document
@@ -254,6 +255,7 @@ Go or no-go decision
 
    * Don't forget to present all information to make a formal-enough
      decision to do the project or not.
+   * **Should we do it?** as much as **Can we do it?**.
    * **It is OK to say "no", suggest others to do the project, instead
      of us, or suggest other solutions.**
    * Re-iterate expectations, who does what, and risks.
@@ -271,7 +273,7 @@ engineers).  We should critically analyze the project and say "no" if
 needed.  At least think "is the work understood?", "are the
 expectations well-defined?" :inote:`"we really don't know if this is
 possible" is a reasonable expectation, too, as long as everyone is on
-board.`, "what are the risks?", and "can we communicate well enough?"
+board`, "what are the risks?", and "can we communicate well enough?"
 
 As a side note here: when the future can't be predicted (as in, there
 are actual uncertainties that can't be planned out), don't try to
