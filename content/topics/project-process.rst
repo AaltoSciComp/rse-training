@@ -11,8 +11,11 @@ you have, you will be good.
 .. seealso::
 
   * For the minimum mandatory reporting work, see
-    :doc:`/asc-handbook/rse-reporting/projects`.
-  * For the user-focused view, see :doc:`rse/project-lifecycle`
+    :doc:`/asc-handbook/rse-reporting/projects`.  **That tells the
+    minimum you have to do to actually get "permission" to work
+    on a project and track it, this is general advice.**
+  * For the user-focused view of how projects work, see
+    :doc:`rse/project-lifecycle`
   * For an old version of this page, see :doc:`project-process-old`.
 
 Some common project-specific changes: If the work is clear from the
