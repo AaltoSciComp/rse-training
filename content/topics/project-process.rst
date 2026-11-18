@@ -17,6 +17,7 @@ you have, you will be good.
   * For the user-focused view of how projects work, see
     :doc:`rse/project-lifecycle`
   * For an old version of this page, see :doc:`project-process-old`.
+  * There is more information under :doc:`/roles/project-planner`
 
 Some common project-specific changes: If the work is clear from the
 start, you often begin the work immediately with less planning
