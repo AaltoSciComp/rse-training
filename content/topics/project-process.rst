@@ -275,6 +275,12 @@ expectations well-defined?" :inote:`"we really don't know if this is
 possible" is a reasonable expectation, too, as long as everyone is on
 board`, "what are the risks?", and "can we communicate well enough?"
 
+Part of our go/no-go decision must be if there is enough team
+commitment (no one commits alone :inote:`this is why you have to get
+approval from the RSE weekly meeting`) relative to the size of the
+project.  In addition, is there enough **mentoring capacity** for the
+people working on the project?
+
 As a side note here: when the future can't be predicted (as in, there
 are actual uncertainties that can't be planned out), don't try to
 force it.  Plan a phased project with different intermediate
@@ -441,3 +447,9 @@ document the reasons and any work completed:
 * Make it clear that we won't continue working on a project.
 * Document any work completed and lessons learned.
 * Reallocate planned time to other projects as needed.
+
+
+See also and sources
+--------------------
+
+See the box at the top of the page.
