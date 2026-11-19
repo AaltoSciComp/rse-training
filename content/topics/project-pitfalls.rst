@@ -108,6 +108,25 @@ pitfalls" surfacing.*
 
 
 
+No specific end goal was defined
+--------------------------------
+
+The customer came and it sounded like a good idea.  We got started,
+but it went on, and on, and on.  Eventually, we realized we could
+never end, since there was never an end point.  For anything we do,
+there can be a follow up that is part of the project.
+
+*Like above, we* are *researchers and this is our operating
+environment.  If we are paid to experiment like this, it's OK that we
+do it.  If not (especially for free projects), this is a bigger
+problem.  I'd recommend being explicit: is this something with a goal,
+or is the goal some experimentation?  (Yes, experimenting for some
+fixed time can be a goal).  Structure projects in phases, for example
+"phase 1 is understanding your existing work (the current goal).  Then
+we decide the next phase, with a goal decided then."*
+
+
+
 Taking forever analyzing options
 --------------------------------
 
