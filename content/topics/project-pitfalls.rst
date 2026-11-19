@@ -108,6 +108,23 @@ pitfalls" surfacing.*
 
 
 
+Taking forever analyzing options
+--------------------------------
+
+Often times, the best solution isn't clear.  We like analyzing things,
+and like getting things right.  We think forever about things,
+essentially going in circles re-analyzing the options.  Everything is
+a trade-off and some decision needs to be made.
+
+*I think it's worth recognizing these cases, and there is no perfect
+answer.  Consider: who should make the decision about the trade-offs?
+Then, can you summarize the trade-offs (in writing) clearly enough
+that everyone can understand, comment, and then support the decider in
+making the choice?  This hopefully limits the time taken to clarify
+options, discussion/understand, then making the least-bad decision.*
+
+
+
 Inconsistent names of projects
 ------------------------------
 
