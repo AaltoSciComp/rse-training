@@ -62,6 +62,7 @@ one's onboarding plan).
    topics/sysadmin
    topics/communication
    topics/project-process
+   topics/project-pitfalls
 
 This section is a reference of what one may need to know to be a RSE.
 It is a collection of interesting links and some original material.
