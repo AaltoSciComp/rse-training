@@ -20,6 +20,7 @@ self-developed solution ([venv-apptainer](
 others to present their solutions or thoughts.
 
 * Presenter: Richard Darst
+* Material: <https://rkdarst.github.io/talks/2026-supply-chain-attacks/>
 * Location: LAIF Hub Otaniemi (TUAS building, fourth floor) and online
   ({doc}`Garage zoom <help/garage>`)
 * Time: **November 20, 2026** at 10:00-11:00, arrive as early as 9:30 for networking, stay
