@@ -28,6 +28,23 @@ know who will drive things forward.*
 
 
 
+Doing what the customer asks
+----------------------------
+
+The customer comes with some specific request, and we think we should
+do that.  It may a specific idea, or the customer may not know exact
+details but still have some specific goal in mind.
+
+*This is called "managing up" or "managing the customer".  We aren't
+consultants who want to do whatever and take their money.  We are
+collaborators who have expertise that is different from the customers,
+and we need to work together.  The best engineer projects come from
+the customer needs and engineering* both *adapting to each other.  We
+are the professionals in projects, so we need to take the lead in
+helping customers figure out what to do.*
+
+
+
 "AI"-generated design or starting example
 -----------------------------------------
 
@@ -153,5 +170,7 @@ project we are talking about.  Gitlab issue numbers help, but we don't
 use them in daily conversation.
 
 *It's worth asking the name early on and making sure it is
-representative and distinct (and the first three words are unique and
-representative, too).*
+representative and distinct.  Note that the first three words are
+sometimes used as a short placeholder in reports, so put the most
+distinct parts at the front (for example "Digital map creation
+webserver", not "Webserver to make a digital map").*
