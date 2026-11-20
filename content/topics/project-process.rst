@@ -31,7 +31,11 @@ right time and team to support it`.
 Recall that a "project" for our team is something big enough to need
 tracking and planning (going beyond the question-answer of garage-type
 support).  (Don't forget that, confusingly, sometimes people say
-"project" for anything they do, even if not tracked as a project).
+"project" for anything they do, even if not tracked as a
+project). :inote:`[garage support] the below is written for big
+projects, but, in a very brief form, applies to garage support as
+well.  For example, ensure you and customer are both "yes, let's try
+it this way" before diving in.`
 
 
 
@@ -264,10 +268,13 @@ Go or no-go decision
      reference.
 
 A decision to do a project can only really be made after everything is
-known (both on our side and the customer's side).  Until that point,
-it's more like garage support (even if we have a project issue about
-it).  There should be something written, in proportion to how
-demanding the project is.
+known (both on our side and the customer's side) :inote:`[unknown
+goals] you usually want some goals defined, but it might be we really
+can't know.  That can still be a "project" but it must be made clear
+that the outcome is unknown, and the goal is a certain time spent
+experimenting`.  Until that point, it's more like garage support (even
+if we have a project issue about it).  There should be something
+written in detail proportional to how demanding the project is.
 
 The choice to begin must equally be made by us (the research
 engineers).  We should critically analyze the project and say "no" if
