@@ -17,7 +17,7 @@ you have, you will be good.
   * For the user-focused view of how projects work, see
     :doc:`rse/project-lifecycle`
   * For an old version of this page, see :doc:`project-process-old`.
-  * There is more information under :doc:`/roles/project-planner`
+  * There is more information under :doc:`/roles/planner`
 
 Some common project-specific changes: If the work is clear from the
 start, you often begin the work immediately with less planning
@@ -189,7 +189,11 @@ The main goals are to:
 * Have at least an initial discussion about the risks.
 * Tell the customer what to expect next.
 * Non-goal: make commitments before people know what they are
-  committing to.
+  committing to :inote:`[committing to helping] you can commit to
+  helping them plan out the project and see if it's possible.  Use
+  your reason.` :inote:`[pre-reserving time] this also doesn't mean
+  you can't pre-reserve time you think would be needed after the
+  go/no-go decision`.
 
 
 Technical planning

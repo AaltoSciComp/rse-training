@@ -21,10 +21,14 @@ The customer thinks they are waiting for us to do something, but we
 think we are waiting for the customer to do something.  This can
 easily happen when someone asks a question and it isn't noticed, but
 can also happen at a larger scale ("I didn't know we made the final
-decision that we wanted this.")
+decision that we wanted this.").  Or maybe the project has changed and
+everyone is waiting for someone else to step up and react to the
+change.
 
 *We should make sure we know who is the "prime mover" at all times, to
-know who will drive things forward.*
+know who will drive things forward.  One of the initial discussions
+when starting projects should be roles and who is the one keeping
+things going.*
 
 
 
@@ -33,7 +37,9 @@ Doing what the customer asks
 
 The customer comes with some specific request, and we think we should
 do that.  It may a specific idea, or the customer may not know exact
-details but still have some specific goal in mind.
+details but still have some specific goal in mind.  The customer might
+also request something that is over-built or under-built relative to
+what is needed.
 
 *This is called "managing up" or "managing the customer".  We aren't
 consultants who want to do whatever and take their money.  We are

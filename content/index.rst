@@ -61,6 +61,7 @@ one's onboarding plan).
    topics/security
    topics/sysadmin
    topics/communication
+   topics/project-management
    topics/project-process
    topics/project-pitfalls
 
