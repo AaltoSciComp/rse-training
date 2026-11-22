@@ -45,6 +45,28 @@ helping customers figure out what to do.*
 
 
 
+Being afraid of uncertainty
+---------------------------
+
+A project comes in, but it's triggering some of the other pitfalls on
+this page because it seems the customer doesn't know what should
+happen, or it's far too uncertain or not clearly defined.  We are
+worried that getting involved will lead to a never-ending project, no
+clear goal, or so on, so suggest that the customer come back when they
+know more.
+
+*We should respect uncertainty, not be afraid of it.  This just means
+that we are involved earlier in the research process, or we can have a
+bigger impact by helping the customer do something they couldn't have
+otherwise.  This requires skillful customer management, to help them
+figure out how to do the project, while not over-committing too soon.
+See the comments elsewhere on project phases and only committing to
+certain phases at a time.  Before doing this, we need to make sure
+there is time and mental energy to get involved at that level.*
+
+
+
+
 "AI"-generated design or starting example
 -----------------------------------------
 
