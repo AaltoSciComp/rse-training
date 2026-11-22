@@ -103,6 +103,7 @@ of onboarding for new people.
 
    seminars/index
    seminars/archive/index
+   seminars/archive-2020/index
 
 A seminar series to build RSE skills.
 

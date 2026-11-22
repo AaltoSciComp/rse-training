@@ -5,29 +5,8 @@ others are welcome to attend.
 
 :::{admonition} Next seminar
 
-**Supply chain attacks in research software and how to mitigate
-them.**
+To be updated.
 
-A software supply chain attack is when a security exploit is pulled in via
-dependencies.  Scientific code, often needing many dependencies and
-iterating quickly, written by busy people, and run on shared systems,
-is particularly vulnerable.
-
-This talk will discuss the basics of these types of security problems,
-broad categories of how work can adapt, present at least one
-self-developed solution
-([venv-apptainer](https://github.com/rkdarst/venv-apptainer)), and
-have time for others to present their solutions or thoughts.
-
-* Presenter: Richard Darst
-* Material: <https://rkdarst.github.io/talks/2026-supply-chain-attacks/>
-* Location: LAIF Hub Otaniemi (TUAS building, fourth floor) and online
-  ({doc}`Garage zoom <help/garage>`)
-* Time: **November 20, 2026** at 10:00-11:00, arrive as early as 9:30 for networking, stay
-  later for further discussion and lunch
-
-Audience: Mainly those supporting researchers writing code, but
-researchers and others are welcome.
 :::
 
 
@@ -39,7 +18,9 @@ researchers and others are welcome.
 
 ## Past Seminars
 
-All material from past seminars is available in the {doc}`seminar archive <archive/index>`.
+All material from past seminars is available in the {doc}`seminar
+archive <archive/index>`.  The previous iteration of seminars (more
+Aalto focused) is at {doc}`seminar archive <archive-2020/index>`.
 
 ## About
 
