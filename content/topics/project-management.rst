@@ -67,9 +67,11 @@ but lets us react to the unpredictability.`
 
 
 
-
 Research vs real-life project management
 ----------------------------------------
+
+TODO: any wisdom here?
+
 
 
 Figuring out the scope
@@ -102,7 +104,9 @@ slogans)`.
 Planning
 --------
 
+TODO.
 
+Perhaps covered by :doc:`project-process`.
 
 
 
@@ -197,3 +201,15 @@ Then, you can use these to discuss the various trade-offs and they can
 give meaningful guidance in what the right direction is.  Of course,
 this may not immediately lead you to the plan, but can help you iterate
 further.
+
+
+
+The project manager
+-------------------
+
+TODO: many of our projects are too small to need a dedicated project
+manager, but we need to take on this role anyway.  It should be made
+clear who is currently waiting on who and who is in change of moving
+things forward (my invented "prime mover" term).  There should also be
+some outside person who can make sure things are going OK, even if
+they are not heavily involved themselves.
