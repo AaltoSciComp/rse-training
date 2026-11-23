@@ -32,8 +32,8 @@ things going.*
 
 
 
-Doing what the customer asks
-----------------------------
+Expecting the customer to do all the planning
+---------------------------------------------
 
 The customer comes with some specific request, and we think we should
 do that.  It may a specific idea, or the customer may not know exact
@@ -169,6 +169,24 @@ or is the goal some experimentation?  (Yes, experimenting for some
 fixed time can be a goal).  Structure projects in phases, for example
 "phase 1 is understanding your existing work (the current goal).  Then
 we decide the next phase, with a goal decided then."*
+
+
+
+Under-valuing our role
+----------------------
+
+We take lots of time trying to prepare the customer to manage the
+project with out,s after it's done.  In the end, both sides end up
+frustrated since it's actually quite hard to get up to speed and take
+time to do this.
+
+*While projects should end, it is also permissible for a customer to
+budget long-term funding for us to maintain something and support them
+using it, so that they don't have to become experts themselves.  It
+also provides employment for us.  We should be careful of the
+over-commitment pitfalls.  Minor help could be done as "garage
+support", but we should be careful about having all our time taken by
+this.*
 
 
 
