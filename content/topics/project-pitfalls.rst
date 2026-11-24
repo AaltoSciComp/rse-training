@@ -190,13 +190,16 @@ this.*
 
 
 
-Taking forever analyzing options
---------------------------------
+Taking forever analyzing options (or handing off the analysis to the customers)
+-------------------------------------------------------------------------------
 
 Often times, the best solution isn't clear.  We like analyzing things,
 and like getting things right.  We think forever about things,
 essentially going in circles re-analyzing the options.  Everything is
-a trade-off and some decision needs to be made.
+a trade-off and some decision needs to be made.  We also can't pass
+the burden of dis-entangling all the options onto the customer
+:inote:`[how this happens] often it appears as us presenting
+too-complex decisions to the customer in a hard-to-follow meeting`.
 
 *I think it's worth recognizing these cases, and there is no perfect
 answer.  Consider: who should make the decision about the trade-offs?
