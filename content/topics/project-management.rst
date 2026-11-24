@@ -72,13 +72,15 @@ Terminology
 
 This section presents various project management buzzwords, and it's
 good if you are a bit suspicious about that.  Still, they represent
-some main concepts are important for talking to each other about the
-status of projects.  Don't necessarily use these with customers (or
-even internally, and definitely don't make separate documents with all
-of these names), but consider how they relate to each other and if the
-idea helps :inote:`[small project] for many small projects or where we
-and the customer knows exactly what is needed - but that doesn't mean
-you mentally make sure there is agreement on work`.
+some main concepts which appear in many project management systems and
+are important for talking to each other about projects :inote:`and
+noticing how different people need information`.  Don't necessarily
+use these terms with customers (or even internally, and definitely
+don't make separate documents with all of these names), but consider
+how they relate to each other and what info is needed when
+:inote:`[small project] for many small projects or where we and the
+customer knows exactly what is needed - but that doesn't mean you
+mentally make sure there is agreement on work`.
 
 Statement of Need
     What the customer thinks they need.
@@ -119,7 +121,8 @@ Iterative development
     The idea that instead of planning out a whole project from the
     start, you plan in shorter chunks and adapt to what you see.  Is
     basically standard in any case it can work.  More specific names
-    include "agile", "scrum", and many more.
+    include "agile", "scrum", and many more.  (The alternative is
+    unthinkable in research.)
 
 
 
