@@ -67,10 +67,66 @@ but lets us react to the unpredictability.`
 
 
 
-Research vs real-life project management
-----------------------------------------
+Terminology
+-----------
 
-TODO: any wisdom here?
+This section presents various project management buzzwords, and it's
+good if you are a bit suspicious about that.  Still, they represent
+some main concepts are important for talking to each other about the
+status of projects.  Don't necessarily use these with customers (or
+even internally, and definitely don't make separate documents with all
+of these names), but consider how they relate to each other and if the
+idea helps :inote:`[small project] for many small projects or where we
+and the customer knows exactly what is needed - but that doesn't mean
+you mentally make sure there is agreement on work`.
+
+Statement of Need
+    What the customer thinks they need.
+
+Scope of Work
+    What we actually do, the "scope".  Should be developed after
+    collaboration between customer and engineers.
+
+Project vision
+    Not sure if others use this term, but I see it as a summary of
+    statement of need + scope of work that tells what it's about, so
+    that we and customers can know why it's important and generally
+    what the outcomes would be.  This can be used by customers and
+    RSEs to make sure that the general plan is going OK.
+
+Work breakdown structure
+    Taking the scope and breaking it down into specific tasks to do.
+    Allows you to see dependencies and the schedule.  For a dynamic
+    research project, it may be impossible to know this in advance.
+
+Project brief
+    OK, I am making up a definition here, but I compare this to the
+    "project vision" in that it includes much more of the technical
+    aspects.  This is what a RSE could use to review what is going on
+    and see if there expertise is needed to help with any of the
+    design or work (e.g. data, web services, security, packaging,
+    etc.).
+
+Project manager
+    Manages the project.  Heh.  Realistically, many people in a
+    project are doing many other things at once, or have only a
+    limited view.  The project manager makes sure they have an overall
+    view and the various pieces aren't being forgotten.  *This* is the
+    value for *some* of our projects :inote:`and can usually be done
+    by one of the people in the project`.
+
+Iterative development
+    The idea that instead of planning out a whole project from the
+    start, you plan in shorter chunks and adapt to what you see.  Is
+    basically standard in any case it can work.  More specific names
+    include "agile", "scrum", and many more.
+
+
+
+Research vs non-research project management
+-------------------------------------------
+
+TODO: any wisdom here, beyond what is in other pages?
 
 
 
