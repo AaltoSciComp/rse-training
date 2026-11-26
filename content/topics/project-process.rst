@@ -35,7 +35,11 @@ support).  (Don't forget that, confusingly, sometimes people say
 project). :inote:`[garage support] the below is written for big
 projects, but, in a very brief form, applies to garage support as
 well.  For example, ensure you and customer are both "yes, let's try
-it this way" before diving in.`
+it this way" before diving in.` **In principle, these same
+considerations apply to our own internal work - in some form**
+:inote:`[internal work] In this case, the customer is the one doing
+the project, and the difficulty in keeping aligned is some team
+members to others.  Many of the same challenges still apply.`.
 
 
 

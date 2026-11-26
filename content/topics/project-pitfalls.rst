@@ -210,6 +210,27 @@ options, discussion/understand, then making the least-bad decision.*
 
 
 
+Not considering the cost or difficulty of maintenance
+-----------------------------------------------------
+
+We make a great thing, and hand it off to the researchers, and they
+seem get what they need.  Then, they need to modify and slightly
+adjust things, but it's way over their heads.  They have to keep
+coming back to us for anything they need - or worse they don't come
+back, and our result goes to waste.
+
+*In many projects, the cost of maintenance is far more than the cost
+of the project phase.  For our research projects, where the
+researchers have different skills from us and can't easily contract
+out third parties to do the maintenance, the maintenance cost is even
+more.  We should never get caught up with "perfect" compared to "easy
+to maintain - for us and/or for the customers".  This is the
+engineering mindset.* :inote:`[lifecycle cost] this is what other
+engineers would call this, but maybe we don't want to go that deep
+into buzzwords.`
+
+
+
 Inconsistent names of projects
 ------------------------------
 
