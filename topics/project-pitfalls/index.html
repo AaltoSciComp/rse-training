@@ -1,0 +1,373 @@
+
+
+<!DOCTYPE html>
+<html class="writer-html5" lang="en" data-content_root="../../">
+<head>
+  <meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Project pitfalls &mdash; Aalto RSE training</title>
+      <link rel="stylesheet" type="text/css" href="../../_static/pygments.css?v=b86133f3" />
+      <link rel="stylesheet" type="text/css" href="../../_static/css/theme.css?v=9edc463e" />
+      <link rel="stylesheet" type="text/css" href="../../_static/mystnb.11b39860a7a0cbfd473a3ad8a317855267ff0bd372690045ca344a6b62be495e.css" />
+      <link rel="stylesheet" type="text/css" href="../../_static/copybutton.css?v=76b2166b" />
+      <link rel="stylesheet" type="text/css" href="../../_static/togglebutton.css?v=9c3e77be" />
+      <link rel="stylesheet" type="text/css" href="../../_static/sphinx_lesson.css?v=e9df6548" />
+      <link rel="stylesheet" type="text/css" href="../../_static/term_role_formatting.css?v=4194e21c" />
+      <link rel="stylesheet" type="text/css" href="../../_static/sphinx_rtd_theme_ext_color_contrast.css?v=01954304" />
+      <link rel="stylesheet" type="text/css" href="../../_static/inote.css?v=54d43699" />
+      <link rel="stylesheet" type="text/css" href="../../_static/theme_overrides.css?v=6802f900" />
+
+  
+    <link rel="shortcut icon" href="../../_static/logo-hexagons-02-compact.svg.ico"/>
+      <script src="../../_static/jquery.js?v=5d32c60e"></script>
+      <script src="../../_static/_sphinx_javascript_frameworks_compat.js?v=2cd50e6c"></script>
+      <script src="../../_static/documentation_options.js?v=187304be"></script>
+      <script src="../../_static/doctools.js?v=9bcbadda"></script>
+      <script src="../../_static/sphinx_highlight.js?v=dc90522c"></script>
+      <script src="../../_static/clipboard.min.js?v=a7894cd8"></script>
+      <script src="../../_static/copybutton.js?v=f281be69"></script>
+      <script src="../../_static/minipres.js?v=a0d29692"></script>
+      <script>let toggleHintShow = 'Click to show';</script>
+      <script>let toggleHintHide = 'Click to hide';</script>
+      <script>let toggleOpenOnPrint = 'true';</script>
+      <script src="../../_static/togglebutton.js?v=b8b12719"></script>
+      <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
+    <script src="../../_static/js/theme.js"></script>
+    <link rel="index" title="Index" href="../../genindex/" />
+    <link rel="search" title="Search" href="../../search/" />
+    <link rel="next" title="What is Aalto University?" href="../../aalto/what-is-aalto/" />
+    <link rel="prev" title="Project processes" href="../project-process/" /> 
+</head>
+
+<body class="wy-body-for-nav"> 
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search" >
+
+          
+          
+          <a href="../../" class="icon icon-home">
+            Aalto RSE training
+          </a>
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="../../search/" method="get">
+    <input type="text" name="q" placeholder="Search docs" aria-label="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+        </div><div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+              <ul>
+<li class="toctree-l1"><a class="reference internal" href="../../what-is-a-rse/">What is a RSE at ASC?</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">Roles</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../../roles/">Roles intro</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../roles/project-work/">Project worker</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../roles/garage/">Garage supporter</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../roles/teacher/">Teacher</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../roles/planner/">Project planner</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../roles/technical-mentor/">Technical mentor</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../roles/unit-liaison/">Unit liaison</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../roles/team-leader/">Team leader</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../roles/team-supervisor/">Team supervisor</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../roles/exercise-list/">Exercise list</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">Topical reference</span></p>
+<ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="../">About the “Topics” section</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../psychology-of-support/">Role and psychology of a supporter</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tech/">Tech stuff</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../data-management/">Data management</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../data-storage/">Data storage systems</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../ethics/">Ethics</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../security/">Security</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../sysadmin/">System administration</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../communication/">Communications</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../project-management/">Project management</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../project-process/">Project processes</a></li>
+<li class="toctree-l1 current"><a class="current reference internal" href="#">Project pitfalls</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="#who-is-waiting-for-who">Who is waiting for who?</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#expecting-the-customer-to-do-all-the-planning">Expecting the customer to do all the planning</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#being-afraid-of-uncertainty">Being afraid of uncertainty</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#ai-generated-design-or-starting-example">“AI”-generated design or starting example</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#not-getting-frequent-enough-feedback">Not getting frequent enough feedback</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#doing-what-the-customer-asks">Doing what the customer asks</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#focusing-only-on-the-technical-task">Focusing only on the technical task</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#goal-drift">Goal drift</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#no-specific-end-goal-was-defined">No specific end goal was defined</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#under-valuing-our-role">Under-valuing our role</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#taking-forever-analyzing-options-or-handing-off-the-analysis-to-the-customers">Taking forever analyzing options (or handing off the analysis to the customers)</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#not-considering-the-cost-or-difficulty-of-maintenance">Not considering the cost or difficulty of maintenance</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#inconsistent-names-of-projects">Inconsistent names of projects</a></li>
+</ul>
+</li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">Topical reference (Aalto specific)</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../../aalto/what-is-aalto/">What is Aalto University?</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../aalto/it-in-aalto/">IT in Aalto</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../aalto/research-services-at-aalto/">Research services at Aalto</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">ASC handbook</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../../asc-handbook/">ASC handbook</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../asc-handbook/rse-reporting/">RSE reporting</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../asc-handbook/ref/">Checklists, reference, and material</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">RSE seminar series</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../../seminars/">RSE seminar series</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../seminars/archive/">Archive of Seminars</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../seminars/archive-2020/">Archive 2021-2022</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">Other material</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../../12-session-plan/">12 session training plan</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../other-rse-training/">Other RSE training</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../site-map/">Site map</a></li>
+</ul>
+
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap"><nav class="wy-nav-top" aria-label="Mobile navigation menu" >
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="../../">Aalto RSE training</a>
+      </nav>
+
+      <div class="wy-nav-content">
+        <div class="rst-content style-external-links">
+          <div role="navigation" aria-label="Page navigation">
+  <ul class="wy-breadcrumbs">
+      <li><a href="../../" class="icon icon-home" aria-label="Home"></a></li>
+      <li class="breadcrumb-item active">Project pitfalls</li>
+      <li class="wy-breadcrumbs-aside">
+              <a href="https://github.com/AaltoSciComp/rse-training/blob/main/content/topics/project-pitfalls.rst" class="fa fa-github"> Edit on GitHub</a>
+      </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+             
+  <section id="project-pitfalls">
+<h1>Project pitfalls<a class="headerlink" href="#project-pitfalls" title="Link to this heading"></a></h1>
+<p>This is a list of common pitfalls we have seen when running customer
+projects.  It’s designed to help us learn from the past, so we don’t
+repeat it.  By its nature, this is what goes wrong, not what you can
+do.  See other pages for what you should actually do.</p>
+<p>Things on this page should not be identifiable to projects.  In fact,
+each item on the page should an invented mix of multiple projects, so that
+there is even less chance of any one point identifying something
+<span class="inote" role="button" aria-expanded="false" aria-label="Inline note: note - click to expand" onclick="this.classList.toggle('expanded'); this.setAttribute('aria-expanded', this.classList.contains('expanded'));">[note<span class="inote-content">: machine-generated text is good at hallucinating new project examples for known pitfalls</span>]</span>.</p>
+<section id="who-is-waiting-for-who">
+<h2>Who is waiting for who?<a class="headerlink" href="#who-is-waiting-for-who" title="Link to this heading"></a></h2>
+<p>The customer thinks they are waiting for us to do something, but we
+think we are waiting for the customer to do something.  This can
+easily happen when someone asks a question and it isn’t noticed, but
+can also happen at a larger scale (“I didn’t know we made the final
+decision that we wanted this.”).  Or maybe the project has changed and
+everyone is waiting for someone else to step up and react to the
+change.</p>
+<p><em>We should make sure we know who is the “prime mover” at all times, to
+know who will drive things forward.  One of the initial discussions
+when starting projects should be roles and who is the one keeping
+things going.</em></p>
+</section>
+<section id="expecting-the-customer-to-do-all-the-planning">
+<h2>Expecting the customer to do all the planning<a class="headerlink" href="#expecting-the-customer-to-do-all-the-planning" title="Link to this heading"></a></h2>
+<p>The customer comes with some specific request, and we think we should
+do that.  It may a specific idea, or the customer may not know exact
+details but still have some specific goal in mind.  The customer might
+also request something that is over-built or under-built relative to
+what is needed.</p>
+<p><em>This is called “managing up” or “managing the customer”.  We aren’t
+consultants who want to do whatever and take their money.  We are
+collaborators who have expertise that is different from the customers,
+and we need to work together.  The best engineer projects come from
+the customer needs and engineering</em> both <em>adapting to each other.  We
+are the professionals in projects, so we need to take the lead in
+helping customers figure out what to do.</em></p>
+</section>
+<section id="being-afraid-of-uncertainty">
+<h2>Being afraid of uncertainty<a class="headerlink" href="#being-afraid-of-uncertainty" title="Link to this heading"></a></h2>
+<p>A project comes in, but it’s triggering some of the other pitfalls on
+this page because it seems the customer doesn’t know what should
+happen, or it’s far too uncertain or not clearly defined.  We are
+worried that getting involved will lead to a never-ending project, no
+clear goal, or so on, so suggest that the customer come back when they
+know more.</p>
+<p><em>We should respect uncertainty, not be afraid of it.  This just means
+that we are involved earlier in the research process, or we can have a
+bigger impact by helping the customer do something they couldn’t have
+otherwise.  This requires skillful customer management, to help them
+figure out how to do the project, while not over-committing too soon.
+See the comments elsewhere on project phases and only committing to
+certain phases at a time.  Before doing this, we need to make sure
+there is time and mental energy to get involved at that level.</em></p>
+</section>
+<section id="ai-generated-design-or-starting-example">
+<h2>“AI”-generated design or starting example<a class="headerlink" href="#ai-generated-design-or-starting-example" title="Link to this heading"></a></h2>
+<p>Customers come with a project idea, but it is machine generated.
+Thus, it may not be fully thought out, thus discussions about the
+project go in circles.  Similarly, they may have some initial code,
+but it’s mostly machine generated and thus isn’t a good starting
+point.</p>
+<p><em>We should recognize and ask about these situations, and know we need
+to take step back before diving in.  It may very well mean we need to
+spend a lot of time on initial understanding, before thinking about
+what they are actually asking us to do.</em></p>
+</section>
+<section id="not-getting-frequent-enough-feedback">
+<h2>Not getting frequent enough feedback<a class="headerlink" href="#not-getting-frequent-enough-feedback" title="Link to this heading"></a></h2>
+<p>We work on a project for too long without sharing the progress with
+the customers.  When they do see, it wasn’t quite what they expected.</p>
+<p><em>This is common for many types of projects.  There needs to be
+proactive showing the customer what is happening, making demos,
+getting it into their hands.  If customers don’t have time to follow
+our progress, this is a major red flag.</em></p>
+</section>
+<section id="doing-what-the-customer-asks">
+<h2>Doing what the customer asks<a class="headerlink" href="#doing-what-the-customer-asks" title="Link to this heading"></a></h2>
+<p>Sometimes, the customer needs X, thinks Y can do it, so asks for Y.
+In reality Y wasn’t the best way to get X done, and we waste lots of
+time (this is the definition of the <a class="reference external" href="https://en.wikipedia.org/wiki/XY_problem">XY problem</a>.  In research, this can
+be especially common, since the problem is often under development as
+much as the solution.</p>
+<p><em>Spend an appropriate amount of time understanding the big picture of
+the customer’s ultimate need, not just what they ask for.  If they
+don’t have time for this, consider if we should do the project.  For
+the biggest projects, a few online meetings isn’t enough.  Go visit
+them, join their group meetings, etc.</em></p>
+</section>
+<section id="focusing-only-on-the-technical-task">
+<h2>Focusing only on the technical task<a class="headerlink" href="#focusing-only-on-the-technical-task" title="Link to this heading"></a></h2>
+<p>Customers come and we focus on what they ask.  However, this fits into
+a bigger research group, with different people with different skills.
+“Who can do what?”, “How do people feel about computers?”, “How do
+people relate to the work?”, “Who is able to use and maintain the
+result?”, and so on, are affect the technical outcome.</p>
+<p><em>Like above, one needs to spend enough time getting to know your
+customers to make sure that the technological solution is appropriate
+to them.</em></p>
+</section>
+<section id="goal-drift">
+<h2>Goal drift<a class="headerlink" href="#goal-drift" title="Link to this heading"></a></h2>
+<p>A project starts off with one idea, which may or may not be
+accomplished, but the goal drifts over time.  The project goes on in a
+reactive mode, possibly without a direction or defined end point.  The
+new goals may not be possible, a good idea, or have enough staff to
+accomplish.  We may be acting more like researchers, investigating
+random things, hoping something comes out.</p>
+<p><em>We</em> are <em>researchers and if the project goal involves testing out
+various things and we are paid to do so, this isn’t necessarily bad.
+Still, it good to identify these places and make sure our actions are
+aligned with everyone’s expectations, and there are no “planning
+pitfalls” surfacing.</em></p>
+</section>
+<section id="no-specific-end-goal-was-defined">
+<h2>No specific end goal was defined<a class="headerlink" href="#no-specific-end-goal-was-defined" title="Link to this heading"></a></h2>
+<p>The customer came and it sounded like a good idea.  We got started,
+but it went on, and on, and on.  Eventually, we realized we could
+never end, since there was never an end point.  For anything we do,
+there can be a follow up that is part of the project.</p>
+<p><em>Like above, we</em> are <em>researchers and this is our operating
+environment.  If we are paid to experiment like this, it’s OK that we
+do it.  If not (especially for free projects), this is a bigger
+problem.  I’d recommend being explicit: is this something with a goal,
+or is the goal some experimentation?  (Yes, experimenting for some
+fixed time can be a goal).  Structure projects in phases, for example
+“phase 1 is understanding your existing work (the current goal).  Then
+we decide the next phase, with a goal decided then.”</em></p>
+</section>
+<section id="under-valuing-our-role">
+<h2>Under-valuing our role<a class="headerlink" href="#under-valuing-our-role" title="Link to this heading"></a></h2>
+<p>We take lots of time trying to prepare the customer to manage the
+project with out,s after it’s done.  In the end, both sides end up
+frustrated since it’s actually quite hard to get up to speed and take
+time to do this.</p>
+<p><em>While projects should end, it is also permissible for a customer to
+budget long-term funding for us to maintain something and support them
+using it, so that they don’t have to become experts themselves.  It
+also provides employment for us.  We should be careful of the
+over-commitment pitfalls.  Minor help could be done as “garage
+support”, but we should be careful about having all our time taken by
+this.</em></p>
+</section>
+<section id="taking-forever-analyzing-options-or-handing-off-the-analysis-to-the-customers">
+<h2>Taking forever analyzing options (or handing off the analysis to the customers)<a class="headerlink" href="#taking-forever-analyzing-options-or-handing-off-the-analysis-to-the-customers" title="Link to this heading"></a></h2>
+<p>Often times, the best solution isn’t clear.  We like analyzing things,
+and like getting things right.  We think forever about things,
+essentially going in circles re-analyzing the options.  Everything is
+a trade-off and some decision needs to be made.  We also can’t pass
+the burden of dis-entangling all the options onto the customer
+<span class="inote" role="button" aria-expanded="false" aria-label="Inline note: how this happens - click to expand" onclick="this.classList.toggle('expanded'); this.setAttribute('aria-expanded', this.classList.contains('expanded'));">[how this happens<span class="inote-content">: often it appears as us presenting too-complex decisions to the customer in a hard-to-follow meeting</span>]</span>.</p>
+<p><em>I think it’s worth recognizing these cases, and there is no perfect
+answer.  Consider: who should make the decision about the trade-offs?
+Then, can you summarize the trade-offs (in writing) clearly enough
+that everyone can understand, comment, and then support the decider in
+making the choice?  This hopefully limits the time taken to clarify
+options, discussion/understand, then making the least-bad decision.</em></p>
+</section>
+<section id="not-considering-the-cost-or-difficulty-of-maintenance">
+<h2>Not considering the cost or difficulty of maintenance<a class="headerlink" href="#not-considering-the-cost-or-difficulty-of-maintenance" title="Link to this heading"></a></h2>
+<p>We make a great thing, and hand it off to the researchers, and they
+seem get what they need.  Then, they need to modify and slightly
+adjust things, but it’s way over their heads.  They have to keep
+coming back to us for anything they need - or worse they don’t come
+back, and our result goes to waste.</p>
+<p><em>In many projects, the cost of maintenance is far more than the cost
+of the project phase.  For our research projects, where the
+researchers have different skills from us and can’t easily contract
+out third parties to do the maintenance, the maintenance cost is even
+more.  We should never get caught up with “perfect” compared to “easy
+to maintain - for us and/or for the customers”.  This is the
+engineering mindset.</em> <span class="inote" role="button" aria-expanded="false" aria-label="Inline note: lifecycle cost - click to expand" onclick="this.classList.toggle('expanded'); this.setAttribute('aria-expanded', this.classList.contains('expanded'));">[lifecycle cost<span class="inote-content">: this is what other engineers would call this, but maybe we don’t want to go that deep into buzzwords.</span>]</span></p>
+</section>
+<section id="inconsistent-names-of-projects">
+<h2>Inconsistent names of projects<a class="headerlink" href="#inconsistent-names-of-projects" title="Link to this heading"></a></h2>
+<p>Sometimes we and/or customers don’t invent a consistent,
+representative name of a project.  Then, we get confused about what
+project we are talking about.  Gitlab issue numbers help, but we don’t
+use them in daily conversation.</p>
+<p><em>It’s worth asking the name early on and making sure it is
+representative and distinct.  Note that the first three words are
+sometimes used as a short placeholder in reports, so put the most
+distinct parts at the front (for example “Digital map creation
+webserver”, not “Webserver to make a digital map”).</em></p>
+</section>
+</section>
+
+
+           </div>
+          </div>
+          <footer>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>&#169; Copyright 2026, The contributors.</p>
+  </div>
+
+  Built with <a href="https://www.sphinx-doc.org/">Sphinx</a> using a
+    <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a>
+    provided by <a href="https://readthedocs.org">Read the Docs</a>.
+   
+
+</footer>
+        </div>
+      </div>
+    </section>
+  </div>
+  <script>
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script> 
+
+</body>
+</html>

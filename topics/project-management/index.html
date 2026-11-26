@@ -1,0 +1,383 @@
+
+
+<!DOCTYPE html>
+<html class="writer-html5" lang="en" data-content_root="../../">
+<head>
+  <meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Project management &mdash; Aalto RSE training</title>
+      <link rel="stylesheet" type="text/css" href="../../_static/pygments.css?v=b86133f3" />
+      <link rel="stylesheet" type="text/css" href="../../_static/css/theme.css?v=9edc463e" />
+      <link rel="stylesheet" type="text/css" href="../../_static/mystnb.11b39860a7a0cbfd473a3ad8a317855267ff0bd372690045ca344a6b62be495e.css" />
+      <link rel="stylesheet" type="text/css" href="../../_static/copybutton.css?v=76b2166b" />
+      <link rel="stylesheet" type="text/css" href="../../_static/togglebutton.css?v=9c3e77be" />
+      <link rel="stylesheet" type="text/css" href="../../_static/sphinx_lesson.css?v=e9df6548" />
+      <link rel="stylesheet" type="text/css" href="../../_static/term_role_formatting.css?v=4194e21c" />
+      <link rel="stylesheet" type="text/css" href="../../_static/sphinx_rtd_theme_ext_color_contrast.css?v=01954304" />
+      <link rel="stylesheet" type="text/css" href="../../_static/inote.css?v=54d43699" />
+      <link rel="stylesheet" type="text/css" href="../../_static/theme_overrides.css?v=6802f900" />
+
+  
+    <link rel="shortcut icon" href="../../_static/logo-hexagons-02-compact.svg.ico"/>
+      <script src="../../_static/jquery.js?v=5d32c60e"></script>
+      <script src="../../_static/_sphinx_javascript_frameworks_compat.js?v=2cd50e6c"></script>
+      <script src="../../_static/documentation_options.js?v=187304be"></script>
+      <script src="../../_static/doctools.js?v=9bcbadda"></script>
+      <script src="../../_static/sphinx_highlight.js?v=dc90522c"></script>
+      <script src="../../_static/clipboard.min.js?v=a7894cd8"></script>
+      <script src="../../_static/copybutton.js?v=f281be69"></script>
+      <script src="../../_static/minipres.js?v=a0d29692"></script>
+      <script>let toggleHintShow = 'Click to show';</script>
+      <script>let toggleHintHide = 'Click to hide';</script>
+      <script>let toggleOpenOnPrint = 'true';</script>
+      <script src="../../_static/togglebutton.js?v=b8b12719"></script>
+      <script>var togglebuttonSelector = '.toggle, .admonition.dropdown';</script>
+    <script src="../../_static/js/theme.js"></script>
+    <link rel="index" title="Index" href="../../genindex/" />
+    <link rel="search" title="Search" href="../../search/" />
+    <link rel="next" title="Project processes" href="../project-process/" />
+    <link rel="prev" title="Communications" href="../communication/" /> 
+</head>
+
+<body class="wy-body-for-nav"> 
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side">
+      <div class="wy-side-scroll">
+        <div class="wy-side-nav-search" >
+
+          
+          
+          <a href="../../" class="icon icon-home">
+            Aalto RSE training
+          </a>
+<div role="search">
+  <form id="rtd-search-form" class="wy-form" action="../../search/" method="get">
+    <input type="text" name="q" placeholder="Search docs" aria-label="Search docs" />
+    <input type="hidden" name="check_keywords" value="yes" />
+    <input type="hidden" name="area" value="default" />
+  </form>
+</div>
+        </div><div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+              <ul>
+<li class="toctree-l1"><a class="reference internal" href="../../what-is-a-rse/">What is a RSE at ASC?</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">Roles</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../../roles/">Roles intro</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../roles/project-work/">Project worker</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../roles/garage/">Garage supporter</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../roles/teacher/">Teacher</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../roles/planner/">Project planner</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../roles/technical-mentor/">Technical mentor</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../roles/unit-liaison/">Unit liaison</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../roles/team-leader/">Team leader</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../roles/team-supervisor/">Team supervisor</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../roles/exercise-list/">Exercise list</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">Topical reference</span></p>
+<ul class="current">
+<li class="toctree-l1"><a class="reference internal" href="../">About the “Topics” section</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../psychology-of-support/">Role and psychology of a supporter</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../tech/">Tech stuff</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../data-management/">Data management</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../data-storage/">Data storage systems</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../ethics/">Ethics</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../security/">Security</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../sysadmin/">System administration</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../communication/">Communications</a></li>
+<li class="toctree-l1 current"><a class="current reference internal" href="#">Project management</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="#why-project-management">Why project management?</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#terminology">Terminology</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#research-vs-non-research-project-management">Research vs non-research project management</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#figuring-out-the-scope">Figuring out the scope</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#planning">Planning</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#iteration">Iteration</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#the-project-brief">The project brief</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#present-options-to-the-customer">Present options to the customer</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#the-project-manager">The project manager</a></li>
+</ul>
+</li>
+<li class="toctree-l1"><a class="reference internal" href="../project-process/">Project processes</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../project-pitfalls/">Project pitfalls</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">Topical reference (Aalto specific)</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../../aalto/what-is-aalto/">What is Aalto University?</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../aalto/it-in-aalto/">IT in Aalto</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../aalto/research-services-at-aalto/">Research services at Aalto</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">ASC handbook</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../../asc-handbook/">ASC handbook</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../asc-handbook/rse-reporting/">RSE reporting</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../asc-handbook/ref/">Checklists, reference, and material</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">RSE seminar series</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../../seminars/">RSE seminar series</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../seminars/archive/">Archive of Seminars</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../seminars/archive-2020/">Archive 2021-2022</a></li>
+</ul>
+<p class="caption" role="heading"><span class="caption-text">Other material</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="../../12-session-plan/">12 session training plan</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../other-rse-training/">Other RSE training</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../site-map/">Site map</a></li>
+</ul>
+
+        </div>
+      </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap"><nav class="wy-nav-top" aria-label="Mobile navigation menu" >
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="../../">Aalto RSE training</a>
+      </nav>
+
+      <div class="wy-nav-content">
+        <div class="rst-content style-external-links">
+          <div role="navigation" aria-label="Page navigation">
+  <ul class="wy-breadcrumbs">
+      <li><a href="../../" class="icon icon-home" aria-label="Home"></a></li>
+      <li class="breadcrumb-item active">Project management</li>
+      <li class="wy-breadcrumbs-aside">
+              <a href="https://github.com/AaltoSciComp/rse-training/blob/main/content/topics/project-management.rst" class="fa fa-github"> Edit on GitHub</a>
+      </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+           <div itemprop="articleBody">
+             
+  <section id="project-management">
+<h1>Project management<a class="headerlink" href="#project-management" title="Link to this heading"></a></h1>
+<p>This page gives some RSE-specific advice on project management.  It
+doesn’t replace learning about standard project management practices,
+but is more targeted towards our usual projects.  As wil</p>
+<p><strong>Being research does not mean that project management is easier.  It
+means it’s harder, since understanding the vision and defining the
+scope must be woven together with understanding what is possible, each
+feeding off the other one.</strong> This is far harder than
+<cite>hardness(academic research) +hardness(normal projects)</cite> and the
+difficulty can sometimes increase unexpectedly.</p>
+<div class="admonition seealso">
+<p class="admonition-title">See also</p>
+<ul class="simple">
+<li><p><a class="reference internal" href="../project-process/"><span class="doc">Project processes</span></a>: time-oriented project management guide.</p></li>
+<li><p><a class="reference internal" href="../project-pitfalls/"><span class="doc">Project pitfalls</span></a>: what-goes-wrong oriented project
+management guide.</p></li>
+<li><p><a class="reference internal" href="../../asc-handbook/rse-reporting/projects/"><span class="doc">Project reporting</span></a>: minimum mandatory
+reporting.</p></li>
+</ul>
+</div>
+<section id="why-project-management">
+<h2>Why project management?<a class="headerlink" href="#why-project-management" title="Link to this heading"></a></h2>
+<p>Think of any major enough human achievement <span class="inote" role="button" aria-expanded="false" aria-label="Inline note: note - click to expand" onclick="this.classList.toggle('expanded'); this.setAttribute('aria-expanded', this.classList.contains('expanded'));">[note<span class="inote-content">: landing on the moon is a classic one, but that’s too chiché</span>]</span>.  I’m usually less
+impressed with the technology of the achievement than the way so many
+people were able to work together to get it done.  This is what
+project management achieves.</p>
+<p>If a project is completely clear and routine to everyone from the
+start, collaboration can work without special management effort.  The
+farther you are from that, the more special effort is needed - and the
+more structured it will tend to need to be.  If it doesn’t exist,
+chaos will happen.</p>
+<p>Almost anytime someone comes to us with (in their mind) a very
+difficult project, it hasn’t turned out to be that hard.  The actually
+hard project seem easy but become hard because we aren’t clear on what
+to do, we can’t communicate well, there is no long term plan, it
+shifts over time, and so on.  This is what project management can help
+with <span class="inote" role="button" aria-expanded="false" aria-label="Inline note: research - click to expand" onclick="this.classList.toggle('expanded'); this.setAttribute('aria-expanded', this.classList.contains('expanded'));">[research<span class="inote-content">: it’s not making research any more predictable, but lets us react to the unpredictability.</span>]</span></p>
+</section>
+<section id="terminology">
+<h2>Terminology<a class="headerlink" href="#terminology" title="Link to this heading"></a></h2>
+<p>This section presents various project management buzzwords, and it’s
+good if you are a bit suspicious about that.  Still, they represent
+some main concepts which appear in many project management systems and
+are important for talking to each other about projects <span class="inote" role="button" aria-expanded="false" aria-label="Inline note: note - click to expand" onclick="this.classList.toggle('expanded'); this.setAttribute('aria-expanded', this.classList.contains('expanded'));">[note<span class="inote-content">: and noticing how different people need information</span>]</span>.  Don’t necessarily
+use these terms with customers (or even internally, and definitely
+don’t make separate documents with all of these names), but consider
+how they relate to each other and what info is needed when
+<span class="inote" role="button" aria-expanded="false" aria-label="Inline note: small project - click to expand" onclick="this.classList.toggle('expanded'); this.setAttribute('aria-expanded', this.classList.contains('expanded'));">[small project<span class="inote-content">: for many small projects or where we and the customer knows exactly what is needed - but that doesn’t mean you mentally make sure there is agreement on work</span>]</span>.</p>
+<dl class="simple">
+<dt>Statement of Need</dt><dd><p>What the customer thinks they need.</p>
+</dd>
+<dt>Scope of Work</dt><dd><p>What we actually do, the “scope”.  Should be developed after
+collaboration between customer and engineers.</p>
+</dd>
+<dt>Project vision</dt><dd><p>Not sure if others use this term, but I see it as a summary of
+statement of need + scope of work that tells what it’s about, so
+that we and customers can know why it’s important and generally
+what the outcomes would be.  This can be used by customers and
+RSEs to make sure that the general plan is going OK.</p>
+</dd>
+<dt>Work breakdown structure</dt><dd><p>Taking the scope and breaking it down into specific tasks to do.
+Allows you to see dependencies and the schedule.  For a dynamic
+research project, it may be impossible to know this in advance.</p>
+</dd>
+<dt>Project brief</dt><dd><p>OK, I am making up a definition here, but I compare this to the
+“project vision” in that it includes much more of the technical
+aspects.  This is what a RSE could use to review what is going on
+and see if there expertise is needed to help with any of the
+design or work (e.g. data, web services, security, packaging,
+etc.).</p>
+</dd>
+<dt>Project manager</dt><dd><p>Manages the project.  Heh.  Realistically, many people in a
+project are doing many other things at once, or have only a
+limited view.  The project manager makes sure they have an overall
+view and the various pieces aren’t being forgotten.  <em>This</em> is the
+value for <em>some</em> of our projects <span class="inote" role="button" aria-expanded="false" aria-label="Inline note: note - click to expand" onclick="this.classList.toggle('expanded'); this.setAttribute('aria-expanded', this.classList.contains('expanded'));">[note<span class="inote-content">: and can usually be done by one of the people in the project</span>]</span>.</p>
+</dd>
+<dt>Iterative development</dt><dd><p>The idea that instead of planning out a whole project from the
+start, you plan in shorter chunks and adapt to what you see.  Is
+basically standard in any case it can work.  More specific names
+include “agile”, “scrum”, and many more.  (The alternative is
+unthinkable in research.)</p>
+</dd>
+</dl>
+</section>
+<section id="research-vs-non-research-project-management">
+<h2>Research vs non-research project management<a class="headerlink" href="#research-vs-non-research-project-management" title="Link to this heading"></a></h2>
+<p>TODO: any wisdom here, beyond what is in other pages?</p>
+</section>
+<section id="figuring-out-the-scope">
+<h2>Figuring out the scope<a class="headerlink" href="#figuring-out-the-scope" title="Link to this heading"></a></h2>
+<p>Go slow in this phase.  Multiple sessions of building up understanding
+is better than long emails with many questions.</p>
+<p>There is a difference between the <strong>statement of need</strong> (what the
+customer wants) and <strong>scope of work</strong> (what we will actually do).
+Don’t confuse them or ask the customer to decide the scope of work for
+us (but also don’t do it without their input).</p>
+<p>You may need to iterate many “bad” ideas to get good ones.  This is
+why you should propose (multiple) reasonable-ish courses of action for
+discussion, and maybe it will improve from there.  For a well-known
+field (for example civil engineering) the domain of “what can be done”
+is relatively well known.  Not so for us.</p>
+<p>And… how to figure out what to do?  Surely you didn’t think this
+short page can teach you that.  Finding out what to do is hard, there
+are many buzzwords like “design thinking”, “engineering thinking”,
+“radical creativity” <span class="inote" role="button" aria-expanded="false" aria-label="Inline note: note - click to expand" onclick="this.classList.toggle('expanded'); this.setAttribute('aria-expanded', this.classList.contains('expanded'));">[note<span class="inote-content">: !!!</span>]</span> and more.  Realize it’s a
+combination of science and art meeting technology and business
+<span class="inote" role="button" aria-expanded="false" aria-label="Inline note: note - click to expand" onclick="this.classList.toggle('expanded'); this.setAttribute('aria-expanded', this.classList.contains('expanded'));">[note<span class="inote-content">: !!! (these are funny because they are Aalto University slogans)</span>]</span>.</p>
+</section>
+<section id="planning">
+<h2>Planning<a class="headerlink" href="#planning" title="Link to this heading"></a></h2>
+<p>TODO.</p>
+<p>Perhaps covered by <a class="reference internal" href="../project-process/"><span class="doc">Project processes</span></a>.</p>
+</section>
+<section id="iteration">
+<h2>Iteration<a class="headerlink" href="#iteration" title="Link to this heading"></a></h2>
+<p>We know about iteration from software development: agile, sprints,
+scrum, and so on.  It’s only natural to us, and this should still be
+used.  But at the research level, iteration can also be <strong>big phases
+of research</strong>, which is a research, not software development,
+consideration.</p>
+<div class="admonition-example-data-collection admonition">
+<p class="admonition-title">Example: data collection</p>
+<p>I was working on a data collection project, and the broad vision
+was to get mobile phone data from people in a hospital environment.
+The whole project was implemented as <strong>phases</strong>, where each phase
+provides some useful result, even without the other phases.</p>
+<ul class="simple">
+<li><p>Investigate different Android apps and run them on my own phone.
+Give some useful figures to be included in presentations about
+the power of data.</p></li>
+<li><p>Run it on several group member’s phones as a test.</p></li>
+<li><p>Run a student course and let the students use the tools.
+Students worked as researchers, understanding the data, with
+access only to their data, and their final report was about what
+the data told them.  This helped to guide future research.</p></li>
+<li><p>Yet another student course.</p></li>
+<li><p>Pilot with some people in a hospital.</p></li>
+<li><p>Full study with some people in a hospital.</p></li>
+</ul>
+<p>The phases were not just useful for the technical development, but
+also helping the relevant ethics/legal staff to get used to our
+work before we got to more demanding things.  The project could not
+have been done skipping many of the middle steps, and overall it
+took years - yet each phase was designed to provide some benefit.
+This is kind of an extreme example, but it’s representative of how
+to design things.  It requires engineering-application cooperation
+to figure this out.</p>
+</div>
+<p>Customers will often only have some end goal in mind, and often think
+that requesting the end goal will work.  We need to tell them the
+risks of going straight to the end goal, and then also help to come up
+with the right phases that are <em>useful to them</em>.  This requires
+knowing a lot about their work - maybe as far as shadowing them some.</p>
+<p>This can also be simpler, for example “before we can plan turning your
+software into a web server, we have to figure out your script.  We
+will first do that before even planning out the web server part.”</p>
+<p>Creating the project phases is usually one of the hardest part of
+planning.</p>
+</section>
+<section id="the-project-brief">
+<h2>The project brief<a class="headerlink" href="#the-project-brief" title="Link to this heading"></a></h2>
+<p>When working on projects, we often need to describe the project to
+others.  This can be summarizing the actions to the customer, or
+summarizing the project to other internal people for their own
+specific feedback (ethics, security, web dev, etc.) <span class="inote" role="button" aria-expanded="false" aria-label="Inline note: note - click to expand" onclick="this.classList.toggle('expanded'); this.setAttribute('aria-expanded', this.classList.contains('expanded'));">[note<span class="inote-content">: For a project to be successful, you need to be able to efficiently use the knowledge of these experts, given their limited time. Don’t make them dig to figure out what the story is</span>]</span>.  This quick summary is the
+<strong>project brief</strong>.  By having one description (which is at a good
+level of detail), we can more easily take advantage of all of our
+skills.  (See also <a class="reference internal" href="../communication/"><span class="doc">Communications</span></a>)</p>
+<p>This is not the current status report.  This is somehow a summary of
+the customer’s needs, scope of work, expected challenges and what
+happens for them.  It can be updated as the project develops, but
+(again) isn’t simply the current status.  Think of it this way: <strong>If a
+random RSE reads the project brief, are they able to tell if they have
+any important information or skills they should offer to the
+project?</strong> <span class="inote" role="button" aria-expanded="false" aria-label="Inline note: note - click to expand" onclick="this.classList.toggle('expanded'); this.setAttribute('aria-expanded', this.classList.contains('expanded'));">[note<span class="inote-content">: For example, “we have tried that before and it wasn’t a good idea”, “I think this needs ethics review”, etc.</span>]</span></p>
+</section>
+<section id="present-options-to-the-customer">
+<h2>Present options to the customer<a class="headerlink" href="#present-options-to-the-customer" title="Link to this heading"></a></h2>
+<p>It can be overwhelming to try to figure out the right path -
+especially when there is no one perfect path.  It’s hard to tell a
+customer the whole range of possibilities and help them make a
+meaningful decision (unless they are already very good at the topic).</p>
+<p>To simplify, can you narrow things down into some representative
+options, for example 3-4, and present these along with the trade-offs.
+Then, you can use these to discuss the various trade-offs and they can
+give meaningful guidance in what the right direction is.  Of course,
+this may not immediately lead you to the plan, but can help you iterate
+further.</p>
+</section>
+<section id="the-project-manager">
+<h2>The project manager<a class="headerlink" href="#the-project-manager" title="Link to this heading"></a></h2>
+<p>TODO: many of our projects are too small to need a dedicated project
+manager, but we need to take on this role anyway.  It should be made
+clear who is currently waiting on who and who is in change of moving
+things forward (my invented “prime mover” term).  There should also be
+some outside person who can make sure things are going OK, even if
+they are not heavily involved themselves.</p>
+</section>
+</section>
+
+
+           </div>
+          </div>
+          <footer>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <p>&#169; Copyright 2026, The contributors.</p>
+  </div>
+
+  Built with <a href="https://www.sphinx-doc.org/">Sphinx</a> using a
+    <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a>
+    provided by <a href="https://readthedocs.org">Read the Docs</a>.
+   
+
+</footer>
+        </div>
+      </div>
+    </section>
+  </div>
+  <script>
+      jQuery(function () {
+          SphinxRtdTheme.Navigation.enable(true);
+      });
+  </script> 
+
+</body>
+</html>
